@@ -1,0 +1,545 @@
+Provinsi,Partai,Jumlah_Suara
+Aceh,PKB,103406
+Aceh,Gerindra,376784
+Aceh,PDIP,111381
+Aceh,Golkar,325421
+Aceh,NasDem,177009
+Aceh,Garuda,9391
+Aceh,Berkarya,66024
+Aceh,PKS,209011
+Aceh,Perindo,18266
+Aceh,PPP,215520
+Aceh,PSI,28922
+Aceh,PAN,318202
+Aceh,Hanura,25686
+Aceh,Demokrat,249062
+Aceh,PBB,40653
+Aceh,PKPI,8471
+Bali,PKB,49695
+Bali,Gerindra,1096
+Bali,PDIP,1257590
+Bali,Golkar,382607
+Bali,NasDem,102966
+Bali,Garuda,8825
+Bali,Berkarya,42158
+Bali,PKS,39024
+Bali,Perindo,36467
+Bali,PPP,12195
+Bali,PSI,55399
+Bali,PAN,8136
+Bali,Hanura,84012
+Bali,Demokrat,11883
+Bali,PBB,2445
+Bali,PKPI,3417
+Banten,PKB,447805
+Banten,Gerindra,668616
+Banten,PDIP,914719
+Banten,Golkar,683558
+Banten,NasDem,307248
+Banten,Garuda,14738
+Banten,Berkarya,196190
+Banten,PKS,678040
+Banten,Perindo,103576
+Banten,PPP,238816
+Banten,PSI,22174
+Banten,PAN,350025
+Banten,Hanura,108965
+Banten,Demokrat,553391
+Banten,PBB,51416
+Banten,PKPI,10485
+Bengkulu,PKB,76751
+Bengkulu,Gerindra,130846
+Bengkulu,PDIP,137006
+Bengkulu,Golkar,136581
+Bengkulu,NasDem,94172
+Bengkulu,Garuda,7582
+Bengkulu,Berkarya,23633
+Bengkulu,PKS,98952
+Bengkulu,Perindo,37657
+Bengkulu,PPP,30394
+Bengkulu,PSI,17759
+Bengkulu,PAN,12199
+Bengkulu,Hanura,16392
+Bengkulu,Demokrat,38426
+Bengkulu,PBB,821
+Bengkulu,PKPI,10633
+Daerah Istimewa Yogyakarta,PKB,264698
+Daerah Istimewa Yogyakarta,Gerindra,191346
+Daerah Istimewa Yogyakarta,PDIP,654088
+Daerah Istimewa Yogyakarta,Golkar,152903
+Daerah Istimewa Yogyakarta,NasDem,16668
+Daerah Istimewa Yogyakarta,Garuda,8675
+Daerah Istimewa Yogyakarta,Berkarya,60611
+Daerah Istimewa Yogyakarta,PKS,229815
+Daerah Istimewa Yogyakarta,Perindo,27364
+Daerah Istimewa Yogyakarta,PPP,62357
+Daerah Istimewa Yogyakarta,PSI,45347
+Daerah Istimewa Yogyakarta,PAN,237731
+Daerah Istimewa Yogyakarta,Hanura,6987
+Daerah Istimewa Yogyakarta,Demokrat,62708
+Daerah Istimewa Yogyakarta,PBB,9378
+Daerah Istimewa Yogyakarta,PKPI,3667
+Dki Jakarta,PKB,304163
+Dki Jakarta,Gerindra,988859
+Dki Jakarta,PDIP,1625042
+Dki Jakarta,Golkar,322764
+Dki Jakarta,NasDem,334660
+Dki Jakarta,Garuda,16804
+Dki Jakarta,Berkarya,84770
+Dki Jakarta,PKS,1116705
+Dki Jakarta,Perindo,197751
+Dki Jakarta,PPP,178631
+Dki Jakarta,PSI,583071
+Dki Jakarta,PAN,412843
+Dki Jakarta,Hanura,47729
+Dki Jakarta,Demokrat,360303
+Dki Jakarta,PBB,14336
+Dki Jakarta,PKPI,12844
+Gorontalo,PKB,11973
+Gorontalo,Gerindra,87748
+Gorontalo,PDIP,37423
+Gorontalo,Golkar,19466
+Gorontalo,NasDem,169509
+Gorontalo,Garuda,239
+Gorontalo,Berkarya,13786
+Gorontalo,PKS,24945
+Gorontalo,Perindo,6116
+Gorontalo,PPP,69784
+Gorontalo,PSI,3491
+Gorontalo,PAN,2184
+Gorontalo,Hanura,7041
+Gorontalo,Demokrat,35212
+Gorontalo,PBB,1937
+Gorontalo,PKPI,590
+Jambi,PKB,120092
+Jambi,Gerindra,224103
+Jambi,PDIP,233633
+Jambi,Golkar,360297
+Jambi,NasDem,124126
+Jambi,Garuda,7857
+Jambi,Berkarya,5077
+Jambi,PKS,10328
+Jambi,Perindo,55752
+Jambi,PPP,81049
+Jambi,PSI,37461
+Jambi,PAN,196085
+Jambi,Hanura,13944
+Jambi,Demokrat,156812
+Jambi,PBB,18212
+Jambi,PKPI,2601
+Jawa Barat,PKB,1791101
+Jawa Barat,Gerindra,4320050
+Jawa Barat,PDIP,3510525
+Jawa Barat,Golkar,2858727
+Jawa Barat,NasDem,1131262
+Jawa Barat,Garuda,103905
+Jawa Barat,Berkarya,530850
+Jawa Barat,PKS,3080029
+Jawa Barat,Perindo,695083
+Jawa Barat,PPP,1044141
+Jawa Barat,PSI,319071
+Jawa Barat,PAN,1601550
+Jawa Barat,Hanura,238336
+Jawa Barat,Demokrat,1459054
+Jawa Barat,PBB,236304
+Jawa Barat,PKPI,45372
+Jawa Tengah,PKB,2237994
+Jawa Tengah,Gerindra,1701310
+Jawa Tengah,PDIP,5251813
+Jawa Tengah,Golkar,2213832
+Jawa Tengah,NasDem,1303689
+Jawa Tengah,Garuda,60036
+Jawa Tengah,Berkarya,301012
+Jawa Tengah,PKS,962799
+Jawa Tengah,Perindo,418942
+Jawa Tengah,PPP,821964
+Jawa Tengah,PSI,136181
+Jawa Tengah,PAN,493799
+Jawa Tengah,Hanura,128056
+Jawa Tengah,Demokrat,885136
+Jawa Tengah,PBB,38231
+Jawa Tengah,PKPI,21538
+Jawa Timur,PKB,4198551
+Jawa Timur,Gerindra,2253060
+Jawa Timur,PDIP,4070942
+Jawa Timur,Golkar,1895165
+Jawa Timur,NasDem,2190169
+Jawa Timur,Garuda,72168
+Jawa Timur,Berkarya,233614
+Jawa Timur,PKS,862840
+Jawa Timur,Perindo,405957
+Jawa Timur,PPP,952856
+Jawa Timur,PSI,208553
+Jawa Timur,PAN,839862
+Jawa Timur,Hanura,209517
+Jawa Timur,Demokrat,1697874
+Jawa Timur,PBB,93717
+Jawa Timur,PKPI,30334
+Kalimantan Barat,PKB,191462
+Kalimantan Barat,Gerindra,264506
+Kalimantan Barat,PDIP,532699
+Kalimantan Barat,Golkar,273400
+Kalimantan Barat,NasDem,271941
+Kalimantan Barat,Garuda,10930
+Kalimantan Barat,Berkarya,58200
+Kalimantan Barat,PKS,167591
+Kalimantan Barat,Perindo,82728
+Kalimantan Barat,PPP,61084
+Kalimantan Barat,PSI,30145
+Kalimantan Barat,PAN,87237
+Kalimantan Barat,Hanura,80680
+Kalimantan Barat,Demokrat,173880
+Kalimantan Barat,PBB,11161
+Kalimantan Barat,PKPI,12590
+Kalimantan Selatan,PKB,182458
+Kalimantan Selatan,Gerindra,288899
+Kalimantan Selatan,PDIP,334396
+Kalimantan Selatan,Golkar,343144
+Kalimantan Selatan,NasDem,99837
+Kalimantan Selatan,Garuda,5036
+Kalimantan Selatan,Berkarya,54557
+Kalimantan Selatan,PKS,203223
+Kalimantan Selatan,Perindo,41336
+Kalimantan Selatan,PPP,157246
+Kalimantan Selatan,PSI,16907
+Kalimantan Selatan,PAN,172943
+Kalimantan Selatan,Hanura,16328
+Kalimantan Selatan,Demokrat,68725
+Kalimantan Selatan,PBB,11108
+Kalimantan Selatan,PKPI,4312
+Kalimantan Tengah,PKB,69565
+Kalimantan Tengah,Gerindra,101452
+Kalimantan Tengah,PDIP,354331
+Kalimantan Tengah,Golkar,128436
+Kalimantan Tengah,NasDem,166602
+Kalimantan Tengah,Garuda,9076
+Kalimantan Tengah,Berkarya,26073
+Kalimantan Tengah,PKS,3711
+Kalimantan Tengah,Perindo,46078
+Kalimantan Tengah,PPP,63865
+Kalimantan Tengah,PSI,11941
+Kalimantan Tengah,PAN,80193
+Kalimantan Tengah,Hanura,12914
+Kalimantan Tengah,Demokrat,87504
+Kalimantan Tengah,PBB,4759
+Kalimantan Tengah,PKPI,294
+Kalimantan Timur,PKB,78
+Kalimantan Timur,Gerindra,194259
+Kalimantan Timur,PDIP,333404
+Kalimantan Timur,Golkar,350829
+Kalimantan Timur,NasDem,137593
+Kalimantan Timur,Garuda,4852
+Kalimantan Timur,Berkarya,41907
+Kalimantan Timur,PKS,159557
+Kalimantan Timur,Perindo,67635
+Kalimantan Timur,PPP,98401
+Kalimantan Timur,PSI,24247
+Kalimantan Timur,PAN,95401
+Kalimantan Timur,Hanura,28034
+Kalimantan Timur,Demokrat,112987
+Kalimantan Timur,PBB,12558
+Kalimantan Timur,PKPI,2883
+Kalimantan Utara,PKB,257
+Kalimantan Utara,Gerindra,1748
+Kalimantan Utara,PDIP,7388
+Kalimantan Utara,Golkar,24794
+Kalimantan Utara,NasDem,62971
+Kalimantan Utara,Garuda,1209
+Kalimantan Utara,Berkarya,4851
+Kalimantan Utara,PKS,21718
+Kalimantan Utara,Perindo,7725
+Kalimantan Utara,PPP,1179
+Kalimantan Utara,PSI,4437
+Kalimantan Utara,PAN,21391
+Kalimantan Utara,Hanura,9317
+Kalimantan Utara,Demokrat,37616
+Kalimantan Utara,PBB,2239
+Kalimantan Utara,PKPI,1008
+Kepulauan Bangka Belitung,PKB,19227
+Kepulauan Bangka Belitung,Gerindra,75153
+Kepulauan Bangka Belitung,PDIP,169644
+Kepulauan Bangka Belitung,Golkar,101681
+Kepulauan Bangka Belitung,NasDem,83447
+Kepulauan Bangka Belitung,Garuda,3722
+Kepulauan Bangka Belitung,Berkarya,13193
+Kepulauan Bangka Belitung,PKS,3428
+Kepulauan Bangka Belitung,Perindo,16029
+Kepulauan Bangka Belitung,PPP,36554
+Kepulauan Bangka Belitung,PSI,4639
+Kepulauan Bangka Belitung,PAN,1483
+Kepulauan Bangka Belitung,Hanura,12084
+Kepulauan Bangka Belitung,Demokrat,58426
+Kepulauan Bangka Belitung,PBB,37524
+Kepulauan Bangka Belitung,PKPI,1735
+Kepulauan Riau,PKB,34342
+Kepulauan Riau,Gerindra,77798
+Kepulauan Riau,PDIP,148887
+Kepulauan Riau,Golkar,173998
+Kepulauan Riau,NasDem,123341
+Kepulauan Riau,Garuda,379
+Kepulauan Riau,Berkarya,16073
+Kepulauan Riau,PKS,80344
+Kepulauan Riau,Perindo,18256
+Kepulauan Riau,PPP,19259
+Kepulauan Riau,PSI,2058
+Kepulauan Riau,PAN,101265
+Kepulauan Riau,Hanura,16054
+Kepulauan Riau,Demokrat,76884
+Kepulauan Riau,PBB,7534
+Kepulauan Riau,PKPI,994
+Lampung,PKB,433087
+Lampung,Gerindra,488838
+Lampung,PDIP,887416
+Lampung,Golkar,509014
+Lampung,NasDem,365723
+Lampung,Garuda,27781
+Lampung,Berkarya,95299
+Lampung,PKS,340867
+Lampung,Perindo,68184
+Lampung,PPP,112108
+Lampung,PSI,58891
+Lampung,PAN,336788
+Lampung,Hanura,40637
+Lampung,Demokrat,491786
+Lampung,PBB,8394
+Lampung,PKPI,8699
+Maluku,PKB,58701
+Maluku,Gerindra,94298
+Maluku,PDIP,197648
+Maluku,Golkar,93158
+Maluku,NasDem,118307
+Maluku,Garuda,7613
+Maluku,Berkarya,28942
+Maluku,PKS,97765
+Maluku,Perindo,38375
+Maluku,PPP,41045
+Maluku,PSI,1738
+Maluku,PAN,33796
+Maluku,Hanura,45426
+Maluku,Demokrat,6222
+Maluku,PBB,506
+Maluku,PKPI,9758
+Maluku Utara,PKB,57339
+Maluku Utara,Gerindra,33333
+Maluku Utara,PDIP,111296
+Maluku Utara,Golkar,93484
+Maluku Utara,NasDem,62549
+Maluku Utara,Garuda,2408
+Maluku Utara,Berkarya,21877
+Maluku Utara,PKS,57293
+Maluku Utara,Perindo,37781
+Maluku Utara,PPP,15861
+Maluku Utara,PSI,8425
+Maluku Utara,PAN,162
+Maluku Utara,Hanura,28025
+Maluku Utara,Demokrat,4318
+Maluku Utara,PBB,8505
+Maluku Utara,PKPI,3527
+Nusa Tenggara Barat,PKB,149789
+Nusa Tenggara Barat,Gerindra,443321
+Nusa Tenggara Barat,PDIP,195394
+Nusa Tenggara Barat,Golkar,334570
+Nusa Tenggara Barat,NasDem,161405
+Nusa Tenggara Barat,Garuda,32648
+Nusa Tenggara Barat,Berkarya,118515
+Nusa Tenggara Barat,PKS,293473
+Nusa Tenggara Barat,Perindo,63701
+Nusa Tenggara Barat,PPP,217804
+Nusa Tenggara Barat,PSI,24162
+Nusa Tenggara Barat,PAN,200435
+Nusa Tenggara Barat,Hanura,102095
+Nusa Tenggara Barat,Demokrat,207732
+Nusa Tenggara Barat,PBB,73290
+Nusa Tenggara Barat,PKPI,8422
+Nusa Tenggara Timur,PKB,199250
+Nusa Tenggara Timur,Gerindra,76437
+Nusa Tenggara Timur,PDIP,450635
+Nusa Tenggara Timur,Golkar,365266
+Nusa Tenggara Timur,NasDem,510574
+Nusa Tenggara Timur,Garuda,29665
+Nusa Tenggara Timur,Berkarya,73991
+Nusa Tenggara Timur,PKS,52239
+Nusa Tenggara Timur,Perindo,126106
+Nusa Tenggara Timur,PPP,30420
+Nusa Tenggara Timur,PSI,69857
+Nusa Tenggara Timur,PAN,158618
+Nusa Tenggara Timur,Hanura,135946
+Nusa Tenggara Timur,Demokrat,202100
+Nusa Tenggara Timur,PBB,9152
+Nusa Tenggara Timur,PKPI,16115
+Papua,PKB,399011
+Papua,Gerindra,221282
+Papua,PDIP,368618
+Papua,Golkar,286762
+Papua,NasDem,787753
+Papua,Garuda,25433
+Papua,Berkarya,52143
+Papua,PKS,80318
+Papua,Perindo,89035
+Papua,PPP,45435
+Papua,PSI,75349
+Papua,PAN,443393
+Papua,Hanura,89401
+Papua,Demokrat,313485
+Papua,PBB,1584
+Papua,PKPI,216
+Papua Barat,PKB,29843
+Papua Barat,Gerindra,73961
+Papua Barat,PDIP,101713
+Papua Barat,Golkar,103012
+Papua Barat,NasDem,109157
+Papua Barat,Garuda,3391
+Papua Barat,Berkarya,11016
+Papua Barat,PKS,16162
+Papua Barat,Perindo,2001
+Papua Barat,PPP,8089
+Papua Barat,PSI,6919
+Papua Barat,PAN,26429
+Papua Barat,Hanura,1575
+Papua Barat,Demokrat,68147
+Papua Barat,PBB,3891
+Papua Barat,PKPI,3617
+Riau,PKB,187154
+Riau,Gerindra,231171
+Riau,PDIP,378913
+Riau,Golkar,351931
+Riau,NasDem,163076
+Riau,Garuda,14318
+Riau,Berkarya,71459
+Riau,PKS,257929
+Riau,Perindo,76762
+Riau,PPP,169663
+Riau,PSI,37681
+Riau,PAN,207941
+Riau,Hanura,67161
+Riau,Demokrat,326694
+Riau,PBB,17158
+Riau,PKPI,5710
+Sulawesi Barat,PKB,43449
+Sulawesi Barat,Gerindra,96845
+Sulawesi Barat,PDIP,214365
+Sulawesi Barat,Golkar,52186
+Sulawesi Barat,NasDem,93943
+Sulawesi Barat,Garuda,6463
+Sulawesi Barat,Berkarya,10092
+Sulawesi Barat,PKS,10219
+Sulawesi Barat,Perindo,10601
+Sulawesi Barat,PPP,11849
+Sulawesi Barat,PSI,4055
+Sulawesi Barat,PAN,28872
+Sulawesi Barat,Hanura,26208
+Sulawesi Barat,Demokrat,83499
+Sulawesi Barat,PBB,451
+Sulawesi Barat,PKPI,1541
+Sulawesi Selatan,PKB,221207
+Sulawesi Selatan,Gerindra,443729
+Sulawesi Selatan,PDIP,259537
+Sulawesi Selatan,Golkar,833382
+Sulawesi Selatan,NasDem,684533
+Sulawesi Selatan,Garuda,25857
+Sulawesi Selatan,Berkarya,87719
+Sulawesi Selatan,PKS,247798
+Sulawesi Selatan,Perindo,142521
+Sulawesi Selatan,PPP,338093
+Sulawesi Selatan,PSI,65536
+Sulawesi Selatan,PAN,418440
+Sulawesi Selatan,Hanura,12991
+Sulawesi Selatan,Demokrat,398047
+Sulawesi Selatan,PBB,36289
+Sulawesi Selatan,PKPI,7683
+Sulawesi Tengah,PKB,959
+Sulawesi Tengah,Gerindra,207117
+Sulawesi Tengah,PDIP,165504
+Sulawesi Tengah,Golkar,194712
+Sulawesi Tengah,NasDem,271513
+Sulawesi Tengah,Garuda,26818
+Sulawesi Tengah,Berkarya,41019
+Sulawesi Tengah,PKS,96004
+Sulawesi Tengah,Perindo,58938
+Sulawesi Tengah,PPP,37877
+Sulawesi Tengah,PSI,31837
+Sulawesi Tengah,PAN,97608
+Sulawesi Tengah,Hanura,73881
+Sulawesi Tengah,Demokrat,127562
+Sulawesi Tengah,PBB,20377
+Sulawesi Tengah,PKPI,3657
+Sulawesi Tenggara,PKB,60902
+Sulawesi Tenggara,Gerindra,151872
+Sulawesi Tenggara,PDIP,183197
+Sulawesi Tenggara,Golkar,203794
+Sulawesi Tenggara,NasDem,95522
+Sulawesi Tenggara,Garuda,6226
+Sulawesi Tenggara,Berkarya,28189
+Sulawesi Tenggara,PKS,85423
+Sulawesi Tenggara,Perindo,20479
+Sulawesi Tenggara,PPP,65284
+Sulawesi Tenggara,PSI,1768
+Sulawesi Tenggara,PAN,158621
+Sulawesi Tenggara,Hanura,12039
+Sulawesi Tenggara,Demokrat,163684
+Sulawesi Tenggara,PBB,33562
+Sulawesi Tenggara,PKPI,1498
+Sulawesi Utara,PKB,1753
+Sulawesi Utara,Gerindra,61811
+Sulawesi Utara,PDIP,564703
+Sulawesi Utara,Golkar,236697
+Sulawesi Utara,NasDem,248666
+Sulawesi Utara,Garuda,10005
+Sulawesi Utara,Berkarya,20221
+Sulawesi Utara,PKS,17453
+Sulawesi Utara,Perindo,51437
+Sulawesi Utara,PPP,2799
+Sulawesi Utara,PSI,26953
+Sulawesi Utara,PAN,80732
+Sulawesi Utara,Hanura,3763
+Sulawesi Utara,Demokrat,69943
+Sulawesi Utara,PBB,3736
+Sulawesi Utara,PKPI,3862
+Sumatera Barat,PKB,88961
+Sumatera Barat,Gerindra,560835
+Sumatera Barat,PDIP,134232
+Sumatera Barat,Golkar,202182
+Sumatera Barat,NasDem,206432
+Sumatera Barat,Garuda,17510
+Sumatera Barat,Berkarya,55667
+Sumatera Barat,PKS,356294
+Sumatera Barat,Perindo,43510
+Sumatera Barat,PPP,141865
+Sumatera Barat,PSI,38373
+Sumatera Barat,PAN,412483
+Sumatera Barat,Hanura,47790
+Sumatera Barat,Demokrat,371058
+Sumatera Barat,PBB,45873
+Sumatera Barat,PKPI,4322
+Sumatera Selatan,PKB,317657
+Sumatera Selatan,Gerindra,648303
+Sumatera Selatan,PDIP,305031
+Sumatera Selatan,Golkar,671290
+Sumatera Selatan,NasDem,641144
+Sumatera Selatan,Garuda,29097
+Sumatera Selatan,Berkarya,64213
+Sumatera Selatan,PKS,266130
+Sumatera Selatan,Perindo,121328
+Sumatera Selatan,PPP,71913
+Sumatera Selatan,PSI,50496
+Sumatera Selatan,PAN,268712
+Sumatera Selatan,Hanura,86437
+Sumatera Selatan,Demokrat,396609
+Sumatera Selatan,PBB,56173
+Sumatera Selatan,PKPI,10128
+Sumatera Utara,PKB,247298
+Sumatera Utara,Gerindra,904054
+Sumatera Utara,PDIP,1404548
+Sumatera Utara,Golkar,502691
+Sumatera Utara,NasDem,643571
+Sumatera Utara,Garuda,19060
+Sumatera Utara,Berkarya,37704
+Sumatera Utara,PKS,634787
+Sumatera Utara,Perindo,286791
+Sumatera Utara,PPP,151320
+Sumatera Utara,PSI,99682
+Sumatera Utara,PAN,520824
+Sumatera Utara,Hanura,125842
+Sumatera Utara,Demokrat,391489
+Sumatera Utara,PBB,32791
+Sumatera Utara,PKPI,17960
