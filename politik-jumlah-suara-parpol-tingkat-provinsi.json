@@ -3,3811 +3,3811 @@
     "success": true,
     "data": [
         {
-            "id": 147,
+            "id": 691,
             "partai": "PDIP",
             "jumlah_suara": 5769664,
-            "updated_at": "2022-10-27T20:49:24.274Z",
+            "updated_at": "2022-10-28T05:18:24.447Z",
             "province": "Jawa Tengah"
         },
         {
-            "id": 163,
+            "id": 707,
             "partai": "PDIP",
             "jumlah_suara": 4319666,
-            "updated_at": "2022-10-27T20:49:24.274Z",
+            "updated_at": "2022-10-28T05:18:24.447Z",
             "province": "Jawa Timur"
         },
         {
-            "id": 161,
+            "id": 705,
             "partai": "PKB",
             "jumlah_suara": 4198551,
-            "updated_at": "2022-10-27T20:49:24.274Z",
+            "updated_at": "2022-10-28T05:18:24.447Z",
             "province": "Jawa Timur"
         },
         {
-            "id": 130,
+            "id": 674,
             "partai": "GERINDRA",
             "jumlah_suara": 3907198,
-            "updated_at": "2022-10-27T20:49:24.274Z",
+            "updated_at": "2022-10-28T05:18:24.447Z",
             "province": "Jawa Barat"
         },
         {
-            "id": 131,
+            "id": 675,
             "partai": "PDIP",
             "jumlah_suara": 3547851,
-            "updated_at": "2022-10-27T20:49:24.274Z",
+            "updated_at": "2022-10-28T05:18:24.447Z",
             "province": "Jawa Barat"
         },
         {
-            "id": 136,
+            "id": 680,
             "partai": "PKS",
             "jumlah_suara": 3247749,
-            "updated_at": "2022-10-27T20:49:24.274Z",
+            "updated_at": "2022-10-28T05:18:24.447Z",
             "province": "Jawa Barat"
         },
         {
-            "id": 132,
+            "id": 676,
             "partai": "GOLKAR",
             "jumlah_suara": 3142486,
-            "updated_at": "2022-10-27T20:49:24.274Z",
+            "updated_at": "2022-10-28T05:18:24.447Z",
             "province": "Jawa Barat"
         },
         {
-            "id": 145,
+            "id": 689,
             "partai": "PKB",
             "jumlah_suara": 2726730,
-            "updated_at": "2022-10-27T20:49:24.274Z",
+            "updated_at": "2022-10-28T05:18:24.447Z",
             "province": "Jawa Tengah"
         },
         {
-            "id": 162,
+            "id": 706,
             "partai": "GERINDRA",
             "jumlah_suara": 2408607,
-            "updated_at": "2022-10-27T20:49:24.274Z",
+            "updated_at": "2022-10-28T05:18:24.447Z",
             "province": "Jawa Timur"
         },
         {
-            "id": 148,
+            "id": 692,
             "partai": "GOLKAR",
             "jumlah_suara": 2381565,
-            "updated_at": "2022-10-27T20:49:24.274Z",
+            "updated_at": "2022-10-28T05:18:24.447Z",
             "province": "Jawa Tengah"
         },
         {
-            "id": 164,
+            "id": 708,
             "partai": "GOLKAR",
             "jumlah_suara": 2256056,
-            "updated_at": "2022-10-27T20:49:24.274Z",
+            "updated_at": "2022-10-28T05:18:24.447Z",
             "province": "Jawa Timur"
         },
         {
-            "id": 165,
+            "id": 709,
             "partai": "NASDEM",
             "jumlah_suara": 2190169,
-            "updated_at": "2022-10-27T20:49:24.274Z",
+            "updated_at": "2022-10-28T05:18:24.447Z",
             "province": "Jawa Timur"
         },
         {
-            "id": 174,
+            "id": 718,
             "partai": "DEMOKRAT",
             "jumlah_suara": 1841145,
-            "updated_at": "2022-10-27T20:49:24.274Z",
+            "updated_at": "2022-10-28T05:18:24.447Z",
             "province": "Jawa Timur"
         },
         {
-            "id": 142,
+            "id": 686,
             "partai": "DEMOKRAT",
             "jumlah_suara": 1751861,
-            "updated_at": "2022-10-27T20:49:24.274Z",
+            "updated_at": "2022-10-28T05:18:24.447Z",
             "province": "Jawa Barat"
         },
         {
-            "id": 129,
+            "id": 673,
             "partai": "PKB",
             "jumlah_suara": 1716946,
-            "updated_at": "2022-10-27T20:49:24.274Z",
+            "updated_at": "2022-10-28T05:18:24.447Z",
             "province": "Jawa Barat"
         },
         {
-            "id": 146,
+            "id": 690,
             "partai": "GERINDRA",
             "jumlah_suara": 1701310,
-            "updated_at": "2022-10-27T20:49:24.274Z",
+            "updated_at": "2022-10-28T05:18:24.447Z",
             "province": "Jawa Tengah"
         },
         {
-            "id": 83,
+            "id": 627,
             "partai": "PDIP",
             "jumlah_suara": 1625042,
-            "updated_at": "2022-10-27T20:49:24.274Z",
+            "updated_at": "2022-10-28T05:18:24.447Z",
             "province": "DKI Jakarta"
         },
         {
-            "id": 140,
+            "id": 684,
             "partai": "PAN",
             "jumlah_suara": 1544593,
-            "updated_at": "2022-10-27T20:49:24.274Z",
+            "updated_at": "2022-10-28T05:18:24.447Z",
             "province": "Jawa Barat"
         },
         {
-            "id": 149,
+            "id": 693,
             "partai": "NASDEM",
             "jumlah_suara": 1496325,
-            "updated_at": "2022-10-27T20:49:24.274Z",
+            "updated_at": "2022-10-28T05:18:24.447Z",
             "province": "Jawa Tengah"
         },
         {
-            "id": 515,
+            "id": 1059,
             "partai": "PDIP",
             "jumlah_suara": 1404548,
-            "updated_at": "2022-10-27T20:49:24.274Z",
+            "updated_at": "2022-10-28T05:18:24.447Z",
             "province": "Sumatera Utara"
         },
         {
-            "id": 19,
+            "id": 563,
             "partai": "PDIP",
             "jumlah_suara": 1257590,
-            "updated_at": "2022-10-27T20:49:24.274Z",
+            "updated_at": "2022-10-28T05:18:24.447Z",
             "province": "Bali"
         },
         {
-            "id": 172,
+            "id": 716,
             "partai": "PAN",
             "jumlah_suara": 1209375,
-            "updated_at": "2022-10-27T20:49:24.274Z",
+            "updated_at": "2022-10-28T05:18:24.447Z",
             "province": "Jawa Timur"
         },
         {
-            "id": 170,
+            "id": 714,
             "partai": "PPP",
             "jumlah_suara": 1192976,
-            "updated_at": "2022-10-27T20:49:24.274Z",
+            "updated_at": "2022-10-28T05:18:24.447Z",
             "province": "Jawa Timur"
         },
         {
-            "id": 133,
+            "id": 677,
             "partai": "NASDEM",
             "jumlah_suara": 1187248,
-            "updated_at": "2022-10-27T20:49:24.274Z",
+            "updated_at": "2022-10-28T05:18:24.447Z",
             "province": "Jawa Barat"
         },
         {
-            "id": 158,
+            "id": 702,
             "partai": "DEMOKRAT",
             "jumlah_suara": 1132420,
-            "updated_at": "2022-10-27T20:49:24.274Z",
+            "updated_at": "2022-10-28T05:18:24.447Z",
             "province": "Jawa Tengah"
         },
         {
-            "id": 152,
+            "id": 696,
             "partai": "PKS",
             "jumlah_suara": 1116942,
-            "updated_at": "2022-10-27T20:49:24.274Z",
+            "updated_at": "2022-10-28T05:18:24.447Z",
             "province": "Jawa Tengah"
         },
         {
-            "id": 88,
+            "id": 632,
             "partai": "PKS",
             "jumlah_suara": 1116705,
-            "updated_at": "2022-10-27T20:49:24.274Z",
+            "updated_at": "2022-10-28T05:18:24.447Z",
             "province": "DKI Jakarta"
         },
         {
-            "id": 138,
+            "id": 682,
             "partai": "PPP",
             "jumlah_suara": 1037576,
-            "updated_at": "2022-10-27T20:49:24.274Z",
+            "updated_at": "2022-10-28T05:18:24.447Z",
             "province": "Jawa Barat"
         },
         {
-            "id": 82,
+            "id": 626,
             "partai": "GERINDRA",
             "jumlah_suara": 988859,
-            "updated_at": "2022-10-27T20:49:24.274Z",
+            "updated_at": "2022-10-28T05:18:24.447Z",
             "province": "DKI Jakarta"
         },
         {
-            "id": 154,
+            "id": 698,
             "partai": "PPP",
             "jumlah_suara": 971139,
-            "updated_at": "2022-10-27T20:49:24.274Z",
+            "updated_at": "2022-10-28T05:18:24.447Z",
             "province": "Jawa Tengah"
         },
         {
-            "id": 51,
+            "id": 595,
             "partai": "PDIP",
             "jumlah_suara": 914719,
-            "updated_at": "2022-10-27T20:49:24.274Z",
+            "updated_at": "2022-10-28T05:18:24.447Z",
             "province": "Banten"
         },
         {
-            "id": 514,
+            "id": 1058,
             "partai": "GERINDRA",
             "jumlah_suara": 904054,
-            "updated_at": "2022-10-27T20:49:24.274Z",
+            "updated_at": "2022-10-28T05:18:24.447Z",
             "province": "Sumatera Utara"
         },
         {
-            "id": 275,
+            "id": 819,
             "partai": "PDIP",
             "jumlah_suara": 887416,
-            "updated_at": "2022-10-27T20:49:24.274Z",
+            "updated_at": "2022-10-28T05:18:24.447Z",
             "province": "Lampung"
         },
         {
-            "id": 516,
+            "id": 1060,
             "partai": "GOLKAR",
             "jumlah_suara": 878693,
-            "updated_at": "2022-10-27T20:49:24.274Z",
+            "updated_at": "2022-10-28T05:18:24.447Z",
             "province": "Sumatera Utara"
         },
         {
-            "id": 50,
+            "id": 594,
             "partai": "GERINDRA",
             "jumlah_suara": 876588,
-            "updated_at": "2022-10-27T20:49:24.274Z",
+            "updated_at": "2022-10-28T05:18:24.447Z",
             "province": "Banten"
         },
         {
-            "id": 168,
+            "id": 712,
             "partai": "PKS",
             "jumlah_suara": 862840,
-            "updated_at": "2022-10-27T20:49:24.274Z",
+            "updated_at": "2022-10-28T05:18:24.447Z",
             "province": "Jawa Timur"
         },
         {
-            "id": 420,
+            "id": 964,
             "partai": "GOLKAR",
             "jumlah_suara": 833382,
-            "updated_at": "2022-10-27T20:49:24.274Z",
-            "province": "Sulawesi Barat"
+            "updated_at": "2022-10-28T05:18:24.447Z",
+            "province": "Sulawesi Selatan"
         },
         {
-            "id": 156,
+            "id": 700,
             "partai": "PAN",
             "jumlah_suara": 832010,
-            "updated_at": "2022-10-27T20:49:24.274Z",
+            "updated_at": "2022-10-28T05:18:24.447Z",
             "province": "Jawa Tengah"
         },
         {
-            "id": 517,
+            "id": 1061,
             "partai": "NASDEM",
             "jumlah_suara": 819485,
-            "updated_at": "2022-10-27T20:49:24.274Z",
+            "updated_at": "2022-10-28T05:18:24.447Z",
             "province": "Sumatera Utara"
         },
         {
-            "id": 357,
+            "id": 901,
             "partai": "NASDEM",
             "jumlah_suara": 787753,
-            "updated_at": "2022-10-27T20:49:24.274Z",
+            "updated_at": "2022-10-28T05:18:24.447Z",
             "province": "Papua"
         },
         {
-            "id": 179,
+            "id": 723,
             "partai": "PDIP",
             "jumlah_suara": 786796,
-            "updated_at": "2022-10-27T20:49:24.274Z",
+            "updated_at": "2022-10-28T05:18:24.447Z",
             "province": "Kalimantan Barat"
         },
         {
-            "id": 137,
+            "id": 681,
             "partai": "PERINDO",
             "jumlah_suara": 687438,
-            "updated_at": "2022-10-27T20:49:24.274Z",
+            "updated_at": "2022-10-28T05:18:24.447Z",
             "province": "Jawa Barat"
         },
         {
-            "id": 421,
+            "id": 965,
             "partai": "NASDEM",
             "jumlah_suara": 684533,
-            "updated_at": "2022-10-27T20:49:24.274Z",
-            "province": "Sulawesi Barat"
+            "updated_at": "2022-10-28T05:18:24.447Z",
+            "province": "Sulawesi Selatan"
         },
         {
-            "id": 52,
+            "id": 596,
             "partai": "GOLKAR",
             "jumlah_suara": 683558,
-            "updated_at": "2022-10-27T20:49:24.274Z",
+            "updated_at": "2022-10-28T05:18:24.447Z",
             "province": "Banten"
         },
         {
-            "id": 56,
+            "id": 600,
             "partai": "PKS",
             "jumlah_suara": 678040,
-            "updated_at": "2022-10-27T20:49:24.274Z",
+            "updated_at": "2022-10-28T05:18:24.447Z",
             "province": "Banten"
         },
         {
-            "id": 500,
+            "id": 1044,
             "partai": "GOLKAR",
             "jumlah_suara": 671290,
-            "updated_at": "2022-10-27T20:49:24.274Z",
+            "updated_at": "2022-10-28T05:18:24.447Z",
             "province": "Sumatera Selatan"
         },
         {
-            "id": 531,
+            "id": 1075,
             "partai": "PDIP",
             "jumlah_suara": 654088,
-            "updated_at": "2022-10-27T20:49:24.274Z",
-            "province": "DI Yogyakarta"
+            "updated_at": "2022-10-28T05:18:24.447Z",
+            "province": "Yogyakarta"
         },
         {
-            "id": 498,
+            "id": 1042,
             "partai": "GERINDRA",
             "jumlah_suara": 648303,
-            "updated_at": "2022-10-27T20:49:24.274Z",
+            "updated_at": "2022-10-28T05:18:24.447Z",
             "province": "Sumatera Selatan"
         },
         {
-            "id": 418,
+            "id": 962,
             "partai": "GERINDRA",
             "jumlah_suara": 645464,
-            "updated_at": "2022-10-27T20:49:24.274Z",
-            "province": "Sulawesi Barat"
+            "updated_at": "2022-10-28T05:18:24.447Z",
+            "province": "Sulawesi Selatan"
         },
         {
-            "id": 501,
+            "id": 1045,
             "partai": "NASDEM",
             "jumlah_suara": 641144,
-            "updated_at": "2022-10-27T20:49:24.274Z",
+            "updated_at": "2022-10-28T05:18:24.447Z",
             "province": "Sumatera Selatan"
         },
         {
-            "id": 520,
+            "id": 1064,
             "partai": "PKS",
             "jumlah_suara": 634787,
-            "updated_at": "2022-10-27T20:49:24.274Z",
+            "updated_at": "2022-10-28T05:18:24.447Z",
             "province": "Sumatera Utara"
         },
         {
-            "id": 91,
+            "id": 635,
             "partai": "PSI",
             "jumlah_suara": 583071,
-            "updated_at": "2022-10-27T20:49:24.274Z",
+            "updated_at": "2022-10-28T05:18:24.447Z",
             "province": "DKI Jakarta"
         },
         {
-            "id": 467,
+            "id": 1011,
             "partai": "PDIP",
             "jumlah_suara": 564703,
-            "updated_at": "2022-10-27T20:49:24.274Z",
+            "updated_at": "2022-10-28T05:18:24.447Z",
             "province": "Sulawesi Utara"
         },
         {
-            "id": 482,
+            "id": 1026,
             "partai": "GERINDRA",
             "jumlah_suara": 560835,
-            "updated_at": "2022-10-27T20:49:24.274Z",
+            "updated_at": "2022-10-28T05:18:24.447Z",
             "province": "Sumatera Barat"
         },
         {
-            "id": 62,
+            "id": 606,
             "partai": "DEMOKRAT",
             "jumlah_suara": 553391,
-            "updated_at": "2022-10-27T20:49:24.274Z",
+            "updated_at": "2022-10-28T05:18:24.447Z",
             "province": "Banten"
         },
         {
-            "id": 499,
+            "id": 1043,
             "partai": "PDIP",
             "jumlah_suara": 543675,
-            "updated_at": "2022-10-27T20:49:24.274Z",
+            "updated_at": "2022-10-28T05:18:24.447Z",
             "province": "Sumatera Selatan"
         },
         {
-            "id": 135,
+            "id": 679,
             "partai": "BERKARYA",
             "jumlah_suara": 537628,
-            "updated_at": "2022-10-27T20:49:24.274Z",
+            "updated_at": "2022-10-28T05:18:24.447Z",
             "province": "Jawa Barat"
         },
         {
-            "id": 341,
+            "id": 885,
             "partai": "NASDEM",
             "jumlah_suara": 510574,
-            "updated_at": "2022-10-27T20:49:24.274Z",
-            "province": "Nusa Tenggara Timur"
+            "updated_at": "2022-10-28T05:18:24.447Z",
+            "province": "Nusa Tenggara Timur "
         },
         {
-            "id": 276,
+            "id": 820,
             "partai": "GOLKAR",
             "jumlah_suara": 509014,
-            "updated_at": "2022-10-27T20:49:24.274Z",
+            "updated_at": "2022-10-28T05:18:24.447Z",
             "province": "Lampung"
         },
         {
-            "id": 286,
+            "id": 830,
             "partai": "DEMOKRAT",
             "jumlah_suara": 491786,
-            "updated_at": "2022-10-27T20:49:24.274Z",
+            "updated_at": "2022-10-28T05:18:24.447Z",
             "province": "Lampung"
         },
         {
-            "id": 274,
+            "id": 818,
             "partai": "GERINDRA",
             "jumlah_suara": 488838,
-            "updated_at": "2022-10-27T20:49:24.274Z",
+            "updated_at": "2022-10-28T05:18:24.447Z",
             "province": "Lampung"
         },
         {
-            "id": 169,
+            "id": 713,
             "partai": "PERINDO",
             "jumlah_suara": 479577,
-            "updated_at": "2022-10-27T20:49:24.274Z",
+            "updated_at": "2022-10-28T05:18:24.447Z",
             "province": "Jawa Timur"
         },
         {
-            "id": 339,
+            "id": 883,
             "partai": "PDIP",
             "jumlah_suara": 450635,
-            "updated_at": "2022-10-27T20:49:24.274Z",
-            "province": "Nusa Tenggara Timur"
+            "updated_at": "2022-10-28T05:18:24.447Z",
+            "province": "Nusa Tenggara Timur "
         },
         {
-            "id": 49,
+            "id": 593,
             "partai": "PKB",
             "jumlah_suara": 447805,
-            "updated_at": "2022-10-27T20:49:24.274Z",
+            "updated_at": "2022-10-28T05:18:24.447Z",
             "province": "Banten"
         },
         {
-            "id": 322,
+            "id": 866,
             "partai": "GERINDRA",
             "jumlah_suara": 443321,
-            "updated_at": "2022-10-27T20:49:24.274Z",
+            "updated_at": "2022-10-28T05:18:24.447Z",
             "province": "Nusa Tenggara Barat"
         },
         {
-            "id": 273,
+            "id": 817,
             "partai": "PKB",
             "jumlah_suara": 433087,
-            "updated_at": "2022-10-27T20:49:24.274Z",
+            "updated_at": "2022-10-28T05:18:24.447Z",
             "province": "Lampung"
         },
         {
-            "id": 153,
+            "id": 697,
             "partai": "PERINDO",
             "jumlah_suara": 418942,
-            "updated_at": "2022-10-27T20:49:24.274Z",
+            "updated_at": "2022-10-28T05:18:24.447Z",
             "province": "Jawa Tengah"
         },
         {
-            "id": 428,
+            "id": 972,
             "partai": "PAN",
             "jumlah_suara": 418440,
-            "updated_at": "2022-10-27T20:49:24.274Z",
-            "province": "Sulawesi Barat"
+            "updated_at": "2022-10-28T05:18:24.447Z",
+            "province": "Sulawesi Selatan"
         },
         {
-            "id": 14,
+            "id": 558,
             "partai": "DEMOKRAT",
             "jumlah_suara": 413438,
-            "updated_at": "2022-10-27T20:49:24.274Z",
+            "updated_at": "2022-10-28T05:18:24.447Z",
             "province": "Aceh"
         },
         {
-            "id": 92,
+            "id": 636,
             "partai": "PAN",
             "jumlah_suara": 412843,
-            "updated_at": "2022-10-27T20:49:24.274Z",
+            "updated_at": "2022-10-28T05:18:24.447Z",
             "province": "DKI Jakarta"
         },
         {
-            "id": 492,
+            "id": 1036,
             "partai": "PAN",
             "jumlah_suara": 412483,
-            "updated_at": "2022-10-27T20:49:24.274Z",
+            "updated_at": "2022-10-28T05:18:24.447Z",
             "province": "Sumatera Barat"
         },
         {
-            "id": 353,
+            "id": 897,
             "partai": "PKB",
             "jumlah_suara": 399011,
-            "updated_at": "2022-10-27T20:49:24.274Z",
+            "updated_at": "2022-10-28T05:18:24.447Z",
             "province": "Papua"
         },
         {
-            "id": 430,
+            "id": 996,
+            "partai": "GOLKAR",
+            "jumlah_suara": 398506,
+            "updated_at": "2022-10-28T05:18:24.447Z",
+            "province": "Sulawesi Tenggara"
+        },
+        {
+            "id": 974,
             "partai": "DEMOKRAT",
             "jumlah_suara": 398047,
-            "updated_at": "2022-10-27T20:49:24.274Z",
-            "province": "Sulawesi Barat"
+            "updated_at": "2022-10-28T05:18:24.447Z",
+            "province": "Sulawesi Selatan"
         },
         {
-            "id": 510,
+            "id": 1054,
             "partai": "DEMOKRAT",
             "jumlah_suara": 396609,
-            "updated_at": "2022-10-27T20:49:24.274Z",
+            "updated_at": "2022-10-28T05:18:24.447Z",
             "province": "Sumatera Selatan"
         },
         {
-            "id": 139,
+            "id": 683,
             "partai": "PSI",
             "jumlah_suara": 392677,
-            "updated_at": "2022-10-27T20:49:24.274Z",
+            "updated_at": "2022-10-28T05:18:24.447Z",
             "province": "Jawa Barat"
         },
         {
-            "id": 526,
+            "id": 1070,
             "partai": "DEMOKRAT",
             "jumlah_suara": 391489,
-            "updated_at": "2022-10-27T20:49:24.274Z",
+            "updated_at": "2022-10-28T05:18:24.447Z",
             "province": "Sumatera Utara"
         },
         {
-            "id": 386,
+            "id": 930,
             "partai": "GERINDRA",
             "jumlah_suara": 386835,
-            "updated_at": "2022-10-27T20:49:24.274Z",
+            "updated_at": "2022-10-28T05:18:24.447Z",
             "province": "Riau"
         },
         {
-            "id": 20,
+            "id": 564,
             "partai": "GOLKAR",
             "jumlah_suara": 382607,
-            "updated_at": "2022-10-27T20:49:24.274Z",
+            "updated_at": "2022-10-28T05:18:24.447Z",
             "province": "Bali"
         },
         {
-            "id": 419,
+            "id": 963,
             "partai": "PDIP",
             "jumlah_suara": 380029,
-            "updated_at": "2022-10-27T20:49:24.274Z",
-            "province": "Sulawesi Barat"
+            "updated_at": "2022-10-28T05:18:24.447Z",
+            "province": "Sulawesi Selatan"
         },
         {
-            "id": 387,
+            "id": 931,
             "partai": "PDIP",
             "jumlah_suara": 378913,
-            "updated_at": "2022-10-27T20:49:24.274Z",
+            "updated_at": "2022-10-28T05:18:24.447Z",
             "province": "Riau"
         },
         {
-            "id": 2,
+            "id": 546,
             "partai": "GERINDRA",
             "jumlah_suara": 376784,
-            "updated_at": "2022-10-27T20:49:24.274Z",
+            "updated_at": "2022-10-28T05:18:24.447Z",
             "province": "Aceh"
         },
         {
-            "id": 392,
+            "id": 936,
             "partai": "PKS",
             "jumlah_suara": 371455,
-            "updated_at": "2022-10-27T20:49:24.274Z",
+            "updated_at": "2022-10-28T05:18:24.447Z",
             "province": "Riau"
         },
         {
-            "id": 494,
+            "id": 1038,
             "partai": "DEMOKRAT",
             "jumlah_suara": 371058,
-            "updated_at": "2022-10-27T20:49:24.274Z",
+            "updated_at": "2022-10-28T05:18:24.447Z",
             "province": "Sumatera Barat"
         },
         {
-            "id": 355,
+            "id": 899,
             "partai": "PDIP",
             "jumlah_suara": 368618,
-            "updated_at": "2022-10-27T20:49:24.274Z",
+            "updated_at": "2022-10-28T05:18:24.447Z",
             "province": "Papua"
         },
         {
-            "id": 277,
+            "id": 997,
+            "partai": "NASDEM",
+            "jumlah_suara": 367035,
+            "updated_at": "2022-10-28T05:18:24.447Z",
+            "province": "Sulawesi Tenggara"
+        },
+        {
+            "id": 821,
             "partai": "NASDEM",
             "jumlah_suara": 365723,
-            "updated_at": "2022-10-27T20:49:24.274Z",
+            "updated_at": "2022-10-28T05:18:24.447Z",
             "province": "Lampung"
         },
         {
-            "id": 340,
+            "id": 884,
             "partai": "GOLKAR",
             "jumlah_suara": 365266,
-            "updated_at": "2022-10-27T20:49:24.274Z",
-            "province": "Nusa Tenggara Timur"
+            "updated_at": "2022-10-28T05:18:24.447Z",
+            "province": "Nusa Tenggara Timur "
         },
         {
-            "id": 94,
+            "id": 638,
             "partai": "DEMOKRAT",
             "jumlah_suara": 360303,
-            "updated_at": "2022-10-27T20:49:24.274Z",
+            "updated_at": "2022-10-28T05:18:24.447Z",
             "province": "DKI Jakarta"
         },
         {
-            "id": 116,
+            "id": 660,
             "partai": "GOLKAR",
             "jumlah_suara": 360297,
-            "updated_at": "2022-10-27T20:49:24.274Z",
+            "updated_at": "2022-10-28T05:18:24.447Z",
             "province": "Jambi"
         },
         {
-            "id": 488,
+            "id": 994,
+            "partai": "GERINDRA",
+            "jumlah_suara": 358989,
+            "updated_at": "2022-10-28T05:18:24.447Z",
+            "province": "Sulawesi Tenggara"
+        },
+        {
+            "id": 1032,
             "partai": "PKS",
             "jumlah_suara": 356294,
-            "updated_at": "2022-10-27T20:49:24.274Z",
+            "updated_at": "2022-10-28T05:18:24.447Z",
             "province": "Sumatera Barat"
         },
         {
-            "id": 211,
+            "id": 755,
             "partai": "PDIP",
             "jumlah_suara": 354331,
-            "updated_at": "2022-10-27T20:49:24.274Z",
+            "updated_at": "2022-10-28T05:18:24.447Z",
             "province": "Kalimantan Tengah"
         },
         {
-            "id": 388,
+            "id": 932,
             "partai": "GOLKAR",
             "jumlah_suara": 351931,
-            "updated_at": "2022-10-27T20:49:24.274Z",
+            "updated_at": "2022-10-28T05:18:24.447Z",
             "province": "Riau"
         },
         {
-            "id": 228,
+            "id": 772,
             "partai": "GOLKAR",
             "jumlah_suara": 350829,
-            "updated_at": "2022-10-27T20:49:24.274Z",
+            "updated_at": "2022-10-28T05:18:24.447Z",
             "province": "Kalimantan Timur"
         },
         {
-            "id": 60,
+            "id": 604,
             "partai": "PAN",
             "jumlah_suara": 350025,
-            "updated_at": "2022-10-27T20:49:24.274Z",
+            "updated_at": "2022-10-28T05:18:24.447Z",
             "province": "Banten"
         },
         {
-            "id": 196,
+            "id": 995,
+            "partai": "PDIP",
+            "jumlah_suara": 348701,
+            "updated_at": "2022-10-28T05:18:24.447Z",
+            "province": "Sulawesi Tenggara"
+        },
+        {
+            "id": 740,
             "partai": "GOLKAR",
             "jumlah_suara": 343144,
-            "updated_at": "2022-10-27T20:49:24.274Z",
+            "updated_at": "2022-10-28T05:18:24.447Z",
             "province": "Kalimantan Selatan"
         },
         {
-            "id": 280,
+            "id": 824,
             "partai": "PKS",
             "jumlah_suara": 340867,
-            "updated_at": "2022-10-27T20:49:24.274Z",
+            "updated_at": "2022-10-28T05:18:24.447Z",
             "province": "Lampung"
         },
         {
-            "id": 426,
+            "id": 970,
             "partai": "PPP",
             "jumlah_suara": 338093,
-            "updated_at": "2022-10-27T20:49:24.274Z",
-            "province": "Sulawesi Barat"
+            "updated_at": "2022-10-28T05:18:24.447Z",
+            "province": "Sulawesi Selatan"
         },
         {
-            "id": 284,
+            "id": 828,
             "partai": "PAN",
             "jumlah_suara": 336788,
-            "updated_at": "2022-10-27T20:49:24.274Z",
+            "updated_at": "2022-10-28T05:18:24.447Z",
             "province": "Lampung"
         },
         {
-            "id": 85,
+            "id": 629,
             "partai": "NASDEM",
             "jumlah_suara": 334660,
-            "updated_at": "2022-10-27T20:49:24.274Z",
+            "updated_at": "2022-10-28T05:18:24.447Z",
             "province": "DKI Jakarta"
         },
         {
-            "id": 324,
+            "id": 868,
             "partai": "GOLKAR",
             "jumlah_suara": 334570,
-            "updated_at": "2022-10-27T20:49:24.274Z",
+            "updated_at": "2022-10-28T05:18:24.447Z",
             "province": "Nusa Tenggara Barat"
         },
         {
-            "id": 195,
+            "id": 739,
             "partai": "PDIP",
             "jumlah_suara": 334396,
-            "updated_at": "2022-10-27T20:49:24.274Z",
+            "updated_at": "2022-10-28T05:18:24.447Z",
             "province": "Kalimantan Selatan"
         },
         {
-            "id": 227,
+            "id": 771,
             "partai": "PDIP",
             "jumlah_suara": 333404,
-            "updated_at": "2022-10-27T20:49:24.274Z",
+            "updated_at": "2022-10-28T05:18:24.447Z",
             "province": "Kalimantan Timur"
         },
         {
-            "id": 171,
+            "id": 715,
             "partai": "PSI",
             "jumlah_suara": 329621,
-            "updated_at": "2022-10-27T20:49:24.274Z",
+            "updated_at": "2022-10-28T05:18:24.447Z",
             "province": "Jawa Timur"
         },
         {
-            "id": 167,
+            "id": 711,
             "partai": "BERKARYA",
             "jumlah_suara": 327817,
-            "updated_at": "2022-10-27T20:49:24.274Z",
+            "updated_at": "2022-10-28T05:18:24.447Z",
             "province": "Jawa Timur"
         },
         {
-            "id": 398,
+            "id": 942,
             "partai": "DEMOKRAT",
             "jumlah_suara": 326694,
-            "updated_at": "2022-10-27T20:49:24.274Z",
+            "updated_at": "2022-10-28T05:18:24.447Z",
             "province": "Riau"
         },
         {
-            "id": 4,
+            "id": 548,
             "partai": "GOLKAR",
             "jumlah_suara": 325421,
-            "updated_at": "2022-10-27T20:49:24.274Z",
+            "updated_at": "2022-10-28T05:18:24.447Z",
             "province": "Aceh"
         },
         {
-            "id": 84,
+            "id": 628,
             "partai": "GOLKAR",
             "jumlah_suara": 322764,
-            "updated_at": "2022-10-27T20:49:24.274Z",
+            "updated_at": "2022-10-28T05:18:24.447Z",
             "province": "DKI Jakarta"
         },
         {
-            "id": 151,
+            "id": 695,
             "partai": "BERKARYA",
             "jumlah_suara": 321298,
-            "updated_at": "2022-10-27T20:49:24.274Z",
+            "updated_at": "2022-10-28T05:18:24.447Z",
             "province": "Jawa Tengah"
         },
         {
-            "id": 524,
+            "id": 1068,
             "partai": "PAN",
             "jumlah_suara": 319481,
-            "updated_at": "2022-10-27T20:49:24.274Z",
+            "updated_at": "2022-10-28T05:18:24.447Z",
             "province": "Sumatera Utara"
         },
         {
-            "id": 12,
+            "id": 556,
             "partai": "PAN",
             "jumlah_suara": 318202,
-            "updated_at": "2022-10-27T20:49:24.274Z",
+            "updated_at": "2022-10-28T05:18:24.447Z",
             "province": "Aceh"
         },
         {
-            "id": 497,
+            "id": 1041,
             "partai": "PKB",
             "jumlah_suara": 317657,
-            "updated_at": "2022-10-27T20:49:24.274Z",
+            "updated_at": "2022-10-28T05:18:24.447Z",
             "province": "Sumatera Selatan"
         },
         {
-            "id": 366,
+            "id": 910,
             "partai": "DEMOKRAT",
             "jumlah_suara": 313485,
-            "updated_at": "2022-10-27T20:49:24.274Z",
+            "updated_at": "2022-10-28T05:18:24.447Z",
             "province": "Papua"
         },
         {
-            "id": 58,
+            "id": 602,
             "partai": "PPP",
             "jumlah_suara": 313012,
-            "updated_at": "2022-10-27T20:49:24.274Z",
+            "updated_at": "2022-10-28T05:18:24.447Z",
             "province": "Banten"
         },
         {
-            "id": 53,
+            "id": 597,
             "partai": "NASDEM",
             "jumlah_suara": 307248,
-            "updated_at": "2022-10-27T20:49:24.274Z",
+            "updated_at": "2022-10-28T05:18:24.447Z",
             "province": "Banten"
         },
         {
-            "id": 81,
+            "id": 625,
             "partai": "PKB",
             "jumlah_suara": 304163,
-            "updated_at": "2022-10-27T20:49:24.274Z",
+            "updated_at": "2022-10-28T05:18:24.447Z",
             "province": "DKI Jakarta"
         },
         {
-            "id": 328,
+            "id": 872,
             "partai": "PKS",
             "jumlah_suara": 293473,
-            "updated_at": "2022-10-27T20:49:24.274Z",
+            "updated_at": "2022-10-28T05:18:24.447Z",
             "province": "Nusa Tenggara Barat"
         },
         {
-            "id": 194,
+            "id": 1006,
+            "partai": "DEMOKRAT",
+            "jumlah_suara": 291246,
+            "updated_at": "2022-10-28T05:18:24.447Z",
+            "province": "Sulawesi Tenggara"
+        },
+        {
+            "id": 738,
             "partai": "GERINDRA",
             "jumlah_suara": 288899,
-            "updated_at": "2022-10-27T20:49:24.274Z",
+            "updated_at": "2022-10-28T05:18:24.447Z",
             "province": "Kalimantan Selatan"
         },
         {
-            "id": 521,
+            "id": 1065,
             "partai": "PERINDO",
             "jumlah_suara": 286791,
-            "updated_at": "2022-10-27T20:49:24.274Z",
+            "updated_at": "2022-10-28T05:18:24.447Z",
             "province": "Sumatera Utara"
         },
         {
-            "id": 356,
+            "id": 900,
             "partai": "GOLKAR",
             "jumlah_suara": 286762,
-            "updated_at": "2022-10-27T20:49:24.274Z",
+            "updated_at": "2022-10-28T05:18:24.447Z",
             "province": "Papua"
         },
         {
-            "id": 396,
+            "id": 940,
             "partai": "PAN",
             "jumlah_suara": 282902,
-            "updated_at": "2022-10-27T20:49:24.274Z",
+            "updated_at": "2022-10-28T05:18:24.447Z",
             "province": "Riau"
         },
         {
-            "id": 180,
+            "id": 724,
             "partai": "GOLKAR",
             "jumlah_suara": 273400,
-            "updated_at": "2022-10-27T20:49:24.274Z",
+            "updated_at": "2022-10-28T05:18:24.447Z",
             "province": "Kalimantan Barat"
         },
         {
-            "id": 181,
+            "id": 725,
             "partai": "NASDEM",
             "jumlah_suara": 271941,
-            "updated_at": "2022-10-27T20:49:24.274Z",
+            "updated_at": "2022-10-28T05:18:24.447Z",
             "province": "Kalimantan Barat"
         },
         {
-            "id": 437,
+            "id": 981,
             "partai": "NASDEM",
             "jumlah_suara": 271513,
-            "updated_at": "2022-10-27T20:49:24.274Z",
+            "updated_at": "2022-10-28T05:18:24.447Z",
             "province": "Sulawesi Tengah"
         },
         {
-            "id": 508,
+            "id": 1052,
             "partai": "PAN",
             "jumlah_suara": 268712,
-            "updated_at": "2022-10-27T20:49:24.274Z",
+            "updated_at": "2022-10-28T05:18:24.447Z",
             "province": "Sumatera Selatan"
         },
         {
-            "id": 504,
+            "id": 1048,
             "partai": "PKS",
             "jumlah_suara": 266130,
-            "updated_at": "2022-10-27T20:49:24.274Z",
+            "updated_at": "2022-10-28T05:18:24.447Z",
             "province": "Sumatera Selatan"
         },
         {
-            "id": 529,
+            "id": 1073,
             "partai": "PKB",
             "jumlah_suara": 264698,
-            "updated_at": "2022-10-27T20:49:24.274Z",
-            "province": "DI Yogyakarta"
+            "updated_at": "2022-10-28T05:18:24.447Z",
+            "province": "Yogyakarta"
         },
         {
-            "id": 178,
+            "id": 722,
             "partai": "GERINDRA",
             "jumlah_suara": 264506,
-            "updated_at": "2022-10-27T20:49:24.274Z",
+            "updated_at": "2022-10-28T05:18:24.447Z",
             "province": "Kalimantan Barat"
         },
         {
-            "id": 405,
-            "partai": "NASDEM",
-            "jumlah_suara": 262589,
-            "updated_at": "2022-10-27T20:49:24.274Z",
-            "province": "Sulawesi Selatan"
-        },
-        {
-            "id": 417,
+            "id": 961,
             "partai": "PKB",
             "jumlah_suara": 259970,
-            "updated_at": "2022-10-27T20:49:24.274Z",
-            "province": "Sulawesi Barat"
+            "updated_at": "2022-10-28T05:18:24.447Z",
+            "province": "Sulawesi Selatan"
         },
         {
-            "id": 155,
+            "id": 699,
             "partai": "PSI",
             "jumlah_suara": 249806,
-            "updated_at": "2022-10-27T20:49:24.274Z",
+            "updated_at": "2022-10-28T05:18:24.447Z",
             "province": "Jawa Tengah"
         },
         {
-            "id": 469,
+            "id": 1013,
             "partai": "NASDEM",
             "jumlah_suara": 248666,
-            "updated_at": "2022-10-27T20:49:24.274Z",
+            "updated_at": "2022-10-28T05:18:24.447Z",
             "province": "Sulawesi Utara"
         },
         {
-            "id": 424,
+            "id": 968,
             "partai": "PKS",
             "jumlah_suara": 247798,
-            "updated_at": "2022-10-27T20:49:24.274Z",
-            "province": "Sulawesi Barat"
+            "updated_at": "2022-10-28T05:18:24.447Z",
+            "province": "Sulawesi Selatan"
         },
         {
-            "id": 513,
+            "id": 1057,
             "partai": "PKB",
             "jumlah_suara": 247298,
-            "updated_at": "2022-10-27T20:49:24.274Z",
+            "updated_at": "2022-10-28T05:18:24.447Z",
             "province": "Sumatera Utara"
         },
         {
-            "id": 173,
+            "id": 717,
             "partai": "HANURA",
             "jumlah_suara": 244329,
-            "updated_at": "2022-10-27T20:49:24.274Z",
+            "updated_at": "2022-10-28T05:18:24.447Z",
             "province": "Jawa Timur"
         },
         {
-            "id": 141,
+            "id": 685,
             "partai": "HANURA",
             "jumlah_suara": 243595,
-            "updated_at": "2022-10-27T20:49:24.274Z",
+            "updated_at": "2022-10-28T05:18:24.447Z",
             "province": "Jawa Barat"
         },
         {
-            "id": 540,
+            "id": 1084,
             "partai": "PAN",
             "jumlah_suara": 237731,
-            "updated_at": "2022-10-27T20:49:24.274Z",
-            "province": "DI Yogyakarta"
+            "updated_at": "2022-10-28T05:18:24.447Z",
+            "province": "Yogyakarta"
         },
         {
-            "id": 468,
+            "id": 1012,
             "partai": "GOLKAR",
             "jumlah_suara": 236697,
-            "updated_at": "2022-10-27T20:49:24.274Z",
+            "updated_at": "2022-10-28T05:18:24.447Z",
             "province": "Sulawesi Utara"
         },
         {
-            "id": 115,
+            "id": 659,
             "partai": "PDIP",
             "jumlah_suara": 233633,
-            "updated_at": "2022-10-27T20:49:24.274Z",
+            "updated_at": "2022-10-28T05:18:24.447Z",
             "province": "Jambi"
         },
         {
-            "id": 536,
+            "id": 1080,
             "partai": "PKS",
             "jumlah_suara": 229815,
-            "updated_at": "2022-10-27T20:49:24.274Z",
-            "province": "DI Yogyakarta"
+            "updated_at": "2022-10-28T05:18:24.447Z",
+            "province": "Yogyakarta"
         },
         {
-            "id": 404,
-            "partai": "GOLKAR",
-            "jumlah_suara": 227151,
-            "updated_at": "2022-10-27T20:49:24.274Z",
-            "province": "Sulawesi Selatan"
-        },
-        {
-            "id": 114,
+            "id": 658,
             "partai": "GERINDRA",
             "jumlah_suara": 224103,
-            "updated_at": "2022-10-27T20:49:24.274Z",
+            "updated_at": "2022-10-28T05:18:24.447Z",
             "province": "Jambi"
         },
         {
-            "id": 354,
+            "id": 898,
             "partai": "GERINDRA",
             "jumlah_suara": 221282,
-            "updated_at": "2022-10-27T20:49:24.274Z",
+            "updated_at": "2022-10-28T05:18:24.447Z",
             "province": "Papua"
         },
         {
-            "id": 143,
+            "id": 687,
             "partai": "PBB",
             "jumlah_suara": 220132,
-            "updated_at": "2022-10-27T20:49:24.274Z",
+            "updated_at": "2022-10-28T05:18:24.447Z",
             "province": "Jawa Barat"
         },
         {
-            "id": 330,
+            "id": 874,
             "partai": "PPP",
             "jumlah_suara": 217804,
-            "updated_at": "2022-10-27T20:49:24.274Z",
+            "updated_at": "2022-10-28T05:18:24.447Z",
             "province": "Nusa Tenggara Barat"
         },
         {
-            "id": 10,
+            "id": 554,
             "partai": "PPP",
             "jumlah_suara": 215520,
-            "updated_at": "2022-10-27T20:49:24.274Z",
+            "updated_at": "2022-10-28T05:18:24.447Z",
             "province": "Aceh"
         },
         {
-            "id": 8,
+            "id": 947,
+            "partai": "PDIP",
+            "jumlah_suara": 214365,
+            "updated_at": "2022-10-28T05:18:24.447Z",
+            "province": "Sulawesi Barat"
+        },
+        {
+            "id": 552,
             "partai": "PKS",
             "jumlah_suara": 209011,
-            "updated_at": "2022-10-27T20:49:24.274Z",
+            "updated_at": "2022-10-28T05:18:24.447Z",
             "province": "Aceh"
         },
         {
-            "id": 334,
+            "id": 878,
             "partai": "DEMOKRAT",
             "jumlah_suara": 207732,
-            "updated_at": "2022-10-27T20:49:24.274Z",
+            "updated_at": "2022-10-28T05:18:24.447Z",
             "province": "Nusa Tenggara Barat"
         },
         {
-            "id": 434,
+            "id": 978,
             "partai": "GERINDRA",
             "jumlah_suara": 207117,
-            "updated_at": "2022-10-27T20:49:24.274Z",
+            "updated_at": "2022-10-28T05:18:24.447Z",
             "province": "Sulawesi Tengah"
         },
         {
-            "id": 485,
+            "id": 1029,
             "partai": "NASDEM",
             "jumlah_suara": 206432,
-            "updated_at": "2022-10-27T20:49:24.274Z",
+            "updated_at": "2022-10-28T05:18:24.447Z",
             "province": "Sumatera Barat"
         },
         {
-            "id": 522,
+            "id": 1066,
             "partai": "PPP",
             "jumlah_suara": 205905,
-            "updated_at": "2022-10-27T20:49:24.274Z",
+            "updated_at": "2022-10-28T05:18:24.447Z",
             "province": "Sumatera Utara"
         },
         {
-            "id": 452,
-            "partai": "GOLKAR",
-            "jumlah_suara": 203794,
-            "updated_at": "2022-10-27T20:49:24.274Z",
-            "province": "Sulawesi Tenggara"
-        },
-        {
-            "id": 200,
+            "id": 744,
             "partai": "PKS",
             "jumlah_suara": 203223,
-            "updated_at": "2022-10-27T20:49:24.274Z",
+            "updated_at": "2022-10-28T05:18:24.447Z",
             "province": "Kalimantan Selatan"
         },
         {
-            "id": 188,
+            "id": 732,
             "partai": "PAN",
             "jumlah_suara": 202689,
-            "updated_at": "2022-10-27T20:49:24.274Z",
+            "updated_at": "2022-10-28T05:18:24.447Z",
             "province": "Kalimantan Barat"
         },
         {
-            "id": 484,
+            "id": 1028,
             "partai": "GOLKAR",
             "jumlah_suara": 202182,
-            "updated_at": "2022-10-27T20:49:24.274Z",
+            "updated_at": "2022-10-28T05:18:24.447Z",
             "province": "Sumatera Barat"
         },
         {
-            "id": 350,
+            "id": 894,
             "partai": "DEMOKRAT",
             "jumlah_suara": 202100,
-            "updated_at": "2022-10-27T20:49:24.274Z",
-            "province": "Nusa Tenggara Timur"
+            "updated_at": "2022-10-28T05:18:24.447Z",
+            "province": "Nusa Tenggara Timur "
         },
         {
-            "id": 332,
+            "id": 876,
             "partai": "PAN",
             "jumlah_suara": 200435,
-            "updated_at": "2022-10-27T20:49:24.274Z",
+            "updated_at": "2022-10-28T05:18:24.447Z",
             "province": "Nusa Tenggara Barat"
         },
         {
-            "id": 337,
+            "id": 881,
             "partai": "PKB",
             "jumlah_suara": 199250,
-            "updated_at": "2022-10-27T20:49:24.274Z",
-            "province": "Nusa Tenggara Timur"
+            "updated_at": "2022-10-28T05:18:24.447Z",
+            "province": "Nusa Tenggara Timur "
         },
         {
-            "id": 89,
+            "id": 633,
             "partai": "PERINDO",
             "jumlah_suara": 197751,
-            "updated_at": "2022-10-27T20:49:24.274Z",
+            "updated_at": "2022-10-28T05:18:24.447Z",
             "province": "DKI Jakarta"
         },
         {
-            "id": 291,
+            "id": 835,
             "partai": "PDIP",
             "jumlah_suara": 197648,
-            "updated_at": "2022-10-27T20:49:24.274Z",
+            "updated_at": "2022-10-28T05:18:24.447Z",
             "province": "Maluku"
         },
         {
-            "id": 55,
+            "id": 599,
             "partai": "BERKARYA",
             "jumlah_suara": 196190,
-            "updated_at": "2022-10-27T20:49:24.274Z",
+            "updated_at": "2022-10-28T05:18:24.447Z",
             "province": "Banten"
         },
         {
-            "id": 124,
+            "id": 668,
             "partai": "PAN",
             "jumlah_suara": 196085,
-            "updated_at": "2022-10-27T20:49:24.274Z",
+            "updated_at": "2022-10-28T05:18:24.447Z",
             "province": "Jambi"
         },
         {
-            "id": 323,
+            "id": 867,
             "partai": "PDIP",
             "jumlah_suara": 195394,
-            "updated_at": "2022-10-27T20:49:24.274Z",
+            "updated_at": "2022-10-28T05:18:24.447Z",
             "province": "Nusa Tenggara Barat"
         },
         {
-            "id": 436,
+            "id": 980,
             "partai": "GOLKAR",
             "jumlah_suara": 194712,
-            "updated_at": "2022-10-27T20:49:24.274Z",
+            "updated_at": "2022-10-28T05:18:24.447Z",
             "province": "Sulawesi Tengah"
         },
         {
-            "id": 100,
+            "id": 644,
             "partai": "GOLKAR",
             "jumlah_suara": 194660,
-            "updated_at": "2022-10-27T20:49:24.274Z",
+            "updated_at": "2022-10-28T05:18:24.447Z",
             "province": "Gorontalo"
         },
         {
-            "id": 226,
+            "id": 770,
             "partai": "GERINDRA",
             "jumlah_suara": 194259,
-            "updated_at": "2022-10-27T20:49:24.274Z",
+            "updated_at": "2022-10-28T05:18:24.447Z",
             "province": "Kalimantan Timur"
         },
         {
-            "id": 177,
+            "id": 721,
             "partai": "PKB",
             "jumlah_suara": 191462,
-            "updated_at": "2022-10-27T20:49:24.274Z",
+            "updated_at": "2022-10-28T05:18:24.447Z",
             "province": "Kalimantan Barat"
         },
         {
-            "id": 530,
+            "id": 1074,
             "partai": "GERINDRA",
             "jumlah_suara": 191346,
-            "updated_at": "2022-10-27T20:49:24.274Z",
-            "province": "DI Yogyakarta"
+            "updated_at": "2022-10-28T05:18:24.447Z",
+            "province": "Yogyakarta"
         },
         {
-            "id": 321,
+            "id": 865,
             "partai": "PKB",
             "jumlah_suara": 190262,
-            "updated_at": "2022-10-27T20:49:24.274Z",
+            "updated_at": "2022-10-28T05:18:24.447Z",
             "province": "Nusa Tenggara Barat"
         },
         {
-            "id": 385,
+            "id": 929,
             "partai": "PKB",
             "jumlah_suara": 187154,
-            "updated_at": "2022-10-27T20:49:24.274Z",
+            "updated_at": "2022-10-28T05:18:24.447Z",
             "province": "Riau"
         },
         {
-            "id": 1,
+            "id": 545,
             "partai": "PKB",
             "jumlah_suara": 186314,
-            "updated_at": "2022-10-27T20:49:24.274Z",
+            "updated_at": "2022-10-28T05:18:24.447Z",
             "province": "Aceh"
         },
         {
-            "id": 451,
-            "partai": "PDIP",
-            "jumlah_suara": 183197,
-            "updated_at": "2022-10-27T20:49:24.274Z",
-            "province": "Sulawesi Tenggara"
-        },
-        {
-            "id": 193,
+            "id": 737,
             "partai": "PKB",
             "jumlah_suara": 182458,
-            "updated_at": "2022-10-27T20:49:24.274Z",
+            "updated_at": "2022-10-28T05:18:24.447Z",
             "province": "Kalimantan Selatan"
         },
         {
-            "id": 402,
-            "partai": "GERINDRA",
-            "jumlah_suara": 180797,
-            "updated_at": "2022-10-27T20:49:24.274Z",
-            "province": "Sulawesi Selatan"
+            "id": 1000,
+            "partai": "PKS",
+            "jumlah_suara": 181427,
+            "updated_at": "2022-10-28T05:18:24.447Z",
+            "province": "Sulawesi Tenggara"
         },
         {
-            "id": 90,
+            "id": 634,
             "partai": "PPP",
             "jumlah_suara": 178631,
-            "updated_at": "2022-10-27T20:49:24.274Z",
+            "updated_at": "2022-10-28T05:18:24.447Z",
             "province": "DKI Jakarta"
         },
         {
-            "id": 5,
+            "id": 549,
             "partai": "NASDEM",
             "jumlah_suara": 177009,
-            "updated_at": "2022-10-27T20:49:24.274Z",
+            "updated_at": "2022-10-28T05:18:24.447Z",
             "province": "Aceh"
         },
         {
-            "id": 260,
+            "id": 804,
             "partai": "GOLKAR",
             "jumlah_suara": 173998,
-            "updated_at": "2022-10-27T20:49:24.274Z",
+            "updated_at": "2022-10-28T05:18:24.447Z",
             "province": "Kepulauan Riau"
         },
         {
-            "id": 190,
+            "id": 734,
             "partai": "DEMOKRAT",
             "jumlah_suara": 173880,
-            "updated_at": "2022-10-27T20:49:24.274Z",
+            "updated_at": "2022-10-28T05:18:24.447Z",
             "province": "Kalimantan Barat"
         },
         {
-            "id": 414,
-            "partai": "DEMOKRAT",
-            "jumlah_suara": 172946,
-            "updated_at": "2022-10-27T20:49:24.274Z",
-            "province": "Sulawesi Selatan"
-        },
-        {
-            "id": 204,
+            "id": 748,
             "partai": "PAN",
             "jumlah_suara": 172943,
-            "updated_at": "2022-10-27T20:49:24.274Z",
+            "updated_at": "2022-10-28T05:18:24.447Z",
             "province": "Kalimantan Selatan"
         },
         {
-            "id": 394,
+            "id": 938,
             "partai": "PPP",
             "jumlah_suara": 169663,
-            "updated_at": "2022-10-27T20:49:24.274Z",
+            "updated_at": "2022-10-28T05:18:24.447Z",
             "province": "Riau"
         },
         {
-            "id": 35,
+            "id": 579,
             "partai": "PDIP",
             "jumlah_suara": 169644,
-            "updated_at": "2022-10-27T20:49:24.274Z",
+            "updated_at": "2022-10-28T05:18:24.447Z",
             "province": "Bangka-Belitung"
         },
         {
-            "id": 101,
+            "id": 645,
             "partai": "NASDEM",
             "jumlah_suara": 169509,
-            "updated_at": "2022-10-27T20:49:24.274Z",
+            "updated_at": "2022-10-28T05:18:24.447Z",
             "province": "Gorontalo"
         },
         {
-            "id": 184,
+            "id": 728,
             "partai": "PKS",
             "jumlah_suara": 167591,
-            "updated_at": "2022-10-27T20:49:24.274Z",
+            "updated_at": "2022-10-28T05:18:24.447Z",
             "province": "Kalimantan Barat"
         },
         {
-            "id": 157,
+            "id": 701,
             "partai": "HANURA",
             "jumlah_suara": 166774,
-            "updated_at": "2022-10-27T20:49:24.274Z",
+            "updated_at": "2022-10-28T05:18:24.447Z",
             "province": "Jawa Tengah"
         },
         {
-            "id": 533,
+            "id": 1077,
             "partai": "NASDEM",
             "jumlah_suara": 166680,
-            "updated_at": "2022-10-27T20:49:24.274Z",
-            "province": "DI Yogyakarta"
+            "updated_at": "2022-10-28T05:18:24.447Z",
+            "province": "Yogyakarta"
         },
         {
-            "id": 213,
+            "id": 757,
             "partai": "NASDEM",
             "jumlah_suara": 166602,
-            "updated_at": "2022-10-27T20:49:24.274Z",
+            "updated_at": "2022-10-28T05:18:24.447Z",
             "province": "Kalimantan Tengah"
         },
         {
-            "id": 435,
+            "id": 979,
             "partai": "PDIP",
             "jumlah_suara": 165504,
-            "updated_at": "2022-10-27T20:49:24.274Z",
+            "updated_at": "2022-10-28T05:18:24.447Z",
             "province": "Sulawesi Tengah"
         },
         {
-            "id": 57,
+            "id": 601,
             "partai": "PERINDO",
             "jumlah_suara": 164920,
-            "updated_at": "2022-10-27T20:49:24.274Z",
+            "updated_at": "2022-10-28T05:18:24.447Z",
             "province": "Banten"
         },
         {
-            "id": 462,
-            "partai": "DEMOKRAT",
-            "jumlah_suara": 163684,
-            "updated_at": "2022-10-27T20:49:24.274Z",
-            "province": "Sulawesi Tenggara"
-        },
-        {
-            "id": 389,
+            "id": 933,
             "partai": "NASDEM",
             "jumlah_suara": 163076,
-            "updated_at": "2022-10-27T20:49:24.274Z",
+            "updated_at": "2022-10-28T05:18:24.447Z",
             "province": "Riau"
         },
         {
-            "id": 325,
+            "id": 869,
             "partai": "NASDEM",
             "jumlah_suara": 161405,
-            "updated_at": "2022-10-27T20:49:24.274Z",
+            "updated_at": "2022-10-28T05:18:24.447Z",
             "province": "Nusa Tenggara Barat"
         },
         {
-            "id": 232,
+            "id": 776,
             "partai": "PKS",
             "jumlah_suara": 159557,
-            "updated_at": "2022-10-27T20:49:24.274Z",
+            "updated_at": "2022-10-28T05:18:24.447Z",
             "province": "Kalimantan Timur"
         },
         {
-            "id": 348,
+            "id": 892,
             "partai": "PAN",
             "jumlah_suara": 158618,
-            "updated_at": "2022-10-27T20:49:24.274Z",
-            "province": "Nusa Tenggara Timur"
+            "updated_at": "2022-10-28T05:18:24.447Z",
+            "province": "Nusa Tenggara Timur "
         },
         {
-            "id": 202,
+            "id": 746,
             "partai": "PPP",
             "jumlah_suara": 157246,
-            "updated_at": "2022-10-27T20:49:24.274Z",
+            "updated_at": "2022-10-28T05:18:24.447Z",
             "province": "Kalimantan Selatan"
         },
         {
-            "id": 126,
+            "id": 670,
             "partai": "DEMOKRAT",
             "jumlah_suara": 156812,
-            "updated_at": "2022-10-27T20:49:24.274Z",
+            "updated_at": "2022-10-28T05:18:24.447Z",
             "province": "Jambi"
         },
         {
-            "id": 532,
+            "id": 993,
+            "partai": "PKB",
+            "jumlah_suara": 156802,
+            "updated_at": "2022-10-28T05:18:24.447Z",
+            "province": "Sulawesi Tenggara"
+        },
+        {
+            "id": 1076,
             "partai": "GOLKAR",
             "jumlah_suara": 152903,
-            "updated_at": "2022-10-27T20:49:24.274Z",
-            "province": "DI Yogyakarta"
+            "updated_at": "2022-10-28T05:18:24.447Z",
+            "province": "Yogyakarta"
         },
         {
-            "id": 450,
-            "partai": "GERINDRA",
-            "jumlah_suara": 151872,
-            "updated_at": "2022-10-27T20:49:24.274Z",
-            "province": "Sulawesi Tenggara"
-        },
-        {
-            "id": 59,
+            "id": 603,
             "partai": "PSI",
             "jumlah_suara": 151477,
-            "updated_at": "2022-10-27T20:49:24.274Z",
+            "updated_at": "2022-10-28T05:18:24.447Z",
             "province": "Banten"
         },
         {
-            "id": 259,
+            "id": 803,
             "partai": "PDIP",
             "jumlah_suara": 148887,
-            "updated_at": "2022-10-27T20:49:24.274Z",
+            "updated_at": "2022-10-28T05:18:24.447Z",
             "province": "Kepulauan Riau"
         },
         {
-            "id": 425,
+            "id": 969,
             "partai": "PERINDO",
             "jumlah_suara": 142521,
-            "updated_at": "2022-10-27T20:49:24.274Z",
-            "province": "Sulawesi Barat"
+            "updated_at": "2022-10-28T05:18:24.447Z",
+            "province": "Sulawesi Selatan"
         },
         {
-            "id": 490,
+            "id": 1034,
             "partai": "PPP",
             "jumlah_suara": 141865,
-            "updated_at": "2022-10-27T20:49:24.274Z",
+            "updated_at": "2022-10-28T05:18:24.447Z",
             "province": "Sumatera Barat"
         },
         {
-            "id": 338,
+            "id": 882,
             "partai": "GERINDRA",
             "jumlah_suara": 141282,
-            "updated_at": "2022-10-27T20:49:24.274Z",
-            "province": "Nusa Tenggara Timur"
+            "updated_at": "2022-10-28T05:18:24.447Z",
+            "province": "Nusa Tenggara Timur "
         },
         {
-            "id": 412,
-            "partai": "PAN",
-            "jumlah_suara": 140749,
-            "updated_at": "2022-10-27T20:49:24.274Z",
-            "province": "Sulawesi Selatan"
-        },
-        {
-            "id": 229,
+            "id": 773,
             "partai": "NASDEM",
             "jumlah_suara": 137593,
-            "updated_at": "2022-10-27T20:49:24.274Z",
+            "updated_at": "2022-10-28T05:18:24.447Z",
             "province": "Kalimantan Timur"
         },
         {
-            "id": 67,
+            "id": 611,
             "partai": "PDIP",
             "jumlah_suara": 137006,
-            "updated_at": "2022-10-27T20:49:24.274Z",
+            "updated_at": "2022-10-28T05:18:24.447Z",
             "province": "Bengkulu"
         },
         {
-            "id": 68,
+            "id": 612,
             "partai": "GOLKAR",
             "jumlah_suara": 136581,
-            "updated_at": "2022-10-27T20:49:24.274Z",
+            "updated_at": "2022-10-28T05:18:24.447Z",
             "province": "Bengkulu"
         },
         {
-            "id": 349,
+            "id": 893,
             "partai": "HANURA",
             "jumlah_suara": 135946,
-            "updated_at": "2022-10-27T20:49:24.274Z",
-            "province": "Nusa Tenggara Timur"
+            "updated_at": "2022-10-28T05:18:24.447Z",
+            "province": "Nusa Tenggara Timur "
         },
         {
-            "id": 483,
+            "id": 1027,
             "partai": "PDIP",
             "jumlah_suara": 134232,
-            "updated_at": "2022-10-27T20:49:24.274Z",
+            "updated_at": "2022-10-28T05:18:24.447Z",
             "province": "Sumatera Barat"
         },
         {
-            "id": 403,
-            "partai": "PDIP",
-            "jumlah_suara": 133880,
-            "updated_at": "2022-10-27T20:49:24.274Z",
-            "province": "Sulawesi Selatan"
-        },
-        {
-            "id": 281,
+            "id": 825,
             "partai": "PERINDO",
             "jumlah_suara": 133263,
-            "updated_at": "2022-10-27T20:49:24.274Z",
+            "updated_at": "2022-10-28T05:18:24.447Z",
             "province": "Lampung"
         },
         {
-            "id": 423,
+            "id": 967,
             "partai": "BERKARYA",
             "jumlah_suara": 132611,
-            "updated_at": "2022-10-27T20:49:24.274Z",
-            "province": "Sulawesi Barat"
+            "updated_at": "2022-10-28T05:18:24.447Z",
+            "province": "Sulawesi Selatan"
         },
         {
-            "id": 66,
+            "id": 610,
             "partai": "GERINDRA",
             "jumlah_suara": 130846,
-            "updated_at": "2022-10-27T20:49:24.274Z",
+            "updated_at": "2022-10-28T05:18:24.447Z",
             "province": "Bengkulu"
         },
         {
-            "id": 212,
+            "id": 756,
             "partai": "GOLKAR",
             "jumlah_suara": 128436,
-            "updated_at": "2022-10-27T20:49:24.274Z",
+            "updated_at": "2022-10-28T05:18:24.447Z",
             "province": "Kalimantan Tengah"
         },
         {
-            "id": 446,
+            "id": 990,
             "partai": "DEMOKRAT",
             "jumlah_suara": 127562,
-            "updated_at": "2022-10-27T20:49:24.274Z",
+            "updated_at": "2022-10-28T05:18:24.447Z",
             "province": "Sulawesi Tengah"
         },
         {
-            "id": 345,
+            "id": 889,
             "partai": "PERINDO",
             "jumlah_suara": 126106,
-            "updated_at": "2022-10-27T20:49:24.274Z",
-            "province": "Nusa Tenggara Timur"
+            "updated_at": "2022-10-28T05:18:24.447Z",
+            "province": "Nusa Tenggara Timur "
         },
         {
-            "id": 525,
+            "id": 1069,
             "partai": "HANURA",
             "jumlah_suara": 125842,
-            "updated_at": "2022-10-27T20:49:24.274Z",
+            "updated_at": "2022-10-28T05:18:24.447Z",
             "province": "Sumatera Utara"
         },
         {
-            "id": 117,
+            "id": 661,
             "partai": "NASDEM",
             "jumlah_suara": 124126,
-            "updated_at": "2022-10-27T20:49:24.274Z",
+            "updated_at": "2022-10-28T05:18:24.447Z",
             "province": "Jambi"
         },
         {
-            "id": 261,
+            "id": 805,
             "partai": "NASDEM",
             "jumlah_suara": 123341,
-            "updated_at": "2022-10-27T20:49:24.274Z",
+            "updated_at": "2022-10-28T05:18:24.447Z",
             "province": "Kepulauan Riau"
         },
         {
-            "id": 76,
+            "id": 620,
             "partai": "PAN",
             "jumlah_suara": 121990,
-            "updated_at": "2022-10-27T20:49:24.274Z",
+            "updated_at": "2022-10-28T05:18:24.447Z",
             "province": "Bengkulu"
         },
         {
-            "id": 505,
+            "id": 1049,
             "partai": "PERINDO",
             "jumlah_suara": 121328,
-            "updated_at": "2022-10-27T20:49:24.274Z",
+            "updated_at": "2022-10-28T05:18:24.447Z",
             "province": "Sumatera Selatan"
         },
         {
-            "id": 113,
+            "id": 657,
             "partai": "PKB",
             "jumlah_suara": 120092,
-            "updated_at": "2022-10-27T20:49:24.274Z",
+            "updated_at": "2022-10-28T05:18:24.447Z",
             "province": "Jambi"
         },
         {
-            "id": 30,
+            "id": 574,
             "partai": "DEMOKRAT",
             "jumlah_suara": 118830,
-            "updated_at": "2022-10-27T20:49:24.274Z",
+            "updated_at": "2022-10-28T05:18:24.447Z",
             "province": "Bali"
         },
         {
-            "id": 327,
+            "id": 871,
             "partai": "BERKARYA",
             "jumlah_suara": 118515,
-            "updated_at": "2022-10-27T20:49:24.274Z",
+            "updated_at": "2022-10-28T05:18:24.447Z",
             "province": "Nusa Tenggara Barat"
         },
         {
-            "id": 293,
+            "id": 837,
             "partai": "NASDEM",
             "jumlah_suara": 118307,
-            "updated_at": "2022-10-27T20:49:24.274Z",
+            "updated_at": "2022-10-28T05:18:24.447Z",
             "province": "Maluku"
         },
         {
-            "id": 506,
+            "id": 1050,
             "partai": "PPP",
             "jumlah_suara": 117147,
-            "updated_at": "2022-10-27T20:49:24.274Z",
+            "updated_at": "2022-10-28T05:18:24.447Z",
             "province": "Sumatera Selatan"
         },
         {
-            "id": 238,
+            "id": 782,
             "partai": "DEMOKRAT",
             "jumlah_suara": 112987,
-            "updated_at": "2022-10-27T20:49:24.274Z",
+            "updated_at": "2022-10-28T05:18:24.447Z",
             "province": "Kalimantan Timur"
         },
         {
-            "id": 282,
+            "id": 826,
             "partai": "PPP",
             "jumlah_suara": 112108,
-            "updated_at": "2022-10-27T20:49:24.274Z",
+            "updated_at": "2022-10-28T05:18:24.447Z",
             "province": "Lampung"
         },
         {
-            "id": 503,
+            "id": 1047,
             "partai": "BERKARYA",
             "jumlah_suara": 111499,
-            "updated_at": "2022-10-27T20:49:24.274Z",
+            "updated_at": "2022-10-28T05:18:24.447Z",
             "province": "Sumatera Selatan"
         },
         {
-            "id": 3,
+            "id": 547,
             "partai": "PDIP",
             "jumlah_suara": 111381,
-            "updated_at": "2022-10-27T20:49:24.274Z",
+            "updated_at": "2022-10-28T05:18:24.447Z",
             "province": "Aceh"
         },
         {
-            "id": 307,
+            "id": 851,
             "partai": "PDIP",
             "jumlah_suara": 111296,
-            "updated_at": "2022-10-27T20:49:24.274Z",
+            "updated_at": "2022-10-28T05:18:24.447Z",
             "province": "Maluku Utara"
         },
         {
-            "id": 186,
+            "id": 730,
             "partai": "PPP",
             "jumlah_suara": 111178,
-            "updated_at": "2022-10-27T20:49:24.274Z",
+            "updated_at": "2022-10-28T05:18:24.447Z",
             "province": "Kalimantan Barat"
         },
         {
-            "id": 18,
+            "id": 562,
             "partai": "GERINDRA",
             "jumlah_suara": 109600,
-            "updated_at": "2022-10-27T20:49:24.274Z",
+            "updated_at": "2022-10-28T05:18:24.447Z",
             "province": "Bali"
         },
         {
-            "id": 373,
+            "id": 917,
             "partai": "NASDEM",
             "jumlah_suara": 109157,
-            "updated_at": "2022-10-27T20:49:24.274Z",
+            "updated_at": "2022-10-28T05:18:24.447Z",
             "province": "Papua Barat"
         },
         {
-            "id": 61,
+            "id": 605,
             "partai": "HANURA",
             "jumlah_suara": 108965,
-            "updated_at": "2022-10-27T20:49:24.274Z",
+            "updated_at": "2022-10-28T05:18:24.447Z",
             "province": "Banten"
         },
         {
-            "id": 134,
+            "id": 678,
             "partai": "GARUDA",
             "jumlah_suara": 108623,
-            "updated_at": "2022-10-27T20:49:24.274Z",
+            "updated_at": "2022-10-28T05:18:24.447Z",
             "province": "Jawa Barat"
         },
         {
-            "id": 120,
+            "id": 664,
             "partai": "PKS",
             "jumlah_suara": 103280,
-            "updated_at": "2022-10-27T20:49:24.274Z",
+            "updated_at": "2022-10-28T05:18:24.447Z",
             "province": "Jambi"
         },
         {
-            "id": 372,
+            "id": 1002,
+            "partai": "PPP",
+            "jumlah_suara": 103161,
+            "updated_at": "2022-10-28T05:18:24.447Z",
+            "province": "Sulawesi Tenggara"
+        },
+        {
+            "id": 916,
             "partai": "GOLKAR",
             "jumlah_suara": 103012,
-            "updated_at": "2022-10-27T20:49:24.274Z",
+            "updated_at": "2022-10-28T05:18:24.447Z",
             "province": "Papua Barat"
         },
         {
-            "id": 21,
+            "id": 565,
             "partai": "NASDEM",
             "jumlah_suara": 102966,
-            "updated_at": "2022-10-27T20:49:24.274Z",
+            "updated_at": "2022-10-28T05:18:24.447Z",
             "province": "Bali"
         },
         {
-            "id": 333,
+            "id": 877,
             "partai": "HANURA",
             "jumlah_suara": 102095,
-            "updated_at": "2022-10-27T20:49:24.274Z",
+            "updated_at": "2022-10-28T05:18:24.447Z",
             "province": "Nusa Tenggara Barat"
         },
         {
-            "id": 371,
+            "id": 915,
             "partai": "PDIP",
             "jumlah_suara": 101713,
-            "updated_at": "2022-10-27T20:49:24.274Z",
+            "updated_at": "2022-10-28T05:18:24.447Z",
             "province": "Papua Barat"
         },
         {
-            "id": 36,
+            "id": 580,
             "partai": "GOLKAR",
             "jumlah_suara": 101681,
-            "updated_at": "2022-10-27T20:49:24.274Z",
+            "updated_at": "2022-10-28T05:18:24.447Z",
             "province": "Bangka-Belitung"
         },
         {
-            "id": 210,
+            "id": 754,
             "partai": "GERINDRA",
             "jumlah_suara": 101452,
-            "updated_at": "2022-10-27T20:49:24.274Z",
+            "updated_at": "2022-10-28T05:18:24.447Z",
             "province": "Kalimantan Tengah"
         },
         {
-            "id": 268,
+            "id": 812,
             "partai": "PAN",
             "jumlah_suara": 101265,
-            "updated_at": "2022-10-27T20:49:24.274Z",
+            "updated_at": "2022-10-28T05:18:24.447Z",
             "province": "Kepulauan Riau"
         },
         {
-            "id": 197,
+            "id": 1004,
+            "partai": "PAN",
+            "jumlah_suara": 100088,
+            "updated_at": "2022-10-28T05:18:24.447Z",
+            "province": "Sulawesi Tenggara"
+        },
+        {
+            "id": 741,
             "partai": "NASDEM",
             "jumlah_suara": 99837,
-            "updated_at": "2022-10-27T20:49:24.274Z",
+            "updated_at": "2022-10-28T05:18:24.447Z",
             "province": "Kalimantan Selatan"
         },
         {
-            "id": 523,
+            "id": 1067,
             "partai": "PSI",
             "jumlah_suara": 99682,
-            "updated_at": "2022-10-27T20:49:24.274Z",
+            "updated_at": "2022-10-28T05:18:24.447Z",
             "province": "Sumatera Utara"
         },
         {
-            "id": 72,
+            "id": 616,
             "partai": "PKS",
             "jumlah_suara": 98952,
-            "updated_at": "2022-10-27T20:49:24.274Z",
+            "updated_at": "2022-10-28T05:18:24.447Z",
             "province": "Bengkulu"
         },
         {
-            "id": 234,
+            "id": 778,
             "partai": "PPP",
             "jumlah_suara": 98401,
-            "updated_at": "2022-10-27T20:49:24.274Z",
+            "updated_at": "2022-10-28T05:18:24.447Z",
             "province": "Kalimantan Timur"
         },
         {
-            "id": 296,
+            "id": 840,
             "partai": "PKS",
             "jumlah_suara": 97765,
-            "updated_at": "2022-10-27T20:49:24.274Z",
+            "updated_at": "2022-10-28T05:18:24.447Z",
             "province": "Maluku"
         },
         {
-            "id": 444,
+            "id": 988,
             "partai": "PAN",
             "jumlah_suara": 97608,
-            "updated_at": "2022-10-27T20:49:24.274Z",
+            "updated_at": "2022-10-28T05:18:24.447Z",
             "province": "Sulawesi Tengah"
         },
         {
-            "id": 440,
-            "partai": "PKS",
-            "jumlah_suara": 96004,
-            "updated_at": "2022-10-27T20:49:24.274Z",
-            "province": "Sulawesi Tengah"
-        },
-        {
-            "id": 433,
-            "partai": "PKB",
-            "jumlah_suara": 95900,
-            "updated_at": "2022-10-27T20:49:24.274Z",
-            "province": "Sulawesi Tengah"
-        },
-        {
-            "id": 453,
-            "partai": "NASDEM",
-            "jumlah_suara": 95522,
-            "updated_at": "2022-10-27T20:49:24.274Z",
-            "province": "Sulawesi Tenggara"
-        },
-        {
-            "id": 236,
-            "partai": "PAN",
-            "jumlah_suara": 95401,
-            "updated_at": "2022-10-27T20:49:24.274Z",
-            "province": "Kalimantan Timur"
-        },
-        {
-            "id": 279,
-            "partai": "BERKARYA",
-            "jumlah_suara": 95299,
-            "updated_at": "2022-10-27T20:49:24.274Z",
-            "province": "Lampung"
-        },
-        {
-            "id": 290,
+            "id": 946,
             "partai": "GERINDRA",
-            "jumlah_suara": 94298,
-            "updated_at": "2022-10-27T20:49:24.274Z",
-            "province": "Maluku"
-        },
-        {
-            "id": 69,
-            "partai": "NASDEM",
-            "jumlah_suara": 94172,
-            "updated_at": "2022-10-27T20:49:24.274Z",
-            "province": "Bengkulu"
-        },
-        {
-            "id": 175,
-            "partai": "PBB",
-            "jumlah_suara": 93717,
-            "updated_at": "2022-10-27T20:49:24.274Z",
-            "province": "Jawa Timur"
-        },
-        {
-            "id": 308,
-            "partai": "GOLKAR",
-            "jumlah_suara": 93484,
-            "updated_at": "2022-10-27T20:49:24.274Z",
-            "province": "Maluku Utara"
-        },
-        {
-            "id": 292,
-            "partai": "GOLKAR",
-            "jumlah_suara": 93158,
-            "updated_at": "2022-10-27T20:49:24.274Z",
-            "province": "Maluku"
-        },
-        {
-            "id": 519,
-            "partai": "BERKARYA",
-            "jumlah_suara": 90102,
-            "updated_at": "2022-10-27T20:49:24.274Z",
-            "province": "Sumatera Utara"
-        },
-        {
-            "id": 365,
-            "partai": "HANURA",
-            "jumlah_suara": 89401,
-            "updated_at": "2022-10-27T20:49:24.274Z",
-            "province": "Papua"
-        },
-        {
-            "id": 361,
-            "partai": "PERINDO",
-            "jumlah_suara": 89035,
-            "updated_at": "2022-10-27T20:49:24.274Z",
-            "province": "Papua"
-        },
-        {
-            "id": 481,
-            "partai": "PKB",
-            "jumlah_suara": 88961,
-            "updated_at": "2022-10-27T20:49:24.274Z",
-            "province": "Sumatera Barat"
-        },
-        {
-            "id": 98,
-            "partai": "GERINDRA",
-            "jumlah_suara": 87748,
-            "updated_at": "2022-10-27T20:49:24.274Z",
-            "province": "Gorontalo"
-        },
-        {
-            "id": 222,
-            "partai": "DEMOKRAT",
-            "jumlah_suara": 87504,
-            "updated_at": "2022-10-27T20:49:24.274Z",
-            "province": "Kalimantan Tengah"
-        },
-        {
-            "id": 509,
-            "partai": "HANURA",
-            "jumlah_suara": 86437,
-            "updated_at": "2022-10-27T20:49:24.274Z",
-            "province": "Sumatera Selatan"
-        },
-        {
-            "id": 456,
-            "partai": "PKS",
-            "jumlah_suara": 85423,
-            "updated_at": "2022-10-27T20:49:24.274Z",
-            "province": "Sulawesi Tenggara"
-        },
-        {
-            "id": 87,
-            "partai": "BERKARYA",
-            "jumlah_suara": 84770,
-            "updated_at": "2022-10-27T20:49:24.274Z",
-            "province": "DKI Jakarta"
-        },
-        {
-            "id": 37,
-            "partai": "NASDEM",
-            "jumlah_suara": 83447,
-            "updated_at": "2022-10-27T20:49:24.274Z",
-            "province": "Bangka-Belitung"
-        },
-        {
-            "id": 185,
-            "partai": "PERINDO",
-            "jumlah_suara": 82728,
-            "updated_at": "2022-10-27T20:49:24.274Z",
-            "province": "Kalimantan Barat"
-        },
-        {
-            "id": 122,
-            "partai": "PPP",
-            "jumlah_suara": 81049,
-            "updated_at": "2022-10-27T20:49:24.274Z",
-            "province": "Jambi"
-        },
-        {
-            "id": 476,
-            "partai": "PAN",
-            "jumlah_suara": 80732,
-            "updated_at": "2022-10-27T20:49:24.274Z",
-            "province": "Sulawesi Utara"
-        },
-        {
-            "id": 189,
-            "partai": "HANURA",
-            "jumlah_suara": 80680,
-            "updated_at": "2022-10-27T20:49:24.274Z",
-            "province": "Kalimantan Barat"
-        },
-        {
-            "id": 264,
-            "partai": "PKS",
-            "jumlah_suara": 80344,
-            "updated_at": "2022-10-27T20:49:24.274Z",
-            "province": "Kepulauan Riau"
-        },
-        {
-            "id": 360,
-            "partai": "PKS",
-            "jumlah_suara": 80318,
-            "updated_at": "2022-10-27T20:49:24.274Z",
-            "province": "Papua"
-        },
-        {
-            "id": 220,
-            "partai": "PAN",
-            "jumlah_suara": 80193,
-            "updated_at": "2022-10-27T20:49:24.274Z",
-            "province": "Kalimantan Tengah"
-        },
-        {
-            "id": 166,
-            "partai": "GARUDA",
-            "jumlah_suara": 80169,
-            "updated_at": "2022-10-27T20:49:24.274Z",
-            "province": "Jawa Timur"
-        },
-        {
-            "id": 225,
-            "partai": "PKB",
-            "jumlah_suara": 78000,
-            "updated_at": "2022-10-27T20:49:24.274Z",
-            "province": "Kalimantan Timur"
-        },
-        {
-            "id": 258,
-            "partai": "GERINDRA",
-            "jumlah_suara": 77798,
-            "updated_at": "2022-10-27T20:49:24.274Z",
-            "province": "Kepulauan Riau"
-        },
-        {
-            "id": 270,
-            "partai": "DEMOKRAT",
-            "jumlah_suara": 76884,
-            "updated_at": "2022-10-27T20:49:24.274Z",
-            "province": "Kepulauan Riau"
-        },
-        {
-            "id": 393,
-            "partai": "PERINDO",
-            "jumlah_suara": 76762,
-            "updated_at": "2022-10-27T20:49:24.274Z",
-            "province": "Riau"
-        },
-        {
-            "id": 65,
-            "partai": "PKB",
-            "jumlah_suara": 76751,
-            "updated_at": "2022-10-27T20:49:24.274Z",
-            "province": "Bengkulu"
-        },
-        {
-            "id": 363,
-            "partai": "PSI",
-            "jumlah_suara": 75349,
-            "updated_at": "2022-10-27T20:49:24.274Z",
-            "province": "Papua"
-        },
-        {
-            "id": 34,
-            "partai": "GERINDRA",
-            "jumlah_suara": 75153,
-            "updated_at": "2022-10-27T20:49:24.274Z",
-            "province": "Bangka-Belitung"
-        },
-        {
-            "id": 343,
-            "partai": "BERKARYA",
-            "jumlah_suara": 73991,
-            "updated_at": "2022-10-27T20:49:24.274Z",
-            "province": "Nusa Tenggara Timur"
-        },
-        {
-            "id": 370,
-            "partai": "GERINDRA",
-            "jumlah_suara": 73961,
-            "updated_at": "2022-10-27T20:49:24.274Z",
-            "province": "Papua Barat"
-        },
-        {
-            "id": 445,
-            "partai": "HANURA",
-            "jumlah_suara": 73881,
-            "updated_at": "2022-10-27T20:49:24.274Z",
-            "province": "Sulawesi Tengah"
-        },
-        {
-            "id": 243,
-            "partai": "PDIP",
-            "jumlah_suara": 73880,
-            "updated_at": "2022-10-27T20:49:24.274Z",
-            "province": "Kalimantan Utara"
-        },
-        {
-            "id": 335,
-            "partai": "PBB",
-            "jumlah_suara": 73290,
-            "updated_at": "2022-10-27T20:49:24.274Z",
-            "province": "Nusa Tenggara Barat"
-        },
-        {
-            "id": 410,
-            "partai": "PPP",
-            "jumlah_suara": 72079,
-            "updated_at": "2022-10-27T20:49:24.274Z",
-            "province": "Sulawesi Selatan"
-        },
-        {
-            "id": 391,
-            "partai": "BERKARYA",
-            "jumlah_suara": 71459,
-            "updated_at": "2022-10-27T20:49:24.274Z",
-            "province": "Riau"
-        },
-        {
-            "id": 478,
-            "partai": "DEMOKRAT",
-            "jumlah_suara": 69943,
-            "updated_at": "2022-10-27T20:49:24.274Z",
-            "province": "Sulawesi Utara"
-        },
-        {
-            "id": 347,
-            "partai": "PSI",
-            "jumlah_suara": 69857,
-            "updated_at": "2022-10-27T20:49:24.274Z",
-            "province": "Nusa Tenggara Timur"
-        },
-        {
-            "id": 106,
-            "partai": "PPP",
-            "jumlah_suara": 69784,
-            "updated_at": "2022-10-27T20:49:24.274Z",
-            "province": "Gorontalo"
-        },
-        {
-            "id": 209,
-            "partai": "PKB",
-            "jumlah_suara": 69565,
-            "updated_at": "2022-10-27T20:49:24.274Z",
-            "province": "Kalimantan Tengah"
-        },
-        {
-            "id": 206,
-            "partai": "DEMOKRAT",
-            "jumlah_suara": 68725,
-            "updated_at": "2022-10-27T20:49:24.274Z",
-            "province": "Kalimantan Selatan"
-        },
-        {
-            "id": 382,
-            "partai": "DEMOKRAT",
-            "jumlah_suara": 68147,
-            "updated_at": "2022-10-27T20:49:24.274Z",
-            "province": "Papua Barat"
-        },
-        {
-            "id": 233,
-            "partai": "PERINDO",
-            "jumlah_suara": 67635,
-            "updated_at": "2022-10-27T20:49:24.274Z",
-            "province": "Kalimantan Timur"
-        },
-        {
-            "id": 397,
-            "partai": "HANURA",
-            "jumlah_suara": 67161,
-            "updated_at": "2022-10-27T20:49:24.274Z",
-            "province": "Riau"
-        },
-        {
-            "id": 15,
-            "partai": "PBB",
-            "jumlah_suara": 66447,
-            "updated_at": "2022-10-27T20:49:24.274Z",
-            "province": "Aceh"
-        },
-        {
-            "id": 150,
-            "partai": "GARUDA",
-            "jumlah_suara": 66273,
-            "updated_at": "2022-10-27T20:49:24.274Z",
-            "province": "Jawa Tengah"
-        },
-        {
-            "id": 7,
-            "partai": "BERKARYA",
-            "jumlah_suara": 66024,
-            "updated_at": "2022-10-27T20:49:24.274Z",
-            "province": "Aceh"
-        },
-        {
-            "id": 427,
-            "partai": "PSI",
-            "jumlah_suara": 65536,
-            "updated_at": "2022-10-27T20:49:24.274Z",
+            "jumlah_suara": 96845,
+            "updated_at": "2022-10-28T05:18:24.447Z",
             "province": "Sulawesi Barat"
         },
         {
-            "id": 458,
-            "partai": "PPP",
-            "jumlah_suara": 65284,
-            "updated_at": "2022-10-27T20:49:24.274Z",
-            "province": "Sulawesi Tenggara"
-        },
-        {
-            "id": 218,
-            "partai": "PPP",
-            "jumlah_suara": 63865,
-            "updated_at": "2022-10-27T20:49:24.274Z",
-            "province": "Kalimantan Tengah"
-        },
-        {
-            "id": 329,
-            "partai": "PERINDO",
-            "jumlah_suara": 63701,
-            "updated_at": "2022-10-27T20:49:24.274Z",
-            "province": "Nusa Tenggara Barat"
-        },
-        {
-            "id": 93,
-            "partai": "HANURA",
-            "jumlah_suara": 63245,
-            "updated_at": "2022-10-27T20:49:24.274Z",
-            "province": "DKI Jakarta"
-        },
-        {
-            "id": 245,
-            "partai": "NASDEM",
-            "jumlah_suara": 62971,
-            "updated_at": "2022-10-27T20:49:24.274Z",
-            "province": "Kalimantan Utara"
-        },
-        {
-            "id": 542,
-            "partai": "DEMOKRAT",
-            "jumlah_suara": 62708,
-            "updated_at": "2022-10-27T20:49:24.274Z",
-            "province": "DI Yogyakarta"
-        },
-        {
-            "id": 309,
-            "partai": "NASDEM",
-            "jumlah_suara": 62549,
-            "updated_at": "2022-10-27T20:49:24.274Z",
-            "province": "Maluku Utara"
-        },
-        {
-            "id": 538,
-            "partai": "PPP",
-            "jumlah_suara": 62357,
-            "updated_at": "2022-10-27T20:49:24.274Z",
-            "province": "DI Yogyakarta"
-        },
-        {
-            "id": 302,
-            "partai": "DEMOKRAT",
-            "jumlah_suara": 62220,
-            "updated_at": "2022-10-27T20:49:24.274Z",
-            "province": "Maluku"
-        },
-        {
-            "id": 466,
-            "partai": "GERINDRA",
-            "jumlah_suara": 61811,
-            "updated_at": "2022-10-27T20:49:24.274Z",
-            "province": "Sulawesi Utara"
-        },
-        {
-            "id": 449,
-            "partai": "PKB",
-            "jumlah_suara": 60902,
-            "updated_at": "2022-10-27T20:49:24.274Z",
-            "province": "Sulawesi Tenggara"
-        },
-        {
-            "id": 535,
-            "partai": "BERKARYA",
-            "jumlah_suara": 60611,
-            "updated_at": "2022-10-27T20:49:24.274Z",
-            "province": "DI Yogyakarta"
-        },
-        {
-            "id": 441,
-            "partai": "PERINDO",
-            "jumlah_suara": 58938,
-            "updated_at": "2022-10-27T20:49:24.274Z",
+            "id": 984,
+            "partai": "PKS",
+            "jumlah_suara": 96004,
+            "updated_at": "2022-10-28T05:18:24.447Z",
             "province": "Sulawesi Tengah"
         },
         {
-            "id": 283,
-            "partai": "PSI",
-            "jumlah_suara": 58891,
-            "updated_at": "2022-10-27T20:49:24.274Z",
+            "id": 780,
+            "partai": "PAN",
+            "jumlah_suara": 95401,
+            "updated_at": "2022-10-28T05:18:24.447Z",
+            "province": "Kalimantan Timur"
+        },
+        {
+            "id": 823,
+            "partai": "BERKARYA",
+            "jumlah_suara": 95299,
+            "updated_at": "2022-10-28T05:18:24.447Z",
             "province": "Lampung"
         },
         {
-            "id": 289,
-            "partai": "PKB",
-            "jumlah_suara": 58701,
-            "updated_at": "2022-10-27T20:49:24.274Z",
+            "id": 834,
+            "partai": "GERINDRA",
+            "jumlah_suara": 94298,
+            "updated_at": "2022-10-28T05:18:24.447Z",
             "province": "Maluku"
         },
         {
-            "id": 46,
-            "partai": "DEMOKRAT",
-            "jumlah_suara": 58426,
-            "updated_at": "2022-10-27T20:49:24.274Z",
-            "province": "Bangka-Belitung"
+            "id": 613,
+            "partai": "NASDEM",
+            "jumlah_suara": 94172,
+            "updated_at": "2022-10-28T05:18:24.447Z",
+            "province": "Bengkulu"
         },
         {
-            "id": 183,
-            "partai": "BERKARYA",
-            "jumlah_suara": 58200,
-            "updated_at": "2022-10-27T20:49:24.274Z",
-            "province": "Kalimantan Barat"
+            "id": 949,
+            "partai": "NASDEM",
+            "jumlah_suara": 93943,
+            "updated_at": "2022-10-28T05:18:24.447Z",
+            "province": "Sulawesi Barat"
         },
         {
-            "id": 527,
+            "id": 719,
             "partai": "PBB",
-            "jumlah_suara": 57919,
-            "updated_at": "2022-10-27T20:49:24.274Z",
+            "jumlah_suara": 93717,
+            "updated_at": "2022-10-28T05:18:24.447Z",
+            "province": "Jawa Timur"
+        },
+        {
+            "id": 852,
+            "partai": "GOLKAR",
+            "jumlah_suara": 93484,
+            "updated_at": "2022-10-28T05:18:24.447Z",
+            "province": "Maluku Utara"
+        },
+        {
+            "id": 836,
+            "partai": "GOLKAR",
+            "jumlah_suara": 93158,
+            "updated_at": "2022-10-28T05:18:24.447Z",
+            "province": "Maluku"
+        },
+        {
+            "id": 1063,
+            "partai": "BERKARYA",
+            "jumlah_suara": 90102,
+            "updated_at": "2022-10-28T05:18:24.447Z",
             "province": "Sumatera Utara"
         },
         {
-            "id": 305,
-            "partai": "PKB",
-            "jumlah_suara": 57339,
-            "updated_at": "2022-10-27T20:49:24.274Z",
-            "province": "Maluku Utara"
-        },
-        {
-            "id": 312,
-            "partai": "PKS",
-            "jumlah_suara": 57293,
-            "updated_at": "2022-10-27T20:49:24.274Z",
-            "province": "Maluku Utara"
-        },
-        {
-            "id": 511,
-            "partai": "PBB",
-            "jumlah_suara": 56173,
-            "updated_at": "2022-10-27T20:49:24.274Z",
-            "province": "Sumatera Selatan"
-        },
-        {
-            "id": 121,
-            "partai": "PERINDO",
-            "jumlah_suara": 55752,
-            "updated_at": "2022-10-27T20:49:24.274Z",
-            "province": "Jambi"
-        },
-        {
-            "id": 487,
-            "partai": "BERKARYA",
-            "jumlah_suara": 55667,
-            "updated_at": "2022-10-27T20:49:24.274Z",
-            "province": "Sumatera Barat"
-        },
-        {
-            "id": 27,
-            "partai": "PSI",
-            "jumlah_suara": 55399,
-            "updated_at": "2022-10-27T20:49:24.274Z",
-            "province": "Bali"
-        },
-        {
-            "id": 199,
-            "partai": "BERKARYA",
-            "jumlah_suara": 54557,
-            "updated_at": "2022-10-27T20:49:24.274Z",
-            "province": "Kalimantan Selatan"
-        },
-        {
-            "id": 344,
-            "partai": "PKS",
-            "jumlah_suara": 52239,
-            "updated_at": "2022-10-27T20:49:24.274Z",
-            "province": "Nusa Tenggara Timur"
-        },
-        {
-            "id": 359,
-            "partai": "BERKARYA",
-            "jumlah_suara": 52143,
-            "updated_at": "2022-10-27T20:49:24.274Z",
+            "id": 909,
+            "partai": "HANURA",
+            "jumlah_suara": 89401,
+            "updated_at": "2022-10-28T05:18:24.447Z",
             "province": "Papua"
         },
         {
-            "id": 473,
+            "id": 905,
             "partai": "PERINDO",
-            "jumlah_suara": 51437,
-            "updated_at": "2022-10-27T20:49:24.274Z",
-            "province": "Sulawesi Utara"
+            "jumlah_suara": 89035,
+            "updated_at": "2022-10-28T05:18:24.447Z",
+            "province": "Papua"
         },
         {
-            "id": 63,
-            "partai": "PBB",
-            "jumlah_suara": 51416,
-            "updated_at": "2022-10-27T20:49:24.274Z",
-            "province": "Banten"
-        },
-        {
-            "id": 119,
-            "partai": "BERKARYA",
-            "jumlah_suara": 50770,
-            "updated_at": "2022-10-27T20:49:24.274Z",
-            "province": "Jambi"
-        },
-        {
-            "id": 507,
-            "partai": "PSI",
-            "jumlah_suara": 50496,
-            "updated_at": "2022-10-27T20:49:24.274Z",
-            "province": "Sumatera Selatan"
-        },
-        {
-            "id": 17,
+            "id": 1025,
             "partai": "PKB",
-            "jumlah_suara": 49695,
-            "updated_at": "2022-10-27T20:49:24.274Z",
-            "province": "Bali"
-        },
-        {
-            "id": 95,
-            "partai": "PBB",
-            "jumlah_suara": 47834,
-            "updated_at": "2022-10-27T20:49:24.274Z",
-            "province": "DKI Jakarta"
-        },
-        {
-            "id": 493,
-            "partai": "HANURA",
-            "jumlah_suara": 47790,
-            "updated_at": "2022-10-27T20:49:24.274Z",
+            "jumlah_suara": 88961,
+            "updated_at": "2022-10-28T05:18:24.447Z",
             "province": "Sumatera Barat"
         },
         {
-            "id": 217,
-            "partai": "PERINDO",
-            "jumlah_suara": 46078,
-            "updated_at": "2022-10-27T20:49:24.274Z",
+            "id": 642,
+            "partai": "GERINDRA",
+            "jumlah_suara": 87748,
+            "updated_at": "2022-10-28T05:18:24.447Z",
+            "province": "Gorontalo"
+        },
+        {
+            "id": 766,
+            "partai": "DEMOKRAT",
+            "jumlah_suara": 87504,
+            "updated_at": "2022-10-28T05:18:24.447Z",
             "province": "Kalimantan Tengah"
         },
         {
-            "id": 495,
-            "partai": "PBB",
-            "jumlah_suara": 45873,
-            "updated_at": "2022-10-27T20:49:24.274Z",
-            "province": "Sumatera Barat"
+            "id": 1053,
+            "partai": "HANURA",
+            "jumlah_suara": 86437,
+            "updated_at": "2022-10-28T05:18:24.447Z",
+            "province": "Sumatera Selatan"
         },
         {
-            "id": 362,
+            "id": 1005,
+            "partai": "HANURA",
+            "jumlah_suara": 85920,
+            "updated_at": "2022-10-28T05:18:24.447Z",
+            "province": "Sulawesi Tenggara"
+        },
+        {
+            "id": 631,
+            "partai": "BERKARYA",
+            "jumlah_suara": 84770,
+            "updated_at": "2022-10-28T05:18:24.447Z",
+            "province": "DKI Jakarta"
+        },
+        {
+            "id": 958,
+            "partai": "DEMOKRAT",
+            "jumlah_suara": 83499,
+            "updated_at": "2022-10-28T05:18:24.447Z",
+            "province": "Sulawesi Barat"
+        },
+        {
+            "id": 581,
+            "partai": "NASDEM",
+            "jumlah_suara": 83447,
+            "updated_at": "2022-10-28T05:18:24.447Z",
+            "province": "Bangka-Belitung"
+        },
+        {
+            "id": 729,
+            "partai": "PERINDO",
+            "jumlah_suara": 82728,
+            "updated_at": "2022-10-28T05:18:24.447Z",
+            "province": "Kalimantan Barat"
+        },
+        {
+            "id": 666,
             "partai": "PPP",
-            "jumlah_suara": 45435,
-            "updated_at": "2022-10-27T20:49:24.274Z",
+            "jumlah_suara": 81049,
+            "updated_at": "2022-10-28T05:18:24.447Z",
+            "province": "Jambi"
+        },
+        {
+            "id": 1020,
+            "partai": "PAN",
+            "jumlah_suara": 80732,
+            "updated_at": "2022-10-28T05:18:24.447Z",
+            "province": "Sulawesi Utara"
+        },
+        {
+            "id": 733,
+            "partai": "HANURA",
+            "jumlah_suara": 80680,
+            "updated_at": "2022-10-28T05:18:24.447Z",
+            "province": "Kalimantan Barat"
+        },
+        {
+            "id": 808,
+            "partai": "PKS",
+            "jumlah_suara": 80344,
+            "updated_at": "2022-10-28T05:18:24.447Z",
+            "province": "Kepulauan Riau"
+        },
+        {
+            "id": 904,
+            "partai": "PKS",
+            "jumlah_suara": 80318,
+            "updated_at": "2022-10-28T05:18:24.447Z",
             "province": "Papua"
         },
         {
-            "id": 301,
-            "partai": "HANURA",
-            "jumlah_suara": 45426,
-            "updated_at": "2022-10-27T20:49:24.274Z",
-            "province": "Maluku"
+            "id": 764,
+            "partai": "PAN",
+            "jumlah_suara": 80193,
+            "updated_at": "2022-10-28T05:18:24.447Z",
+            "province": "Kalimantan Tengah"
         },
         {
-            "id": 539,
+            "id": 710,
+            "partai": "GARUDA",
+            "jumlah_suara": 80169,
+            "updated_at": "2022-10-28T05:18:24.447Z",
+            "province": "Jawa Timur"
+        },
+        {
+            "id": 1001,
+            "partai": "PERINDO",
+            "jumlah_suara": 79417,
+            "updated_at": "2022-10-28T05:18:24.447Z",
+            "province": "Sulawesi Tenggara"
+        },
+        {
+            "id": 769,
+            "partai": "PKB",
+            "jumlah_suara": 78000,
+            "updated_at": "2022-10-28T05:18:24.447Z",
+            "province": "Kalimantan Timur"
+        },
+        {
+            "id": 802,
+            "partai": "GERINDRA",
+            "jumlah_suara": 77798,
+            "updated_at": "2022-10-28T05:18:24.447Z",
+            "province": "Kepulauan Riau"
+        },
+        {
+            "id": 814,
+            "partai": "DEMOKRAT",
+            "jumlah_suara": 76884,
+            "updated_at": "2022-10-28T05:18:24.447Z",
+            "province": "Kepulauan Riau"
+        },
+        {
+            "id": 937,
+            "partai": "PERINDO",
+            "jumlah_suara": 76762,
+            "updated_at": "2022-10-28T05:18:24.447Z",
+            "province": "Riau"
+        },
+        {
+            "id": 609,
+            "partai": "PKB",
+            "jumlah_suara": 76751,
+            "updated_at": "2022-10-28T05:18:24.447Z",
+            "province": "Bengkulu"
+        },
+        {
+            "id": 907,
             "partai": "PSI",
-            "jumlah_suara": 45347,
-            "updated_at": "2022-10-27T20:49:24.274Z",
-            "province": "DI Yogyakarta"
+            "jumlah_suara": 75349,
+            "updated_at": "2022-10-28T05:18:24.447Z",
+            "province": "Papua"
         },
         {
-            "id": 159,
+            "id": 578,
+            "partai": "GERINDRA",
+            "jumlah_suara": 75153,
+            "updated_at": "2022-10-28T05:18:24.447Z",
+            "province": "Bangka-Belitung"
+        },
+        {
+            "id": 887,
+            "partai": "BERKARYA",
+            "jumlah_suara": 73991,
+            "updated_at": "2022-10-28T05:18:24.447Z",
+            "province": "Nusa Tenggara Timur "
+        },
+        {
+            "id": 914,
+            "partai": "GERINDRA",
+            "jumlah_suara": 73961,
+            "updated_at": "2022-10-28T05:18:24.447Z",
+            "province": "Papua Barat"
+        },
+        {
+            "id": 989,
+            "partai": "HANURA",
+            "jumlah_suara": 73881,
+            "updated_at": "2022-10-28T05:18:24.447Z",
+            "province": "Sulawesi Tengah"
+        },
+        {
+            "id": 787,
+            "partai": "PDIP",
+            "jumlah_suara": 73880,
+            "updated_at": "2022-10-28T05:18:24.447Z",
+            "province": "Kalimantan Utara"
+        },
+        {
+            "id": 879,
             "partai": "PBB",
-            "jumlah_suara": 45278,
-            "updated_at": "2022-10-27T20:49:24.274Z",
+            "jumlah_suara": 73290,
+            "updated_at": "2022-10-28T05:18:24.447Z",
+            "province": "Nusa Tenggara Barat"
+        },
+        {
+            "id": 935,
+            "partai": "BERKARYA",
+            "jumlah_suara": 71459,
+            "updated_at": "2022-10-28T05:18:24.447Z",
+            "province": "Riau"
+        },
+        {
+            "id": 1022,
+            "partai": "DEMOKRAT",
+            "jumlah_suara": 69943,
+            "updated_at": "2022-10-28T05:18:24.447Z",
+            "province": "Sulawesi Utara"
+        },
+        {
+            "id": 891,
+            "partai": "PSI",
+            "jumlah_suara": 69857,
+            "updated_at": "2022-10-28T05:18:24.447Z",
+            "province": "Nusa Tenggara Timur "
+        },
+        {
+            "id": 650,
+            "partai": "PPP",
+            "jumlah_suara": 69784,
+            "updated_at": "2022-10-28T05:18:24.447Z",
+            "province": "Gorontalo"
+        },
+        {
+            "id": 753,
+            "partai": "PKB",
+            "jumlah_suara": 69565,
+            "updated_at": "2022-10-28T05:18:24.447Z",
+            "province": "Kalimantan Tengah"
+        },
+        {
+            "id": 999,
+            "partai": "BERKARYA",
+            "jumlah_suara": 69208,
+            "updated_at": "2022-10-28T05:18:24.447Z",
+            "province": "Sulawesi Tenggara"
+        },
+        {
+            "id": 750,
+            "partai": "DEMOKRAT",
+            "jumlah_suara": 68725,
+            "updated_at": "2022-10-28T05:18:24.447Z",
+            "province": "Kalimantan Selatan"
+        },
+        {
+            "id": 926,
+            "partai": "DEMOKRAT",
+            "jumlah_suara": 68147,
+            "updated_at": "2022-10-28T05:18:24.447Z",
+            "province": "Papua Barat"
+        },
+        {
+            "id": 777,
+            "partai": "PERINDO",
+            "jumlah_suara": 67635,
+            "updated_at": "2022-10-28T05:18:24.447Z",
+            "province": "Kalimantan Timur"
+        },
+        {
+            "id": 941,
+            "partai": "HANURA",
+            "jumlah_suara": 67161,
+            "updated_at": "2022-10-28T05:18:24.447Z",
+            "province": "Riau"
+        },
+        {
+            "id": 559,
+            "partai": "PBB",
+            "jumlah_suara": 66447,
+            "updated_at": "2022-10-28T05:18:24.447Z",
+            "province": "Aceh"
+        },
+        {
+            "id": 694,
+            "partai": "GARUDA",
+            "jumlah_suara": 66273,
+            "updated_at": "2022-10-28T05:18:24.447Z",
             "province": "Jawa Tengah"
         },
         {
-            "id": 144,
+            "id": 551,
+            "partai": "BERKARYA",
+            "jumlah_suara": 66024,
+            "updated_at": "2022-10-28T05:18:24.447Z",
+            "province": "Aceh"
+        },
+        {
+            "id": 971,
+            "partai": "PSI",
+            "jumlah_suara": 65536,
+            "updated_at": "2022-10-28T05:18:24.447Z",
+            "province": "Sulawesi Selatan"
+        },
+        {
+            "id": 762,
+            "partai": "PPP",
+            "jumlah_suara": 63865,
+            "updated_at": "2022-10-28T05:18:24.447Z",
+            "province": "Kalimantan Tengah"
+        },
+        {
+            "id": 873,
+            "partai": "PERINDO",
+            "jumlah_suara": 63701,
+            "updated_at": "2022-10-28T05:18:24.447Z",
+            "province": "Nusa Tenggara Barat"
+        },
+        {
+            "id": 637,
+            "partai": "HANURA",
+            "jumlah_suara": 63245,
+            "updated_at": "2022-10-28T05:18:24.447Z",
+            "province": "DKI Jakarta"
+        },
+        {
+            "id": 789,
+            "partai": "NASDEM",
+            "jumlah_suara": 62971,
+            "updated_at": "2022-10-28T05:18:24.447Z",
+            "province": "Kalimantan Utara"
+        },
+        {
+            "id": 1086,
+            "partai": "DEMOKRAT",
+            "jumlah_suara": 62708,
+            "updated_at": "2022-10-28T05:18:24.447Z",
+            "province": "Yogyakarta"
+        },
+        {
+            "id": 853,
+            "partai": "NASDEM",
+            "jumlah_suara": 62549,
+            "updated_at": "2022-10-28T05:18:24.447Z",
+            "province": "Maluku Utara"
+        },
+        {
+            "id": 1082,
+            "partai": "PPP",
+            "jumlah_suara": 62357,
+            "updated_at": "2022-10-28T05:18:24.447Z",
+            "province": "Yogyakarta"
+        },
+        {
+            "id": 846,
+            "partai": "DEMOKRAT",
+            "jumlah_suara": 62220,
+            "updated_at": "2022-10-28T05:18:24.447Z",
+            "province": "Maluku"
+        },
+        {
+            "id": 1010,
+            "partai": "GERINDRA",
+            "jumlah_suara": 61811,
+            "updated_at": "2022-10-28T05:18:24.447Z",
+            "province": "Sulawesi Utara"
+        },
+        {
+            "id": 1079,
+            "partai": "BERKARYA",
+            "jumlah_suara": 60611,
+            "updated_at": "2022-10-28T05:18:24.447Z",
+            "province": "Yogyakarta"
+        },
+        {
+            "id": 985,
+            "partai": "PERINDO",
+            "jumlah_suara": 58938,
+            "updated_at": "2022-10-28T05:18:24.447Z",
+            "province": "Sulawesi Tengah"
+        },
+        {
+            "id": 827,
+            "partai": "PSI",
+            "jumlah_suara": 58891,
+            "updated_at": "2022-10-28T05:18:24.447Z",
+            "province": "Lampung"
+        },
+        {
+            "id": 833,
+            "partai": "PKB",
+            "jumlah_suara": 58701,
+            "updated_at": "2022-10-28T05:18:24.447Z",
+            "province": "Maluku"
+        },
+        {
+            "id": 590,
+            "partai": "DEMOKRAT",
+            "jumlah_suara": 58426,
+            "updated_at": "2022-10-28T05:18:24.447Z",
+            "province": "Bangka-Belitung"
+        },
+        {
+            "id": 727,
+            "partai": "BERKARYA",
+            "jumlah_suara": 58200,
+            "updated_at": "2022-10-28T05:18:24.447Z",
+            "province": "Kalimantan Barat"
+        },
+        {
+            "id": 1071,
+            "partai": "PBB",
+            "jumlah_suara": 57919,
+            "updated_at": "2022-10-28T05:18:24.447Z",
+            "province": "Sumatera Utara"
+        },
+        {
+            "id": 849,
+            "partai": "PKB",
+            "jumlah_suara": 57339,
+            "updated_at": "2022-10-28T05:18:24.447Z",
+            "province": "Maluku Utara"
+        },
+        {
+            "id": 856,
+            "partai": "PKS",
+            "jumlah_suara": 57293,
+            "updated_at": "2022-10-28T05:18:24.447Z",
+            "province": "Maluku Utara"
+        },
+        {
+            "id": 1055,
+            "partai": "PBB",
+            "jumlah_suara": 56173,
+            "updated_at": "2022-10-28T05:18:24.447Z",
+            "province": "Sumatera Selatan"
+        },
+        {
+            "id": 665,
+            "partai": "PERINDO",
+            "jumlah_suara": 55752,
+            "updated_at": "2022-10-28T05:18:24.447Z",
+            "province": "Jambi"
+        },
+        {
+            "id": 1031,
+            "partai": "BERKARYA",
+            "jumlah_suara": 55667,
+            "updated_at": "2022-10-28T05:18:24.447Z",
+            "province": "Sumatera Barat"
+        },
+        {
+            "id": 571,
+            "partai": "PSI",
+            "jumlah_suara": 55399,
+            "updated_at": "2022-10-28T05:18:24.447Z",
+            "province": "Bali"
+        },
+        {
+            "id": 743,
+            "partai": "BERKARYA",
+            "jumlah_suara": 54557,
+            "updated_at": "2022-10-28T05:18:24.447Z",
+            "province": "Kalimantan Selatan"
+        },
+        {
+            "id": 1007,
+            "partai": "PBB",
+            "jumlah_suara": 53939,
+            "updated_at": "2022-10-28T05:18:24.447Z",
+            "province": "Sulawesi Tenggara"
+        },
+        {
+            "id": 888,
+            "partai": "PKS",
+            "jumlah_suara": 52239,
+            "updated_at": "2022-10-28T05:18:24.447Z",
+            "province": "Nusa Tenggara Timur "
+        },
+        {
+            "id": 948,
+            "partai": "GOLKAR",
+            "jumlah_suara": 52186,
+            "updated_at": "2022-10-28T05:18:24.447Z",
+            "province": "Sulawesi Barat"
+        },
+        {
+            "id": 903,
+            "partai": "BERKARYA",
+            "jumlah_suara": 52143,
+            "updated_at": "2022-10-28T05:18:24.447Z",
+            "province": "Papua"
+        },
+        {
+            "id": 1017,
+            "partai": "PERINDO",
+            "jumlah_suara": 51437,
+            "updated_at": "2022-10-28T05:18:24.447Z",
+            "province": "Sulawesi Utara"
+        },
+        {
+            "id": 607,
+            "partai": "PBB",
+            "jumlah_suara": 51416,
+            "updated_at": "2022-10-28T05:18:24.447Z",
+            "province": "Banten"
+        },
+        {
+            "id": 663,
+            "partai": "BERKARYA",
+            "jumlah_suara": 50770,
+            "updated_at": "2022-10-28T05:18:24.447Z",
+            "province": "Jambi"
+        },
+        {
+            "id": 1051,
+            "partai": "PSI",
+            "jumlah_suara": 50496,
+            "updated_at": "2022-10-28T05:18:24.447Z",
+            "province": "Sumatera Selatan"
+        },
+        {
+            "id": 561,
+            "partai": "PKB",
+            "jumlah_suara": 49695,
+            "updated_at": "2022-10-28T05:18:24.447Z",
+            "province": "Bali"
+        },
+        {
+            "id": 1003,
+            "partai": "PSI",
+            "jumlah_suara": 49517,
+            "updated_at": "2022-10-28T05:18:24.447Z",
+            "province": "Sulawesi Tenggara"
+        },
+        {
+            "id": 639,
+            "partai": "PBB",
+            "jumlah_suara": 47834,
+            "updated_at": "2022-10-28T05:18:24.447Z",
+            "province": "DKI Jakarta"
+        },
+        {
+            "id": 1037,
+            "partai": "HANURA",
+            "jumlah_suara": 47790,
+            "updated_at": "2022-10-28T05:18:24.447Z",
+            "province": "Sumatera Barat"
+        },
+        {
+            "id": 761,
+            "partai": "PERINDO",
+            "jumlah_suara": 46078,
+            "updated_at": "2022-10-28T05:18:24.447Z",
+            "province": "Kalimantan Tengah"
+        },
+        {
+            "id": 1039,
+            "partai": "PBB",
+            "jumlah_suara": 45873,
+            "updated_at": "2022-10-28T05:18:24.447Z",
+            "province": "Sumatera Barat"
+        },
+        {
+            "id": 906,
+            "partai": "PPP",
+            "jumlah_suara": 45435,
+            "updated_at": "2022-10-28T05:18:24.447Z",
+            "province": "Papua"
+        },
+        {
+            "id": 845,
+            "partai": "HANURA",
+            "jumlah_suara": 45426,
+            "updated_at": "2022-10-28T05:18:24.447Z",
+            "province": "Maluku"
+        },
+        {
+            "id": 1083,
+            "partai": "PSI",
+            "jumlah_suara": 45347,
+            "updated_at": "2022-10-28T05:18:24.447Z",
+            "province": "Yogyakarta"
+        },
+        {
+            "id": 703,
+            "partai": "PBB",
+            "jumlah_suara": 45278,
+            "updated_at": "2022-10-28T05:18:24.447Z",
+            "province": "Jawa Tengah"
+        },
+        {
+            "id": 688,
             "partai": "PKPI",
             "jumlah_suara": 44103,
-            "updated_at": "2022-10-27T20:49:24.274Z",
+            "updated_at": "2022-10-28T05:18:24.447Z",
             "province": "Jawa Barat"
         },
         {
-            "id": 489,
+            "id": 1033,
             "partai": "PERINDO",
             "jumlah_suara": 43510,
-            "updated_at": "2022-10-27T20:49:24.274Z",
+            "updated_at": "2022-10-28T05:18:24.447Z",
             "province": "Sumatera Barat"
         },
         {
-            "id": 429,
-            "partai": "HANURA",
-            "jumlah_suara": 43249,
-            "updated_at": "2022-10-27T20:49:24.274Z",
+            "id": 945,
+            "partai": "PKB",
+            "jumlah_suara": 43449,
+            "updated_at": "2022-10-28T05:18:24.447Z",
             "province": "Sulawesi Barat"
         },
         {
-            "id": 318,
-            "partai": "DEMOKRAT",
-            "jumlah_suara": 43180,
-            "updated_at": "2022-10-27T20:49:24.274Z",
-            "province": "Maluku Utara"
-        },
-        {
-            "id": 401,
-            "partai": "PKB",
-            "jumlah_suara": 43070,
-            "updated_at": "2022-10-27T20:49:24.274Z",
+            "id": 973,
+            "partai": "HANURA",
+            "jumlah_suara": 43249,
+            "updated_at": "2022-10-28T05:18:24.447Z",
             "province": "Sulawesi Selatan"
         },
         {
-            "id": 23,
+            "id": 862,
+            "partai": "DEMOKRAT",
+            "jumlah_suara": 43180,
+            "updated_at": "2022-10-28T05:18:24.447Z",
+            "province": "Maluku Utara"
+        },
+        {
+            "id": 567,
             "partai": "BERKARYA",
             "jumlah_suara": 42158,
-            "updated_at": "2022-10-27T20:49:24.274Z",
+            "updated_at": "2022-10-28T05:18:24.447Z",
             "province": "Bali"
         },
         {
-            "id": 231,
+            "id": 775,
             "partai": "BERKARYA",
             "jumlah_suara": 41907,
-            "updated_at": "2022-10-27T20:49:24.274Z",
+            "updated_at": "2022-10-28T05:18:24.447Z",
             "province": "Kalimantan Timur"
         },
         {
-            "id": 201,
+            "id": 745,
             "partai": "PERINDO",
             "jumlah_suara": 41336,
-            "updated_at": "2022-10-27T20:49:24.274Z",
+            "updated_at": "2022-10-28T05:18:24.447Z",
             "province": "Kalimantan Selatan"
         },
         {
-            "id": 298,
+            "id": 842,
             "partai": "PPP",
             "jumlah_suara": 41045,
-            "updated_at": "2022-10-27T20:49:24.274Z",
+            "updated_at": "2022-10-28T05:18:24.447Z",
             "province": "Maluku"
         },
         {
-            "id": 439,
+            "id": 983,
             "partai": "BERKARYA",
             "jumlah_suara": 41019,
-            "updated_at": "2022-10-27T20:49:24.274Z",
+            "updated_at": "2022-10-28T05:18:24.447Z",
             "province": "Sulawesi Tengah"
         },
         {
-            "id": 285,
+            "id": 829,
             "partai": "HANURA",
             "jumlah_suara": 40637,
-            "updated_at": "2022-10-27T20:49:24.274Z",
+            "updated_at": "2022-10-28T05:18:24.447Z",
             "province": "Lampung"
         },
         {
-            "id": 409,
-            "partai": "PERINDO",
-            "jumlah_suara": 39572,
-            "updated_at": "2022-10-27T20:49:24.274Z",
-            "province": "Sulawesi Selatan"
-        },
-        {
-            "id": 24,
+            "id": 568,
             "partai": "PKS",
             "jumlah_suara": 39024,
-            "updated_at": "2022-10-27T20:49:24.274Z",
+            "updated_at": "2022-10-28T05:18:24.447Z",
             "province": "Bali"
         },
         {
-            "id": 78,
+            "id": 622,
             "partai": "DEMOKRAT",
             "jumlah_suara": 38426,
-            "updated_at": "2022-10-27T20:49:24.274Z",
+            "updated_at": "2022-10-28T05:18:24.447Z",
             "province": "Bengkulu"
         },
         {
-            "id": 297,
+            "id": 841,
             "partai": "PERINDO",
             "jumlah_suara": 38375,
-            "updated_at": "2022-10-27T20:49:24.274Z",
+            "updated_at": "2022-10-28T05:18:24.447Z",
             "province": "Maluku"
         },
         {
-            "id": 491,
+            "id": 1035,
             "partai": "PSI",
             "jumlah_suara": 38373,
-            "updated_at": "2022-10-27T20:49:24.274Z",
+            "updated_at": "2022-10-28T05:18:24.447Z",
             "province": "Sumatera Barat"
         },
         {
-            "id": 442,
+            "id": 986,
             "partai": "PPP",
             "jumlah_suara": 37877,
-            "updated_at": "2022-10-27T20:49:24.274Z",
+            "updated_at": "2022-10-28T05:18:24.447Z",
             "province": "Sulawesi Tengah"
         },
         {
-            "id": 313,
+            "id": 857,
             "partai": "PERINDO",
             "jumlah_suara": 37781,
-            "updated_at": "2022-10-27T20:49:24.274Z",
+            "updated_at": "2022-10-28T05:18:24.447Z",
             "province": "Maluku Utara"
         },
         {
-            "id": 408,
-            "partai": "PKS",
-            "jumlah_suara": 37778,
-            "updated_at": "2022-10-27T20:49:24.274Z",
-            "province": "Sulawesi Selatan"
-        },
-        {
-            "id": 395,
+            "id": 939,
             "partai": "PSI",
             "jumlah_suara": 37681,
-            "updated_at": "2022-10-27T20:49:24.274Z",
+            "updated_at": "2022-10-28T05:18:24.447Z",
             "province": "Riau"
         },
         {
-            "id": 73,
+            "id": 617,
             "partai": "PERINDO",
             "jumlah_suara": 37657,
-            "updated_at": "2022-10-27T20:49:24.274Z",
+            "updated_at": "2022-10-28T05:18:24.447Z",
             "province": "Bengkulu"
         },
         {
-            "id": 477,
+            "id": 1021,
             "partai": "HANURA",
             "jumlah_suara": 37630,
-            "updated_at": "2022-10-27T20:49:24.274Z",
+            "updated_at": "2022-10-28T05:18:24.447Z",
             "province": "Sulawesi Utara"
         },
         {
-            "id": 254,
+            "id": 798,
             "partai": "DEMOKRAT",
             "jumlah_suara": 37616,
-            "updated_at": "2022-10-27T20:49:24.274Z",
+            "updated_at": "2022-10-28T05:18:24.447Z",
             "province": "Kalimantan Utara"
         },
         {
-            "id": 47,
+            "id": 591,
             "partai": "PBB",
             "jumlah_suara": 37524,
-            "updated_at": "2022-10-27T20:49:24.274Z",
+            "updated_at": "2022-10-28T05:18:24.447Z",
             "province": "Bangka-Belitung"
         },
         {
-            "id": 123,
+            "id": 667,
             "partai": "PSI",
             "jumlah_suara": 37461,
-            "updated_at": "2022-10-27T20:49:24.274Z",
+            "updated_at": "2022-10-28T05:18:24.447Z",
             "province": "Jambi"
         },
         {
-            "id": 99,
+            "id": 643,
             "partai": "PDIP",
             "jumlah_suara": 37423,
-            "updated_at": "2022-10-27T20:49:24.274Z",
+            "updated_at": "2022-10-28T05:18:24.447Z",
             "province": "Gorontalo"
         },
         {
-            "id": 216,
+            "id": 760,
             "partai": "PKS",
             "jumlah_suara": 37110,
-            "updated_at": "2022-10-27T20:49:24.274Z",
+            "updated_at": "2022-10-28T05:18:24.447Z",
             "province": "Kalimantan Tengah"
         },
         {
-            "id": 42,
+            "id": 586,
             "partai": "PPP",
             "jumlah_suara": 36554,
-            "updated_at": "2022-10-27T20:49:24.274Z",
+            "updated_at": "2022-10-28T05:18:24.447Z",
             "province": "Bangka-Belitung"
         },
         {
-            "id": 25,
+            "id": 569,
             "partai": "PERINDO",
             "jumlah_suara": 36467,
-            "updated_at": "2022-10-27T20:49:24.274Z",
+            "updated_at": "2022-10-28T05:18:24.447Z",
             "province": "Bali"
         },
         {
-            "id": 431,
+            "id": 975,
             "partai": "PBB",
             "jumlah_suara": 36289,
-            "updated_at": "2022-10-27T20:49:24.274Z",
-            "province": "Sulawesi Barat"
-        },
-        {
-            "id": 110,
-            "partai": "DEMOKRAT",
-            "jumlah_suara": 35212,
-            "updated_at": "2022-10-27T20:49:24.274Z",
-            "province": "Gorontalo"
-        },
-        {
-            "id": 407,
-            "partai": "BERKARYA",
-            "jumlah_suara": 35047,
-            "updated_at": "2022-10-27T20:49:24.274Z",
+            "updated_at": "2022-10-28T05:18:24.447Z",
             "province": "Sulawesi Selatan"
         },
         {
-            "id": 176,
+            "id": 654,
+            "partai": "DEMOKRAT",
+            "jumlah_suara": 35212,
+            "updated_at": "2022-10-28T05:18:24.447Z",
+            "province": "Gorontalo"
+        },
+        {
+            "id": 720,
             "partai": "PKPI",
             "jumlah_suara": 34924,
-            "updated_at": "2022-10-27T20:49:24.274Z",
+            "updated_at": "2022-10-28T05:18:24.447Z",
             "province": "Jawa Timur"
         },
         {
-            "id": 257,
+            "id": 801,
             "partai": "PKB",
             "jumlah_suara": 34342,
-            "updated_at": "2022-10-27T20:49:24.274Z",
+            "updated_at": "2022-10-28T05:18:24.447Z",
             "province": "Kepulauan Riau"
         },
         {
-            "id": 40,
+            "id": 584,
             "partai": "PKS",
             "jumlah_suara": 34280,
-            "updated_at": "2022-10-27T20:49:24.274Z",
+            "updated_at": "2022-10-28T05:18:24.447Z",
             "province": "Bangka-Belitung"
         },
         {
-            "id": 300,
+            "id": 844,
             "partai": "PAN",
             "jumlah_suara": 33796,
-            "updated_at": "2022-10-27T20:49:24.274Z",
+            "updated_at": "2022-10-28T05:18:24.447Z",
             "province": "Maluku"
         },
         {
-            "id": 463,
-            "partai": "PBB",
-            "jumlah_suara": 33562,
-            "updated_at": "2022-10-27T20:49:24.274Z",
-            "province": "Sulawesi Tenggara"
-        },
-        {
-            "id": 306,
+            "id": 850,
             "partai": "GERINDRA",
             "jumlah_suara": 33333,
-            "updated_at": "2022-10-27T20:49:24.274Z",
+            "updated_at": "2022-10-28T05:18:24.447Z",
             "province": "Maluku Utara"
         },
         {
-            "id": 326,
+            "id": 998,
+            "partai": "GARUDA",
+            "jumlah_suara": 33044,
+            "updated_at": "2022-10-28T05:18:24.447Z",
+            "province": "Sulawesi Tenggara"
+        },
+        {
+            "id": 870,
             "partai": "GARUDA",
             "jumlah_suara": 32648,
-            "updated_at": "2022-10-27T20:49:24.274Z",
+            "updated_at": "2022-10-28T05:18:24.447Z",
             "province": "Nusa Tenggara Barat"
         },
         {
-            "id": 443,
+            "id": 987,
             "partai": "PSI",
             "jumlah_suara": 31837,
-            "updated_at": "2022-10-27T20:49:24.274Z",
+            "updated_at": "2022-10-28T05:18:24.447Z",
             "province": "Sulawesi Tengah"
         },
         {
-            "id": 346,
+            "id": 890,
             "partai": "PPP",
             "jumlah_suara": 30420,
-            "updated_at": "2022-10-27T20:49:24.274Z",
-            "province": "Nusa Tenggara Timur"
+            "updated_at": "2022-10-28T05:18:24.447Z",
+            "province": "Nusa Tenggara Timur "
         },
         {
-            "id": 74,
+            "id": 618,
             "partai": "PPP",
             "jumlah_suara": 30394,
-            "updated_at": "2022-10-27T20:49:24.274Z",
+            "updated_at": "2022-10-28T05:18:24.447Z",
             "province": "Bengkulu"
         },
         {
-            "id": 187,
+            "id": 731,
             "partai": "PSI",
             "jumlah_suara": 30145,
-            "updated_at": "2022-10-27T20:49:24.274Z",
+            "updated_at": "2022-10-28T05:18:24.447Z",
             "province": "Kalimantan Barat"
         },
         {
-            "id": 369,
+            "id": 913,
             "partai": "PKB",
             "jumlah_suara": 29843,
-            "updated_at": "2022-10-27T20:49:24.274Z",
+            "updated_at": "2022-10-28T05:18:24.447Z",
             "province": "Papua Barat"
         },
         {
-            "id": 342,
+            "id": 886,
             "partai": "GARUDA",
             "jumlah_suara": 29665,
-            "updated_at": "2022-10-27T20:49:24.274Z",
-            "province": "Nusa Tenggara Timur"
+            "updated_at": "2022-10-28T05:18:24.447Z",
+            "province": "Nusa Tenggara Timur "
         },
         {
-            "id": 399,
+            "id": 943,
             "partai": "PBB",
             "jumlah_suara": 29515,
-            "updated_at": "2022-10-27T20:49:24.274Z",
+            "updated_at": "2022-10-28T05:18:24.447Z",
             "province": "Riau"
         },
         {
-            "id": 502,
+            "id": 1046,
             "partai": "GARUDA",
             "jumlah_suara": 29097,
-            "updated_at": "2022-10-27T20:49:24.274Z",
+            "updated_at": "2022-10-28T05:18:24.447Z",
             "province": "Sumatera Selatan"
         },
         {
-            "id": 295,
+            "id": 839,
             "partai": "BERKARYA",
             "jumlah_suara": 28942,
-            "updated_at": "2022-10-27T20:49:24.274Z",
+            "updated_at": "2022-10-28T05:18:24.447Z",
             "province": "Maluku"
         },
         {
-            "id": 11,
+            "id": 555,
             "partai": "PSI",
             "jumlah_suara": 28922,
-            "updated_at": "2022-10-27T20:49:24.274Z",
+            "updated_at": "2022-10-28T05:18:24.447Z",
             "province": "Aceh"
         },
         {
-            "id": 455,
-            "partai": "BERKARYA",
-            "jumlah_suara": 28189,
-            "updated_at": "2022-10-27T20:49:24.274Z",
-            "province": "Sulawesi Tenggara"
-        },
-        {
-            "id": 237,
-            "partai": "HANURA",
-            "jumlah_suara": 28034,
-            "updated_at": "2022-10-27T20:49:24.274Z",
-            "province": "Kalimantan Timur"
-        },
-        {
-            "id": 317,
-            "partai": "HANURA",
-            "jumlah_suara": 28025,
-            "updated_at": "2022-10-27T20:49:24.274Z",
-            "province": "Maluku Utara"
-        },
-        {
-            "id": 474,
-            "partai": "PPP",
-            "jumlah_suara": 27990,
-            "updated_at": "2022-10-27T20:49:24.274Z",
-            "province": "Sulawesi Utara"
-        },
-        {
-            "id": 278,
-            "partai": "GARUDA",
-            "jumlah_suara": 27781,
-            "updated_at": "2022-10-27T20:49:24.274Z",
-            "province": "Lampung"
-        },
-        {
-            "id": 537,
-            "partai": "PERINDO",
-            "jumlah_suara": 27364,
-            "updated_at": "2022-10-27T20:49:24.274Z",
-            "province": "DI Yogyakarta"
-        },
-        {
-            "id": 475,
-            "partai": "PSI",
-            "jumlah_suara": 26953,
-            "updated_at": "2022-10-27T20:49:24.274Z",
-            "province": "Sulawesi Utara"
-        },
-        {
-            "id": 438,
-            "partai": "GARUDA",
-            "jumlah_suara": 26818,
-            "updated_at": "2022-10-27T20:49:24.274Z",
-            "province": "Sulawesi Tengah"
-        },
-        {
-            "id": 380,
+            "id": 956,
             "partai": "PAN",
-            "jumlah_suara": 26429,
-            "updated_at": "2022-10-27T20:49:24.274Z",
-            "province": "Papua Barat"
-        },
-        {
-            "id": 215,
-            "partai": "BERKARYA",
-            "jumlah_suara": 26073,
-            "updated_at": "2022-10-27T20:49:24.274Z",
-            "province": "Kalimantan Tengah"
-        },
-        {
-            "id": 54,
-            "partai": "GARUDA",
-            "jumlah_suara": 25925,
-            "updated_at": "2022-10-27T20:49:24.274Z",
-            "province": "Banten"
-        },
-        {
-            "id": 422,
-            "partai": "GARUDA",
-            "jumlah_suara": 25857,
-            "updated_at": "2022-10-27T20:49:24.274Z",
+            "jumlah_suara": 28872,
+            "updated_at": "2022-10-28T05:18:24.447Z",
             "province": "Sulawesi Barat"
         },
         {
-            "id": 241,
-            "partai": "PKB",
-            "jumlah_suara": 25700,
-            "updated_at": "2022-10-27T20:49:24.274Z",
-            "province": "Kalimantan Utara"
-        },
-        {
-            "id": 13,
+            "id": 781,
             "partai": "HANURA",
-            "jumlah_suara": 25686,
-            "updated_at": "2022-10-27T20:49:24.274Z",
-            "province": "Aceh"
-        },
-        {
-            "id": 358,
-            "partai": "GARUDA",
-            "jumlah_suara": 25433,
-            "updated_at": "2022-10-27T20:49:24.274Z",
-            "province": "Papua"
-        },
-        {
-            "id": 104,
-            "partai": "PKS",
-            "jumlah_suara": 24945,
-            "updated_at": "2022-10-27T20:49:24.274Z",
-            "province": "Gorontalo"
-        },
-        {
-            "id": 244,
-            "partai": "GOLKAR",
-            "jumlah_suara": 24794,
-            "updated_at": "2022-10-27T20:49:24.274Z",
-            "province": "Kalimantan Utara"
-        },
-        {
-            "id": 235,
-            "partai": "PSI",
-            "jumlah_suara": 24247,
-            "updated_at": "2022-10-27T20:49:24.274Z",
+            "jumlah_suara": 28034,
+            "updated_at": "2022-10-28T05:18:24.447Z",
             "province": "Kalimantan Timur"
         },
         {
-            "id": 331,
-            "partai": "PSI",
-            "jumlah_suara": 24162,
-            "updated_at": "2022-10-27T20:49:24.274Z",
-            "province": "Nusa Tenggara Barat"
-        },
-        {
-            "id": 310,
-            "partai": "GARUDA",
-            "jumlah_suara": 24080,
-            "updated_at": "2022-10-27T20:49:24.274Z",
-            "province": "Maluku Utara"
-        },
-        {
-            "id": 29,
+            "id": 861,
             "partai": "HANURA",
-            "jumlah_suara": 23843,
-            "updated_at": "2022-10-27T20:49:24.274Z",
-            "province": "Bali"
-        },
-        {
-            "id": 207,
-            "partai": "PBB",
-            "jumlah_suara": 23681,
-            "updated_at": "2022-10-27T20:49:24.274Z",
-            "province": "Kalimantan Selatan"
-        },
-        {
-            "id": 71,
-            "partai": "BERKARYA",
-            "jumlah_suara": 23633,
-            "updated_at": "2022-10-27T20:49:24.274Z",
-            "province": "Bengkulu"
-        },
-        {
-            "id": 311,
-            "partai": "BERKARYA",
-            "jumlah_suara": 21877,
-            "updated_at": "2022-10-27T20:49:24.274Z",
+            "jumlah_suara": 28025,
+            "updated_at": "2022-10-28T05:18:24.447Z",
             "province": "Maluku Utara"
         },
         {
-            "id": 108,
-            "partai": "PAN",
-            "jumlah_suara": 21840,
-            "updated_at": "2022-10-27T20:49:24.274Z",
-            "province": "Gorontalo"
+            "id": 1018,
+            "partai": "PPP",
+            "jumlah_suara": 27990,
+            "updated_at": "2022-10-28T05:18:24.447Z",
+            "province": "Sulawesi Utara"
         },
         {
-            "id": 248,
-            "partai": "PKS",
-            "jumlah_suara": 21718,
-            "updated_at": "2022-10-27T20:49:24.274Z",
+            "id": 822,
+            "partai": "GARUDA",
+            "jumlah_suara": 27781,
+            "updated_at": "2022-10-28T05:18:24.447Z",
+            "province": "Lampung"
+        },
+        {
+            "id": 1081,
+            "partai": "PERINDO",
+            "jumlah_suara": 27364,
+            "updated_at": "2022-10-28T05:18:24.447Z",
+            "province": "Yogyakarta"
+        },
+        {
+            "id": 1019,
+            "partai": "PSI",
+            "jumlah_suara": 26953,
+            "updated_at": "2022-10-28T05:18:24.447Z",
+            "province": "Sulawesi Utara"
+        },
+        {
+            "id": 982,
+            "partai": "GARUDA",
+            "jumlah_suara": 26818,
+            "updated_at": "2022-10-28T05:18:24.447Z",
+            "province": "Sulawesi Tengah"
+        },
+        {
+            "id": 924,
+            "partai": "PAN",
+            "jumlah_suara": 26429,
+            "updated_at": "2022-10-28T05:18:24.447Z",
+            "province": "Papua Barat"
+        },
+        {
+            "id": 957,
+            "partai": "HANURA",
+            "jumlah_suara": 26208,
+            "updated_at": "2022-10-28T05:18:24.447Z",
+            "province": "Sulawesi Barat"
+        },
+        {
+            "id": 759,
+            "partai": "BERKARYA",
+            "jumlah_suara": 26073,
+            "updated_at": "2022-10-28T05:18:24.447Z",
+            "province": "Kalimantan Tengah"
+        },
+        {
+            "id": 598,
+            "partai": "GARUDA",
+            "jumlah_suara": 25925,
+            "updated_at": "2022-10-28T05:18:24.447Z",
+            "province": "Banten"
+        },
+        {
+            "id": 966,
+            "partai": "GARUDA",
+            "jumlah_suara": 25857,
+            "updated_at": "2022-10-28T05:18:24.447Z",
+            "province": "Sulawesi Selatan"
+        },
+        {
+            "id": 785,
+            "partai": "PKB",
+            "jumlah_suara": 25700,
+            "updated_at": "2022-10-28T05:18:24.447Z",
             "province": "Kalimantan Utara"
         },
         {
-            "id": 368,
-            "partai": "PKPI",
-            "jumlah_suara": 21600,
-            "updated_at": "2022-10-27T20:49:24.274Z",
+            "id": 557,
+            "partai": "HANURA",
+            "jumlah_suara": 25686,
+            "updated_at": "2022-10-28T05:18:24.447Z",
+            "province": "Aceh"
+        },
+        {
+            "id": 902,
+            "partai": "GARUDA",
+            "jumlah_suara": 25433,
+            "updated_at": "2022-10-28T05:18:24.447Z",
             "province": "Papua"
         },
         {
-            "id": 160,
+            "id": 648,
+            "partai": "PKS",
+            "jumlah_suara": 24945,
+            "updated_at": "2022-10-28T05:18:24.447Z",
+            "province": "Gorontalo"
+        },
+        {
+            "id": 788,
+            "partai": "GOLKAR",
+            "jumlah_suara": 24794,
+            "updated_at": "2022-10-28T05:18:24.447Z",
+            "province": "Kalimantan Utara"
+        },
+        {
+            "id": 779,
+            "partai": "PSI",
+            "jumlah_suara": 24247,
+            "updated_at": "2022-10-28T05:18:24.447Z",
+            "province": "Kalimantan Timur"
+        },
+        {
+            "id": 875,
+            "partai": "PSI",
+            "jumlah_suara": 24162,
+            "updated_at": "2022-10-28T05:18:24.447Z",
+            "province": "Nusa Tenggara Barat"
+        },
+        {
+            "id": 854,
+            "partai": "GARUDA",
+            "jumlah_suara": 24080,
+            "updated_at": "2022-10-28T05:18:24.447Z",
+            "province": "Maluku Utara"
+        },
+        {
+            "id": 573,
+            "partai": "HANURA",
+            "jumlah_suara": 23843,
+            "updated_at": "2022-10-28T05:18:24.447Z",
+            "province": "Bali"
+        },
+        {
+            "id": 751,
+            "partai": "PBB",
+            "jumlah_suara": 23681,
+            "updated_at": "2022-10-28T05:18:24.447Z",
+            "province": "Kalimantan Selatan"
+        },
+        {
+            "id": 615,
+            "partai": "BERKARYA",
+            "jumlah_suara": 23633,
+            "updated_at": "2022-10-28T05:18:24.447Z",
+            "province": "Bengkulu"
+        },
+        {
+            "id": 855,
+            "partai": "BERKARYA",
+            "jumlah_suara": 21877,
+            "updated_at": "2022-10-28T05:18:24.447Z",
+            "province": "Maluku Utara"
+        },
+        {
+            "id": 652,
+            "partai": "PAN",
+            "jumlah_suara": 21840,
+            "updated_at": "2022-10-28T05:18:24.447Z",
+            "province": "Gorontalo"
+        },
+        {
+            "id": 792,
+            "partai": "PKS",
+            "jumlah_suara": 21718,
+            "updated_at": "2022-10-28T05:18:24.447Z",
+            "province": "Kalimantan Utara"
+        },
+        {
+            "id": 912,
+            "partai": "PKPI",
+            "jumlah_suara": 21600,
+            "updated_at": "2022-10-28T05:18:24.447Z",
+            "province": "Papua"
+        },
+        {
+            "id": 704,
             "partai": "PKPI",
             "jumlah_suara": 21538,
-            "updated_at": "2022-10-27T20:49:24.274Z",
+            "updated_at": "2022-10-28T05:18:24.447Z",
             "province": "Jawa Tengah"
         },
         {
-            "id": 252,
+            "id": 796,
             "partai": "PAN",
             "jumlah_suara": 21391,
-            "updated_at": "2022-10-27T20:49:24.274Z",
+            "updated_at": "2022-10-28T05:18:24.447Z",
             "province": "Kalimantan Utara"
         },
         {
-            "id": 267,
+            "id": 811,
             "partai": "PSI",
             "jumlah_suara": 20580,
-            "updated_at": "2022-10-27T20:49:24.274Z",
+            "updated_at": "2022-10-28T05:18:24.447Z",
             "province": "Kepulauan Riau"
         },
         {
-            "id": 457,
-            "partai": "PERINDO",
-            "jumlah_suara": 20479,
-            "updated_at": "2022-10-27T20:49:24.274Z",
-            "province": "Sulawesi Tenggara"
-        },
-        {
-            "id": 447,
+            "id": 991,
             "partai": "PBB",
             "jumlah_suara": 20377,
-            "updated_at": "2022-10-27T20:49:24.274Z",
+            "updated_at": "2022-10-28T05:18:24.447Z",
             "province": "Sulawesi Tengah"
         },
         {
-            "id": 471,
+            "id": 1015,
             "partai": "BERKARYA",
             "jumlah_suara": 20221,
-            "updated_at": "2022-10-27T20:49:24.274Z",
+            "updated_at": "2022-10-28T05:18:24.447Z",
             "province": "Sulawesi Utara"
         },
         {
-            "id": 377,
+            "id": 921,
             "partai": "PERINDO",
             "jumlah_suara": 20010,
-            "updated_at": "2022-10-27T20:49:24.274Z",
+            "updated_at": "2022-10-28T05:18:24.447Z",
             "province": "Papua Barat"
         },
         {
-            "id": 266,
+            "id": 810,
             "partai": "PPP",
             "jumlah_suara": 19259,
-            "updated_at": "2022-10-27T20:49:24.274Z",
+            "updated_at": "2022-10-28T05:18:24.447Z",
             "province": "Kepulauan Riau"
         },
         {
-            "id": 33,
+            "id": 577,
             "partai": "PKB",
             "jumlah_suara": 19227,
-            "updated_at": "2022-10-27T20:49:24.274Z",
+            "updated_at": "2022-10-28T05:18:24.447Z",
             "province": "Bangka-Belitung"
         },
         {
-            "id": 518,
+            "id": 1062,
             "partai": "GARUDA",
             "jumlah_suara": 19060,
-            "updated_at": "2022-10-27T20:49:24.274Z",
+            "updated_at": "2022-10-28T05:18:24.447Z",
             "province": "Sumatera Utara"
         },
         {
-            "id": 9,
+            "id": 553,
             "partai": "PERINDO",
             "jumlah_suara": 18266,
-            "updated_at": "2022-10-27T20:49:24.274Z",
+            "updated_at": "2022-10-28T05:18:24.447Z",
             "province": "Aceh"
         },
         {
-            "id": 265,
+            "id": 809,
             "partai": "PERINDO",
             "jumlah_suara": 18256,
-            "updated_at": "2022-10-27T20:49:24.274Z",
+            "updated_at": "2022-10-28T05:18:24.447Z",
             "province": "Kepulauan Riau"
         },
         {
-            "id": 127,
+            "id": 671,
             "partai": "PBB",
             "jumlah_suara": 18212,
-            "updated_at": "2022-10-27T20:49:24.274Z",
+            "updated_at": "2022-10-28T05:18:24.447Z",
             "province": "Jambi"
         },
         {
-            "id": 528,
+            "id": 1072,
             "partai": "PKPI",
             "jumlah_suara": 17960,
-            "updated_at": "2022-10-27T20:49:24.274Z",
+            "updated_at": "2022-10-28T05:18:24.447Z",
             "province": "Sumatera Utara"
         },
         {
-            "id": 75,
+            "id": 619,
             "partai": "PSI",
             "jumlah_suara": 17759,
-            "updated_at": "2022-10-27T20:49:24.274Z",
+            "updated_at": "2022-10-28T05:18:24.447Z",
             "province": "Bengkulu"
         },
         {
-            "id": 459,
-            "partai": "PSI",
-            "jumlah_suara": 17680,
-            "updated_at": "2022-10-27T20:49:24.274Z",
-            "province": "Sulawesi Tenggara"
-        },
-        {
-            "id": 465,
+            "id": 1009,
             "partai": "PKB",
             "jumlah_suara": 17530,
-            "updated_at": "2022-10-27T20:49:24.274Z",
+            "updated_at": "2022-10-28T05:18:24.447Z",
             "province": "Sulawesi Utara"
         },
         {
-            "id": 486,
+            "id": 1030,
             "partai": "GARUDA",
             "jumlah_suara": 17510,
-            "updated_at": "2022-10-27T20:49:24.274Z",
+            "updated_at": "2022-10-28T05:18:24.447Z",
             "province": "Sumatera Barat"
         },
         {
-            "id": 242,
+            "id": 786,
             "partai": "GERINDRA",
             "jumlah_suara": 17480,
-            "updated_at": "2022-10-27T20:49:24.274Z",
+            "updated_at": "2022-10-28T05:18:24.447Z",
             "province": "Kalimantan Utara"
         },
         {
-            "id": 472,
+            "id": 1016,
             "partai": "PKS",
             "jumlah_suara": 17453,
-            "updated_at": "2022-10-27T20:49:24.274Z",
+            "updated_at": "2022-10-28T05:18:24.447Z",
             "province": "Sulawesi Utara"
         },
         {
-            "id": 299,
+            "id": 843,
             "partai": "PSI",
             "jumlah_suara": 17380,
-            "updated_at": "2022-10-27T20:49:24.274Z",
+            "updated_at": "2022-10-28T05:18:24.447Z",
             "province": "Maluku"
         },
         {
-            "id": 203,
+            "id": 747,
             "partai": "PSI",
             "jumlah_suara": 16907,
-            "updated_at": "2022-10-27T20:49:24.274Z",
+            "updated_at": "2022-10-28T05:18:24.447Z",
             "province": "Kalimantan Selatan"
         },
         {
-            "id": 86,
+            "id": 630,
             "partai": "GARUDA",
             "jumlah_suara": 16804,
-            "updated_at": "2022-10-27T20:49:24.274Z",
+            "updated_at": "2022-10-28T05:18:24.447Z",
             "province": "DKI Jakarta"
         },
         {
-            "id": 77,
+            "id": 621,
             "partai": "HANURA",
             "jumlah_suara": 16392,
-            "updated_at": "2022-10-27T20:49:24.274Z",
+            "updated_at": "2022-10-28T05:18:24.447Z",
             "province": "Bengkulu"
         },
         {
-            "id": 205,
+            "id": 749,
             "partai": "HANURA",
             "jumlah_suara": 16328,
-            "updated_at": "2022-10-27T20:49:24.274Z",
+            "updated_at": "2022-10-28T05:18:24.447Z",
             "province": "Kalimantan Selatan"
         },
         {
-            "id": 316,
+            "id": 860,
             "partai": "PAN",
             "jumlah_suara": 16200,
-            "updated_at": "2022-10-27T20:49:24.274Z",
+            "updated_at": "2022-10-28T05:18:24.447Z",
             "province": "Maluku Utara"
         },
         {
-            "id": 376,
+            "id": 920,
             "partai": "PKS",
             "jumlah_suara": 16162,
-            "updated_at": "2022-10-27T20:49:24.274Z",
+            "updated_at": "2022-10-28T05:18:24.447Z",
             "province": "Papua Barat"
         },
         {
-            "id": 352,
+            "id": 896,
             "partai": "PKPI",
             "jumlah_suara": 16115,
-            "updated_at": "2022-10-27T20:49:24.274Z",
-            "province": "Nusa Tenggara Timur"
+            "updated_at": "2022-10-28T05:18:24.447Z",
+            "province": "Nusa Tenggara Timur "
         },
         {
-            "id": 263,
+            "id": 807,
             "partai": "BERKARYA",
             "jumlah_suara": 16073,
-            "updated_at": "2022-10-27T20:49:24.274Z",
+            "updated_at": "2022-10-28T05:18:24.447Z",
             "province": "Kepulauan Riau"
         },
         {
-            "id": 269,
+            "id": 813,
             "partai": "HANURA",
             "jumlah_suara": 16054,
-            "updated_at": "2022-10-27T20:49:24.274Z",
+            "updated_at": "2022-10-28T05:18:24.447Z",
             "province": "Kepulauan Riau"
         },
         {
-            "id": 41,
+            "id": 585,
             "partai": "PERINDO",
             "jumlah_suara": 16029,
-            "updated_at": "2022-10-27T20:49:24.274Z",
+            "updated_at": "2022-10-28T05:18:24.447Z",
             "province": "Bangka-Belitung"
         },
         {
-            "id": 411,
-            "partai": "PSI",
-            "jumlah_suara": 15953,
-            "updated_at": "2022-10-27T20:49:24.274Z",
-            "province": "Sulawesi Selatan"
-        },
-        {
-            "id": 314,
+            "id": 858,
             "partai": "PPP",
             "jumlah_suara": 15861,
-            "updated_at": "2022-10-27T20:49:24.274Z",
+            "updated_at": "2022-10-28T05:18:24.447Z",
             "province": "Maluku Utara"
         },
         {
-            "id": 367,
+            "id": 911,
             "partai": "PBB",
             "jumlah_suara": 15840,
-            "updated_at": "2022-10-27T20:49:24.274Z",
+            "updated_at": "2022-10-28T05:18:24.447Z",
             "province": "Papua"
         },
         {
-            "id": 381,
+            "id": 925,
             "partai": "HANURA",
             "jumlah_suara": 15750,
-            "updated_at": "2022-10-27T20:49:24.274Z",
+            "updated_at": "2022-10-28T05:18:24.447Z",
             "province": "Papua Barat"
         },
         {
-            "id": 6,
+            "id": 550,
             "partai": "GARUDA",
             "jumlah_suara": 15583,
-            "updated_at": "2022-10-27T20:49:24.274Z",
+            "updated_at": "2022-10-28T05:18:24.447Z",
             "province": "Aceh"
         },
         {
-            "id": 287,
+            "id": 831,
             "partai": "PBB",
             "jumlah_suara": 15522,
-            "updated_at": "2022-10-27T20:49:24.274Z",
+            "updated_at": "2022-10-28T05:18:24.447Z",
             "province": "Lampung"
         },
         {
-            "id": 44,
+            "id": 588,
             "partai": "PAN",
             "jumlah_suara": 14830,
-            "updated_at": "2022-10-27T20:49:24.274Z",
+            "updated_at": "2022-10-28T05:18:24.447Z",
             "province": "Bangka-Belitung"
         },
         {
-            "id": 390,
+            "id": 934,
             "partai": "GARUDA",
             "jumlah_suara": 14318,
-            "updated_at": "2022-10-27T20:49:24.274Z",
+            "updated_at": "2022-10-28T05:18:24.447Z",
             "province": "Riau"
         },
         {
-            "id": 125,
+            "id": 669,
             "partai": "HANURA",
             "jumlah_suara": 13944,
-            "updated_at": "2022-10-27T20:49:24.274Z",
+            "updated_at": "2022-10-28T05:18:24.447Z",
             "province": "Jambi"
         },
         {
-            "id": 103,
+            "id": 647,
             "partai": "BERKARYA",
             "jumlah_suara": 13786,
-            "updated_at": "2022-10-27T20:49:24.274Z",
+            "updated_at": "2022-10-28T05:18:24.447Z",
             "province": "Gorontalo"
         },
         {
-            "id": 39,
+            "id": 583,
             "partai": "BERKARYA",
             "jumlah_suara": 13193,
-            "updated_at": "2022-10-27T20:49:24.274Z",
+            "updated_at": "2022-10-28T05:18:24.447Z",
             "province": "Bangka-Belitung"
         },
         {
-            "id": 221,
+            "id": 765,
             "partai": "HANURA",
             "jumlah_suara": 12914,
-            "updated_at": "2022-10-27T20:49:24.274Z",
+            "updated_at": "2022-10-28T05:18:24.447Z",
             "province": "Kalimantan Tengah"
         },
         {
-            "id": 96,
+            "id": 640,
             "partai": "PKPI",
             "jumlah_suara": 12844,
-            "updated_at": "2022-10-27T20:49:24.274Z",
+            "updated_at": "2022-10-28T05:18:24.447Z",
             "province": "DKI Jakarta"
         },
         {
-            "id": 192,
+            "id": 736,
             "partai": "PKPI",
             "jumlah_suara": 12590,
-            "updated_at": "2022-10-27T20:49:24.274Z",
+            "updated_at": "2022-10-28T05:18:24.447Z",
             "province": "Kalimantan Barat"
         },
         {
-            "id": 239,
+            "id": 783,
             "partai": "PBB",
             "jumlah_suara": 12558,
-            "updated_at": "2022-10-27T20:49:24.274Z",
+            "updated_at": "2022-10-28T05:18:24.447Z",
             "province": "Kalimantan Timur"
         },
         {
-            "id": 26,
+            "id": 570,
             "partai": "PPP",
             "jumlah_suara": 12195,
-            "updated_at": "2022-10-27T20:49:24.274Z",
+            "updated_at": "2022-10-28T05:18:24.447Z",
             "province": "Bali"
         },
         {
-            "id": 336,
+            "id": 880,
             "partai": "PKPI",
             "jumlah_suara": 12094,
-            "updated_at": "2022-10-27T20:49:24.274Z",
+            "updated_at": "2022-10-28T05:18:24.447Z",
             "province": "Nusa Tenggara Barat"
         },
         {
-            "id": 45,
+            "id": 589,
             "partai": "HANURA",
             "jumlah_suara": 12084,
-            "updated_at": "2022-10-27T20:49:24.274Z",
+            "updated_at": "2022-10-28T05:18:24.447Z",
             "province": "Bangka-Belitung"
         },
         {
-            "id": 461,
-            "partai": "HANURA",
-            "jumlah_suara": 12039,
-            "updated_at": "2022-10-27T20:49:24.274Z",
-            "province": "Sulawesi Tenggara"
-        },
-        {
-            "id": 97,
+            "id": 641,
             "partai": "PKB",
             "jumlah_suara": 11973,
-            "updated_at": "2022-10-27T20:49:24.274Z",
+            "updated_at": "2022-10-28T05:18:24.447Z",
             "province": "Gorontalo"
         },
         {
-            "id": 219,
+            "id": 763,
             "partai": "PSI",
             "jumlah_suara": 11941,
-            "updated_at": "2022-10-27T20:49:24.274Z",
+            "updated_at": "2022-10-28T05:18:24.447Z",
             "province": "Kalimantan Tengah"
         },
         {
-            "id": 250,
+            "id": 954,
             "partai": "PPP",
-            "jumlah_suara": 11790,
-            "updated_at": "2022-10-27T20:49:24.274Z",
-            "province": "Kalimantan Utara"
-        },
-        {
-            "id": 191,
-            "partai": "PBB",
-            "jumlah_suara": 11161,
-            "updated_at": "2022-10-27T20:49:24.274Z",
-            "province": "Kalimantan Barat"
-        },
-        {
-            "id": 375,
-            "partai": "BERKARYA",
-            "jumlah_suara": 11016,
-            "updated_at": "2022-10-27T20:49:24.274Z",
-            "province": "Papua Barat"
-        },
-        {
-            "id": 182,
-            "partai": "GARUDA",
-            "jumlah_suara": 10930,
-            "updated_at": "2022-10-27T20:49:24.274Z",
-            "province": "Kalimantan Barat"
-        },
-        {
-            "id": 80,
-            "partai": "PKPI",
-            "jumlah_suara": 10633,
-            "updated_at": "2022-10-27T20:49:24.274Z",
-            "province": "Bengkulu"
-        },
-        {
-            "id": 64,
-            "partai": "PKPI",
-            "jumlah_suara": 10485,
-            "updated_at": "2022-10-27T20:49:24.274Z",
-            "province": "Banten"
-        },
-        {
-            "id": 415,
-            "partai": "PBB",
-            "jumlah_suara": 10231,
-            "updated_at": "2022-10-27T20:49:24.274Z",
-            "province": "Sulawesi Selatan"
-        },
-        {
-            "id": 512,
-            "partai": "PKPI",
-            "jumlah_suara": 10128,
-            "updated_at": "2022-10-27T20:49:24.274Z",
-            "province": "Sumatera Selatan"
-        },
-        {
-            "id": 470,
-            "partai": "GARUDA",
-            "jumlah_suara": 10005,
-            "updated_at": "2022-10-27T20:49:24.274Z",
-            "province": "Sulawesi Utara"
-        },
-        {
-            "id": 304,
-            "partai": "PKPI",
-            "jumlah_suara": 9758,
-            "updated_at": "2022-10-27T20:49:24.274Z",
-            "province": "Maluku"
-        },
-        {
-            "id": 413,
-            "partai": "HANURA",
-            "jumlah_suara": 9629,
-            "updated_at": "2022-10-27T20:49:24.274Z",
-            "province": "Sulawesi Selatan"
-        },
-        {
-            "id": 543,
-            "partai": "PBB",
-            "jumlah_suara": 9378,
-            "updated_at": "2022-10-27T20:49:24.274Z",
-            "province": "DI Yogyakarta"
-        },
-        {
-            "id": 253,
-            "partai": "HANURA",
-            "jumlah_suara": 9317,
-            "updated_at": "2022-10-27T20:49:24.274Z",
-            "province": "Kalimantan Utara"
-        },
-        {
-            "id": 351,
-            "partai": "PBB",
-            "jumlah_suara": 9152,
-            "updated_at": "2022-10-27T20:49:24.274Z",
-            "province": "Nusa Tenggara Timur"
-        },
-        {
-            "id": 214,
-            "partai": "GARUDA",
-            "jumlah_suara": 9076,
-            "updated_at": "2022-10-27T20:49:24.274Z",
-            "province": "Kalimantan Tengah"
-        },
-        {
-            "id": 22,
-            "partai": "GARUDA",
-            "jumlah_suara": 8825,
-            "updated_at": "2022-10-27T20:49:24.274Z",
-            "province": "Bali"
-        },
-        {
-            "id": 288,
-            "partai": "PKPI",
-            "jumlah_suara": 8699,
-            "updated_at": "2022-10-27T20:49:24.274Z",
-            "province": "Lampung"
-        },
-        {
-            "id": 534,
-            "partai": "GARUDA",
-            "jumlah_suara": 8675,
-            "updated_at": "2022-10-27T20:49:24.274Z",
-            "province": "DI Yogyakarta"
-        },
-        {
-            "id": 319,
-            "partai": "PBB",
-            "jumlah_suara": 8505,
-            "updated_at": "2022-10-27T20:49:24.274Z",
-            "province": "Maluku Utara"
-        },
-        {
-            "id": 16,
-            "partai": "PKPI",
-            "jumlah_suara": 8471,
-            "updated_at": "2022-10-27T20:49:24.274Z",
-            "province": "Aceh"
-        },
-        {
-            "id": 315,
-            "partai": "PSI",
-            "jumlah_suara": 8425,
-            "updated_at": "2022-10-27T20:49:24.274Z",
-            "province": "Maluku Utara"
-        },
-        {
-            "id": 79,
-            "partai": "PBB",
-            "jumlah_suara": 8210,
-            "updated_at": "2022-10-27T20:49:24.274Z",
-            "province": "Bengkulu"
-        },
-        {
-            "id": 28,
-            "partai": "PAN",
-            "jumlah_suara": 8136,
-            "updated_at": "2022-10-27T20:49:24.274Z",
-            "province": "Bali"
-        },
-        {
-            "id": 378,
-            "partai": "PPP",
-            "jumlah_suara": 8089,
-            "updated_at": "2022-10-27T20:49:24.274Z",
-            "province": "Papua Barat"
-        },
-        {
-            "id": 198,
-            "partai": "GARUDA",
-            "jumlah_suara": 8015,
-            "updated_at": "2022-10-27T20:49:24.274Z",
-            "province": "Kalimantan Selatan"
-        },
-        {
-            "id": 118,
-            "partai": "GARUDA",
-            "jumlah_suara": 7857,
-            "updated_at": "2022-10-27T20:49:24.274Z",
-            "province": "Jambi"
-        },
-        {
-            "id": 249,
-            "partai": "PERINDO",
-            "jumlah_suara": 7725,
-            "updated_at": "2022-10-27T20:49:24.274Z",
-            "province": "Kalimantan Utara"
-        },
-        {
-            "id": 432,
-            "partai": "PKPI",
-            "jumlah_suara": 7683,
-            "updated_at": "2022-10-27T20:49:24.274Z",
+            "jumlah_suara": 11849,
+            "updated_at": "2022-10-28T05:18:24.447Z",
             "province": "Sulawesi Barat"
         },
         {
-            "id": 294,
-            "partai": "GARUDA",
-            "jumlah_suara": 7613,
-            "updated_at": "2022-10-27T20:49:24.274Z",
-            "province": "Maluku"
+            "id": 794,
+            "partai": "PPP",
+            "jumlah_suara": 11790,
+            "updated_at": "2022-10-28T05:18:24.447Z",
+            "province": "Kalimantan Utara"
         },
         {
-            "id": 70,
+            "id": 735,
+            "partai": "PBB",
+            "jumlah_suara": 11161,
+            "updated_at": "2022-10-28T05:18:24.447Z",
+            "province": "Kalimantan Barat"
+        },
+        {
+            "id": 919,
+            "partai": "BERKARYA",
+            "jumlah_suara": 11016,
+            "updated_at": "2022-10-28T05:18:24.447Z",
+            "province": "Papua Barat"
+        },
+        {
+            "id": 726,
             "partai": "GARUDA",
-            "jumlah_suara": 7582,
-            "updated_at": "2022-10-27T20:49:24.274Z",
+            "jumlah_suara": 10930,
+            "updated_at": "2022-10-28T05:18:24.447Z",
+            "province": "Kalimantan Barat"
+        },
+        {
+            "id": 624,
+            "partai": "PKPI",
+            "jumlah_suara": 10633,
+            "updated_at": "2022-10-28T05:18:24.447Z",
             "province": "Bengkulu"
         },
         {
-            "id": 271,
-            "partai": "PBB",
-            "jumlah_suara": 7534,
-            "updated_at": "2022-10-27T20:49:24.274Z",
-            "province": "Kepulauan Riau"
-        },
-        {
-            "id": 109,
-            "partai": "HANURA",
-            "jumlah_suara": 7041,
-            "updated_at": "2022-10-27T20:49:24.274Z",
-            "province": "Gorontalo"
-        },
-        {
-            "id": 541,
-            "partai": "HANURA",
-            "jumlah_suara": 6987,
-            "updated_at": "2022-10-27T20:49:24.274Z",
-            "province": "DI Yogyakarta"
-        },
-        {
-            "id": 379,
-            "partai": "PSI",
-            "jumlah_suara": 6919,
-            "updated_at": "2022-10-27T20:49:24.274Z",
-            "province": "Papua Barat"
-        },
-        {
-            "id": 454,
-            "partai": "GARUDA",
-            "jumlah_suara": 6226,
-            "updated_at": "2022-10-27T20:49:24.274Z",
-            "province": "Sulawesi Tenggara"
-        },
-        {
-            "id": 105,
+            "id": 953,
             "partai": "PERINDO",
-            "jumlah_suara": 6116,
-            "updated_at": "2022-10-27T20:49:24.274Z",
-            "province": "Gorontalo"
+            "jumlah_suara": 10601,
+            "updated_at": "2022-10-28T05:18:24.447Z",
+            "province": "Sulawesi Barat"
         },
         {
-            "id": 400,
+            "id": 608,
             "partai": "PKPI",
-            "jumlah_suara": 5710,
-            "updated_at": "2022-10-27T20:49:24.274Z",
-            "province": "Riau"
+            "jumlah_suara": 10485,
+            "updated_at": "2022-10-28T05:18:24.447Z",
+            "province": "Banten"
         },
         {
-            "id": 303,
-            "partai": "PBB",
-            "jumlah_suara": 5060,
-            "updated_at": "2022-10-27T20:49:24.274Z",
+            "id": 952,
+            "partai": "PKS",
+            "jumlah_suara": 10219,
+            "updated_at": "2022-10-28T05:18:24.447Z",
+            "province": "Sulawesi Barat"
+        },
+        {
+            "id": 1056,
+            "partai": "PKPI",
+            "jumlah_suara": 10128,
+            "updated_at": "2022-10-28T05:18:24.447Z",
+            "province": "Sumatera Selatan"
+        },
+        {
+            "id": 951,
+            "partai": "BERKARYA",
+            "jumlah_suara": 10092,
+            "updated_at": "2022-10-28T05:18:24.447Z",
+            "province": "Sulawesi Barat"
+        },
+        {
+            "id": 1014,
+            "partai": "GARUDA",
+            "jumlah_suara": 10005,
+            "updated_at": "2022-10-28T05:18:24.447Z",
+            "province": "Sulawesi Utara"
+        },
+        {
+            "id": 848,
+            "partai": "PKPI",
+            "jumlah_suara": 9758,
+            "updated_at": "2022-10-28T05:18:24.447Z",
             "province": "Maluku"
         },
         {
-            "id": 230,
-            "partai": "GARUDA",
-            "jumlah_suara": 4852,
-            "updated_at": "2022-10-27T20:49:24.274Z",
-            "province": "Kalimantan Timur"
+            "id": 1087,
+            "partai": "PBB",
+            "jumlah_suara": 9378,
+            "updated_at": "2022-10-28T05:18:24.447Z",
+            "province": "Yogyakarta"
         },
         {
-            "id": 247,
-            "partai": "BERKARYA",
-            "jumlah_suara": 4851,
-            "updated_at": "2022-10-27T20:49:24.274Z",
+            "id": 797,
+            "partai": "HANURA",
+            "jumlah_suara": 9317,
+            "updated_at": "2022-10-28T05:18:24.447Z",
             "province": "Kalimantan Utara"
         },
         {
-            "id": 223,
+            "id": 895,
             "partai": "PBB",
-            "jumlah_suara": 4759,
-            "updated_at": "2022-10-27T20:49:24.274Z",
+            "jumlah_suara": 9152,
+            "updated_at": "2022-10-28T05:18:24.447Z",
+            "province": "Nusa Tenggara Timur "
+        },
+        {
+            "id": 758,
+            "partai": "GARUDA",
+            "jumlah_suara": 9076,
+            "updated_at": "2022-10-28T05:18:24.447Z",
             "province": "Kalimantan Tengah"
         },
         {
-            "id": 43,
-            "partai": "PSI",
-            "jumlah_suara": 4639,
-            "updated_at": "2022-10-27T20:49:24.274Z",
-            "province": "Bangka-Belitung"
-        },
-        {
-            "id": 251,
-            "partai": "PSI",
-            "jumlah_suara": 4437,
-            "updated_at": "2022-10-27T20:49:24.274Z",
-            "province": "Kalimantan Utara"
-        },
-        {
-            "id": 496,
-            "partai": "PKPI",
-            "jumlah_suara": 4322,
-            "updated_at": "2022-10-27T20:49:24.274Z",
-            "province": "Sumatera Barat"
-        },
-        {
-            "id": 208,
-            "partai": "PKPI",
-            "jumlah_suara": 4312,
-            "updated_at": "2022-10-27T20:49:24.274Z",
-            "province": "Kalimantan Selatan"
-        },
-        {
-            "id": 406,
+            "id": 566,
             "partai": "GARUDA",
-            "jumlah_suara": 4307,
-            "updated_at": "2022-10-27T20:49:24.274Z",
-            "province": "Sulawesi Selatan"
+            "jumlah_suara": 8825,
+            "updated_at": "2022-10-28T05:18:24.447Z",
+            "province": "Bali"
         },
         {
-            "id": 383,
+            "id": 832,
+            "partai": "PKPI",
+            "jumlah_suara": 8699,
+            "updated_at": "2022-10-28T05:18:24.447Z",
+            "province": "Lampung"
+        },
+        {
+            "id": 1078,
+            "partai": "GARUDA",
+            "jumlah_suara": 8675,
+            "updated_at": "2022-10-28T05:18:24.447Z",
+            "province": "Yogyakarta"
+        },
+        {
+            "id": 863,
             "partai": "PBB",
-            "jumlah_suara": 3891,
-            "updated_at": "2022-10-27T20:49:24.274Z",
-            "province": "Papua Barat"
-        },
-        {
-            "id": 480,
-            "partai": "PKPI",
-            "jumlah_suara": 3862,
-            "updated_at": "2022-10-27T20:49:24.274Z",
-            "province": "Sulawesi Utara"
-        },
-        {
-            "id": 262,
-            "partai": "GARUDA",
-            "jumlah_suara": 3790,
-            "updated_at": "2022-10-27T20:49:24.274Z",
-            "province": "Kepulauan Riau"
-        },
-        {
-            "id": 479,
-            "partai": "PBB",
-            "jumlah_suara": 3736,
-            "updated_at": "2022-10-27T20:49:24.274Z",
-            "province": "Sulawesi Utara"
-        },
-        {
-            "id": 38,
-            "partai": "GARUDA",
-            "jumlah_suara": 3722,
-            "updated_at": "2022-10-27T20:49:24.274Z",
-            "province": "Bangka-Belitung"
-        },
-        {
-            "id": 544,
-            "partai": "PKPI",
-            "jumlah_suara": 3667,
-            "updated_at": "2022-10-27T20:49:24.274Z",
-            "province": "DI Yogyakarta"
-        },
-        {
-            "id": 448,
-            "partai": "PKPI",
-            "jumlah_suara": 3657,
-            "updated_at": "2022-10-27T20:49:24.274Z",
-            "province": "Sulawesi Tengah"
-        },
-        {
-            "id": 384,
-            "partai": "PKPI",
-            "jumlah_suara": 3617,
-            "updated_at": "2022-10-27T20:49:24.274Z",
-            "province": "Papua Barat"
-        },
-        {
-            "id": 320,
-            "partai": "PKPI",
-            "jumlah_suara": 3527,
-            "updated_at": "2022-10-27T20:49:24.274Z",
+            "jumlah_suara": 8505,
+            "updated_at": "2022-10-28T05:18:24.447Z",
             "province": "Maluku Utara"
         },
         {
-            "id": 107,
-            "partai": "PSI",
-            "jumlah_suara": 3491,
-            "updated_at": "2022-10-27T20:49:24.274Z",
-            "province": "Gorontalo"
+            "id": 560,
+            "partai": "PKPI",
+            "jumlah_suara": 8471,
+            "updated_at": "2022-10-28T05:18:24.447Z",
+            "province": "Aceh"
         },
         {
-            "id": 32,
-            "partai": "PKPI",
-            "jumlah_suara": 3417,
-            "updated_at": "2022-10-27T20:49:24.274Z",
+            "id": 859,
+            "partai": "PSI",
+            "jumlah_suara": 8425,
+            "updated_at": "2022-10-28T05:18:24.447Z",
+            "province": "Maluku Utara"
+        },
+        {
+            "id": 623,
+            "partai": "PBB",
+            "jumlah_suara": 8210,
+            "updated_at": "2022-10-28T05:18:24.447Z",
+            "province": "Bengkulu"
+        },
+        {
+            "id": 572,
+            "partai": "PAN",
+            "jumlah_suara": 8136,
+            "updated_at": "2022-10-28T05:18:24.447Z",
             "province": "Bali"
         },
         {
-            "id": 374,
-            "partai": "GARUDA",
-            "jumlah_suara": 3391,
-            "updated_at": "2022-10-27T20:49:24.274Z",
+            "id": 922,
+            "partai": "PPP",
+            "jumlah_suara": 8089,
+            "updated_at": "2022-10-28T05:18:24.447Z",
             "province": "Papua Barat"
         },
         {
-            "id": 364,
-            "partai": "PAN",
-            "jumlah_suara": 2995,
-            "updated_at": "2022-10-27T20:49:24.274Z",
-            "province": "Papua"
+            "id": 742,
+            "partai": "GARUDA",
+            "jumlah_suara": 8015,
+            "updated_at": "2022-10-28T05:18:24.447Z",
+            "province": "Kalimantan Selatan"
         },
         {
-            "id": 224,
-            "partai": "PKPI",
-            "jumlah_suara": 2940,
-            "updated_at": "2022-10-27T20:49:24.274Z",
-            "province": "Kalimantan Tengah"
-        },
-        {
-            "id": 240,
-            "partai": "PKPI",
-            "jumlah_suara": 2883,
-            "updated_at": "2022-10-27T20:49:24.274Z",
-            "province": "Kalimantan Timur"
-        },
-        {
-            "id": 128,
-            "partai": "PKPI",
-            "jumlah_suara": 2601,
-            "updated_at": "2022-10-27T20:49:24.274Z",
+            "id": 662,
+            "partai": "GARUDA",
+            "jumlah_suara": 7857,
+            "updated_at": "2022-10-28T05:18:24.447Z",
             "province": "Jambi"
         },
         {
-            "id": 460,
-            "partai": "PAN",
-            "jumlah_suara": 2480,
-            "updated_at": "2022-10-27T20:49:24.274Z",
-            "province": "Sulawesi Tenggara"
-        },
-        {
-            "id": 31,
-            "partai": "PBB",
-            "jumlah_suara": 2445,
-            "updated_at": "2022-10-27T20:49:24.274Z",
-            "province": "Bali"
-        },
-        {
-            "id": 102,
-            "partai": "GARUDA",
-            "jumlah_suara": 2390,
-            "updated_at": "2022-10-27T20:49:24.274Z",
-            "province": "Gorontalo"
-        },
-        {
-            "id": 255,
-            "partai": "PBB",
-            "jumlah_suara": 2239,
-            "updated_at": "2022-10-27T20:49:24.274Z",
+            "id": 793,
+            "partai": "PERINDO",
+            "jumlah_suara": 7725,
+            "updated_at": "2022-10-28T05:18:24.447Z",
             "province": "Kalimantan Utara"
         },
         {
-            "id": 111,
-            "partai": "PBB",
-            "jumlah_suara": 1937,
-            "updated_at": "2022-10-27T20:49:24.274Z",
-            "province": "Gorontalo"
-        },
-        {
-            "id": 48,
+            "id": 976,
             "partai": "PKPI",
-            "jumlah_suara": 1735,
-            "updated_at": "2022-10-27T20:49:24.274Z",
-            "province": "Bangka-Belitung"
-        },
-        {
-            "id": 464,
-            "partai": "PKPI",
-            "jumlah_suara": 1498,
-            "updated_at": "2022-10-27T20:49:24.274Z",
-            "province": "Sulawesi Tenggara"
-        },
-        {
-            "id": 246,
-            "partai": "GARUDA",
-            "jumlah_suara": 1209,
-            "updated_at": "2022-10-27T20:49:24.274Z",
-            "province": "Kalimantan Utara"
-        },
-        {
-            "id": 416,
-            "partai": "PKPI",
-            "jumlah_suara": 1197,
-            "updated_at": "2022-10-27T20:49:24.274Z",
+            "jumlah_suara": 7683,
+            "updated_at": "2022-10-28T05:18:24.447Z",
             "province": "Sulawesi Selatan"
         },
         {
-            "id": 256,
-            "partai": "PKPI",
-            "jumlah_suara": 1008,
-            "updated_at": "2022-10-27T20:49:24.274Z",
-            "province": "Kalimantan Utara"
+            "id": 838,
+            "partai": "GARUDA",
+            "jumlah_suara": 7613,
+            "updated_at": "2022-10-28T05:18:24.447Z",
+            "province": "Maluku"
         },
         {
-            "id": 272,
-            "partai": "PKPI",
-            "jumlah_suara": 994,
-            "updated_at": "2022-10-27T20:49:24.274Z",
+            "id": 614,
+            "partai": "GARUDA",
+            "jumlah_suara": 7582,
+            "updated_at": "2022-10-28T05:18:24.447Z",
+            "province": "Bengkulu"
+        },
+        {
+            "id": 815,
+            "partai": "PBB",
+            "jumlah_suara": 7534,
+            "updated_at": "2022-10-28T05:18:24.447Z",
             "province": "Kepulauan Riau"
         },
         {
-            "id": 112,
+            "id": 653,
+            "partai": "HANURA",
+            "jumlah_suara": 7041,
+            "updated_at": "2022-10-28T05:18:24.447Z",
+            "province": "Gorontalo"
+        },
+        {
+            "id": 1085,
+            "partai": "HANURA",
+            "jumlah_suara": 6987,
+            "updated_at": "2022-10-28T05:18:24.447Z",
+            "province": "Yogyakarta"
+        },
+        {
+            "id": 923,
+            "partai": "PSI",
+            "jumlah_suara": 6919,
+            "updated_at": "2022-10-28T05:18:24.447Z",
+            "province": "Papua Barat"
+        },
+        {
+            "id": 950,
+            "partai": "GARUDA",
+            "jumlah_suara": 6463,
+            "updated_at": "2022-10-28T05:18:24.447Z",
+            "province": "Sulawesi Barat"
+        },
+        {
+            "id": 649,
+            "partai": "PERINDO",
+            "jumlah_suara": 6116,
+            "updated_at": "2022-10-28T05:18:24.447Z",
+            "province": "Gorontalo"
+        },
+        {
+            "id": 944,
+            "partai": "PKPI",
+            "jumlah_suara": 5710,
+            "updated_at": "2022-10-28T05:18:24.447Z",
+            "province": "Riau"
+        },
+        {
+            "id": 1008,
+            "partai": "PKPI",
+            "jumlah_suara": 5155,
+            "updated_at": "2022-10-28T05:18:24.447Z",
+            "province": "Sulawesi Tenggara"
+        },
+        {
+            "id": 847,
+            "partai": "PBB",
+            "jumlah_suara": 5060,
+            "updated_at": "2022-10-28T05:18:24.447Z",
+            "province": "Maluku"
+        },
+        {
+            "id": 774,
+            "partai": "GARUDA",
+            "jumlah_suara": 4852,
+            "updated_at": "2022-10-28T05:18:24.447Z",
+            "province": "Kalimantan Timur"
+        },
+        {
+            "id": 791,
+            "partai": "BERKARYA",
+            "jumlah_suara": 4851,
+            "updated_at": "2022-10-28T05:18:24.447Z",
+            "province": "Kalimantan Utara"
+        },
+        {
+            "id": 767,
+            "partai": "PBB",
+            "jumlah_suara": 4759,
+            "updated_at": "2022-10-28T05:18:24.447Z",
+            "province": "Kalimantan Tengah"
+        },
+        {
+            "id": 587,
+            "partai": "PSI",
+            "jumlah_suara": 4639,
+            "updated_at": "2022-10-28T05:18:24.447Z",
+            "province": "Bangka-Belitung"
+        },
+        {
+            "id": 959,
+            "partai": "PBB",
+            "jumlah_suara": 4510,
+            "updated_at": "2022-10-28T05:18:24.447Z",
+            "province": "Sulawesi Barat"
+        },
+        {
+            "id": 795,
+            "partai": "PSI",
+            "jumlah_suara": 4437,
+            "updated_at": "2022-10-28T05:18:24.447Z",
+            "province": "Kalimantan Utara"
+        },
+        {
+            "id": 1040,
+            "partai": "PKPI",
+            "jumlah_suara": 4322,
+            "updated_at": "2022-10-28T05:18:24.447Z",
+            "province": "Sumatera Barat"
+        },
+        {
+            "id": 752,
+            "partai": "PKPI",
+            "jumlah_suara": 4312,
+            "updated_at": "2022-10-28T05:18:24.447Z",
+            "province": "Kalimantan Selatan"
+        },
+        {
+            "id": 955,
+            "partai": "PSI",
+            "jumlah_suara": 4055,
+            "updated_at": "2022-10-28T05:18:24.447Z",
+            "province": "Sulawesi Barat"
+        },
+        {
+            "id": 927,
+            "partai": "PBB",
+            "jumlah_suara": 3891,
+            "updated_at": "2022-10-28T05:18:24.447Z",
+            "province": "Papua Barat"
+        },
+        {
+            "id": 1024,
+            "partai": "PKPI",
+            "jumlah_suara": 3862,
+            "updated_at": "2022-10-28T05:18:24.447Z",
+            "province": "Sulawesi Utara"
+        },
+        {
+            "id": 806,
+            "partai": "GARUDA",
+            "jumlah_suara": 3790,
+            "updated_at": "2022-10-28T05:18:24.447Z",
+            "province": "Kepulauan Riau"
+        },
+        {
+            "id": 1023,
+            "partai": "PBB",
+            "jumlah_suara": 3736,
+            "updated_at": "2022-10-28T05:18:24.447Z",
+            "province": "Sulawesi Utara"
+        },
+        {
+            "id": 582,
+            "partai": "GARUDA",
+            "jumlah_suara": 3722,
+            "updated_at": "2022-10-28T05:18:24.447Z",
+            "province": "Bangka-Belitung"
+        },
+        {
+            "id": 1088,
+            "partai": "PKPI",
+            "jumlah_suara": 3667,
+            "updated_at": "2022-10-28T05:18:24.447Z",
+            "province": "Yogyakarta"
+        },
+        {
+            "id": 992,
+            "partai": "PKPI",
+            "jumlah_suara": 3657,
+            "updated_at": "2022-10-28T05:18:24.447Z",
+            "province": "Sulawesi Tengah"
+        },
+        {
+            "id": 928,
+            "partai": "PKPI",
+            "jumlah_suara": 3617,
+            "updated_at": "2022-10-28T05:18:24.447Z",
+            "province": "Papua Barat"
+        },
+        {
+            "id": 864,
+            "partai": "PKPI",
+            "jumlah_suara": 3527,
+            "updated_at": "2022-10-28T05:18:24.447Z",
+            "province": "Maluku Utara"
+        },
+        {
+            "id": 651,
+            "partai": "PSI",
+            "jumlah_suara": 3491,
+            "updated_at": "2022-10-28T05:18:24.447Z",
+            "province": "Gorontalo"
+        },
+        {
+            "id": 576,
+            "partai": "PKPI",
+            "jumlah_suara": 3417,
+            "updated_at": "2022-10-28T05:18:24.447Z",
+            "province": "Bali"
+        },
+        {
+            "id": 918,
+            "partai": "GARUDA",
+            "jumlah_suara": 3391,
+            "updated_at": "2022-10-28T05:18:24.447Z",
+            "province": "Papua Barat"
+        },
+        {
+            "id": 908,
+            "partai": "PAN",
+            "jumlah_suara": 2995,
+            "updated_at": "2022-10-28T05:18:24.447Z",
+            "province": "Papua"
+        },
+        {
+            "id": 768,
+            "partai": "PKPI",
+            "jumlah_suara": 2940,
+            "updated_at": "2022-10-28T05:18:24.447Z",
+            "province": "Kalimantan Tengah"
+        },
+        {
+            "id": 784,
+            "partai": "PKPI",
+            "jumlah_suara": 2883,
+            "updated_at": "2022-10-28T05:18:24.447Z",
+            "province": "Kalimantan Timur"
+        },
+        {
+            "id": 672,
+            "partai": "PKPI",
+            "jumlah_suara": 2601,
+            "updated_at": "2022-10-28T05:18:24.447Z",
+            "province": "Jambi"
+        },
+        {
+            "id": 575,
+            "partai": "PBB",
+            "jumlah_suara": 2445,
+            "updated_at": "2022-10-28T05:18:24.447Z",
+            "province": "Bali"
+        },
+        {
+            "id": 646,
+            "partai": "GARUDA",
+            "jumlah_suara": 2390,
+            "updated_at": "2022-10-28T05:18:24.447Z",
+            "province": "Gorontalo"
+        },
+        {
+            "id": 799,
+            "partai": "PBB",
+            "jumlah_suara": 2239,
+            "updated_at": "2022-10-28T05:18:24.447Z",
+            "province": "Kalimantan Utara"
+        },
+        {
+            "id": 655,
+            "partai": "PBB",
+            "jumlah_suara": 1937,
+            "updated_at": "2022-10-28T05:18:24.447Z",
+            "province": "Gorontalo"
+        },
+        {
+            "id": 592,
+            "partai": "PKPI",
+            "jumlah_suara": 1735,
+            "updated_at": "2022-10-28T05:18:24.447Z",
+            "province": "Bangka-Belitung"
+        },
+        {
+            "id": 960,
+            "partai": "PKPI",
+            "jumlah_suara": 1541,
+            "updated_at": "2022-10-28T05:18:24.447Z",
+            "province": "Sulawesi Barat"
+        },
+        {
+            "id": 790,
+            "partai": "GARUDA",
+            "jumlah_suara": 1209,
+            "updated_at": "2022-10-28T05:18:24.447Z",
+            "province": "Kalimantan Utara"
+        },
+        {
+            "id": 800,
+            "partai": "PKPI",
+            "jumlah_suara": 1008,
+            "updated_at": "2022-10-28T05:18:24.447Z",
+            "province": "Kalimantan Utara"
+        },
+        {
+            "id": 816,
+            "partai": "PKPI",
+            "jumlah_suara": 994,
+            "updated_at": "2022-10-28T05:18:24.447Z",
+            "province": "Kepulauan Riau"
+        },
+        {
+            "id": 977,
+            "partai": "PKB",
+            "jumlah_suara": 959,
+            "updated_at": "2022-10-28T05:18:24.447Z",
+            "province": "Sulawesi Tengah"
+        },
+        {
+            "id": 656,
             "partai": "PKPI",
             "jumlah_suara": 590,
-            "updated_at": "2022-10-27T20:49:24.274Z",
+            "updated_at": "2022-10-28T05:18:24.447Z",
             "province": "Gorontalo"
         }
     ]
