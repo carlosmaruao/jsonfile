@@ -1,0 +1,182 @@
+{
+    "message": "successfuly",
+    "status": 200,
+    "success": true,
+    "data": [
+    {
+        "id": 1,
+        "userId": 1,
+        "department": "Sales",
+        "salary": 10144314,
+        "hireDate": "2024-01-07"
+    },
+    {
+        "id": 2,
+        "userId": 2,
+        "department": "IT",
+        "salary": 4810768,
+        "hireDate": "2020-01-17"
+    },
+    {
+        "id": 3,
+        "userId": 3,
+        "department": "Finance",
+        "salary": 18996080,
+        "hireDate": "2017-05-30"
+    },
+    {
+        "id": 4,
+        "userId": 4,
+        "department": "Marketing",
+        "salary": 8172321,
+        "hireDate": "2019-01-06"
+    },
+    {
+        "id": 5,
+        "userId": 5,
+        "department": "HR",
+        "salary": 10123484,
+        "hireDate": "2020-09-22"
+    },
+    {
+        "id": 6,
+        "userId": 6,
+        "department": "Marketing",
+        "salary": 18767373,
+        "hireDate": "2016-04-06"
+    },
+    {
+        "id": 7,
+        "userId": 7,
+        "department": "Sales",
+        "salary": 13505696,
+        "hireDate": "2019-01-12"
+    },
+    {
+        "id": 8,
+        "userId": 8,
+        "department": "Finance",
+        "salary": 13476769,
+        "hireDate": "2024-06-23"
+    },
+    {
+        "id": 9,
+        "userId": 9,
+        "department": "HR",
+        "salary": 12046846,
+        "hireDate": "2019-11-01"
+    },
+    {
+        "id": 10,
+        "userId": 10,
+        "department": "Finance",
+        "salary": 16031594,
+        "hireDate": "2015-11-25"
+    },
+    {
+        "id": 11,
+        "userId": 11,
+        "department": "Finance",
+        "salary": 22874284,
+        "hireDate": "2020-08-20"
+    },
+    {
+        "id": 12,
+        "userId": 12,
+        "department": "Sales",
+        "salary": 7554707,
+        "hireDate": "2021-02-01"
+    },
+    {
+        "id": 13,
+        "userId": 13,
+        "department": "Finance",
+        "salary": 5334983,
+        "hireDate": "2020-05-16"
+    },
+    {
+        "id": 14,
+        "userId": 14,
+        "department": "IT",
+        "salary": 4912208,
+        "hireDate": "2016-04-13"
+    },
+    {
+        "id": 15,
+        "userId": 15,
+        "department": "IT",
+        "salary": 20921242,
+        "hireDate": "2015-12-18"
+    },
+    {
+        "id": 16,
+        "userId": 16,
+        "department": "Sales",
+        "salary": 10833560,
+        "hireDate": "2017-12-03"
+    },
+    {
+        "id": 17,
+        "userId": 17,
+        "department": "HR",
+        "salary": 6838895,
+        "hireDate": "2024-12-09"
+    },
+    {
+        "id": 18,
+        "userId": 18,
+        "department": "HR",
+        "salary": 11197135,
+        "hireDate": "2023-09-14"
+    },
+    {
+        "id": 19,
+        "userId": 19,
+        "department": "IT",
+        "salary": 20941410,
+        "hireDate": "2021-06-26"
+    },
+    {
+        "id": 20,
+        "userId": 20,
+        "department": "Finance",
+        "salary": 9954214,
+        "hireDate": "2022-09-29"
+    },
+    {
+        "id": 21,
+        "userId": 21,
+        "department": "Marketing",
+        "salary": 7642691,
+        "hireDate": "2020-04-05"
+    },
+    {
+        "id": 22,
+        "userId": 22,
+        "department": "HR",
+        "salary": 9618598,
+        "hireDate": "2025-05-31"
+    },
+    {
+        "id": 23,
+        "userId": 23,
+        "department": "Finance",
+        "salary": 9626866,
+        "hireDate": "2019-06-30"
+    },
+    {
+        "id": 24,
+        "userId": 24,
+        "department": "Sales",
+        "salary": 18133864,
+        "hireDate": "2021-08-23"
+    },
+    {
+        "id": 25,
+        "userId": 25,
+        "department": "Sales",
+        "salary": 19442793,
+        "hireDate": "2017-08-13"
+    }
+]
+}

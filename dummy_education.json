@@ -1,0 +1,399 @@
+{
+    "message": "successfuly",
+    "status": 200,
+    "success": true,
+    "data": [
+    {
+        "id": 1,
+        "employeeId": 1,
+        "degree": "S3",
+        "institution": "Ferry - Emard",
+        "major": "Data",
+        "yearGraduated": 2023
+    },
+    {
+        "id": 2,
+        "employeeId": 2,
+        "degree": "S3",
+        "institution": "Pfeffer - Kertzmann",
+        "major": "Optimization",
+        "yearGraduated": 2013
+    },
+    {
+        "id": 3,
+        "employeeId": 3,
+        "degree": "SMA",
+        "institution": "Trantow, Weber and McLaughlin",
+        "major": "Accounts",
+        "yearGraduated": 2012
+    },
+    {
+        "id": 4,
+        "employeeId": 4,
+        "degree": "D3",
+        "institution": "Price, Stiedemann and Herman",
+        "major": "Web",
+        "yearGraduated": 2020
+    },
+    {
+        "id": 5,
+        "employeeId": 4,
+        "degree": "SMA",
+        "institution": "Effertz - O'Conner",
+        "major": "Intranet",
+        "yearGraduated": 2024
+    },
+    {
+        "id": 6,
+        "employeeId": 4,
+        "degree": "S1",
+        "institution": "Watsica - Hansen",
+        "major": "Factors",
+        "yearGraduated": 2023
+    },
+    {
+        "id": 7,
+        "employeeId": 5,
+        "degree": "S1",
+        "institution": "Kub - Rogahn",
+        "major": "Division",
+        "yearGraduated": 2001
+    },
+    {
+        "id": 8,
+        "employeeId": 6,
+        "degree": "SMA",
+        "institution": "MacGyver - Flatley",
+        "major": "Implementation",
+        "yearGraduated": 2019
+    },
+    {
+        "id": 9,
+        "employeeId": 7,
+        "degree": "S2",
+        "institution": "O'Reilly LLC",
+        "major": "Intranet",
+        "yearGraduated": 2017
+    },
+    {
+        "id": 10,
+        "employeeId": 7,
+        "degree": "SMA",
+        "institution": "Nikolaus, Howe and Bailey",
+        "major": "Security",
+        "yearGraduated": 2002
+    },
+    {
+        "id": 11,
+        "employeeId": 7,
+        "degree": "S1",
+        "institution": "Orn, Walter and Jast",
+        "major": "Division",
+        "yearGraduated": 2001
+    },
+    {
+        "id": 12,
+        "employeeId": 8,
+        "degree": "S3",
+        "institution": "Corwin - Bayer",
+        "major": "Marketing",
+        "yearGraduated": 2009
+    },
+    {
+        "id": 13,
+        "employeeId": 8,
+        "degree": "S1",
+        "institution": "Bogan - Tillman",
+        "major": "Operations",
+        "yearGraduated": 2009
+    },
+    {
+        "id": 14,
+        "employeeId": 9,
+        "degree": "S3",
+        "institution": "Yundt, Lakin and Kuphal",
+        "major": "Division",
+        "yearGraduated": 2018
+    },
+    {
+        "id": 15,
+        "employeeId": 9,
+        "degree": "S2",
+        "institution": "Zieme - Larkin",
+        "major": "Accountability",
+        "yearGraduated": 2002
+    },
+    {
+        "id": 16,
+        "employeeId": 9,
+        "degree": "D3",
+        "institution": "Dare Group",
+        "major": "Usability",
+        "yearGraduated": 2004
+    },
+    {
+        "id": 17,
+        "employeeId": 10,
+        "degree": "S1",
+        "institution": "Bernier, Sanford and Konopelski",
+        "major": "Security",
+        "yearGraduated": 2020
+    },
+    {
+        "id": 18,
+        "employeeId": 10,
+        "degree": "S1",
+        "institution": "Rohan, Yost and Bernier",
+        "major": "Paradigm",
+        "yearGraduated": 2009
+    },
+    {
+        "id": 19,
+        "employeeId": 11,
+        "degree": "D3",
+        "institution": "Lebsack - Mohr",
+        "major": "Applications",
+        "yearGraduated": 2010
+    },
+    {
+        "id": 20,
+        "employeeId": 11,
+        "degree": "SMA",
+        "institution": "Lueilwitz - Purdy",
+        "major": "Implementation",
+        "yearGraduated": 2023
+    },
+    {
+        "id": 21,
+        "employeeId": 11,
+        "degree": "S1",
+        "institution": "Grady Group",
+        "major": "Paradigm",
+        "yearGraduated": 2001
+    },
+    {
+        "id": 22,
+        "employeeId": 12,
+        "degree": "S2",
+        "institution": "Wolff and Sons",
+        "major": "Paradigm",
+        "yearGraduated": 2020
+    },
+    {
+        "id": 23,
+        "employeeId": 12,
+        "degree": "S1",
+        "institution": "Cruickshank, O'Hara and Hills",
+        "major": "Accounts",
+        "yearGraduated": 2024
+    },
+    {
+        "id": 24,
+        "employeeId": 12,
+        "degree": "S1",
+        "institution": "Howe, Swaniawski and Corkery",
+        "major": "Paradigm",
+        "yearGraduated": 2024
+    },
+    {
+        "id": 25,
+        "employeeId": 13,
+        "degree": "S2",
+        "institution": "Olson LLC",
+        "major": "Data",
+        "yearGraduated": 2018
+    },
+    {
+        "id": 26,
+        "employeeId": 14,
+        "degree": "D3",
+        "institution": "Lebsack, Pacocha and Hansen",
+        "major": "Communications",
+        "yearGraduated": 2014
+    },
+    {
+        "id": 27,
+        "employeeId": 15,
+        "degree": "S3",
+        "institution": "Wyman and Sons",
+        "major": "Markets",
+        "yearGraduated": 2009
+    },
+    {
+        "id": 28,
+        "employeeId": 16,
+        "degree": "S1",
+        "institution": "Lang, Ullrich and Kiehn",
+        "major": "Paradigm",
+        "yearGraduated": 2010
+    },
+    {
+        "id": 29,
+        "employeeId": 17,
+        "degree": "S2",
+        "institution": "Buckridge LLC",
+        "major": "Accountability",
+        "yearGraduated": 2003
+    },
+    {
+        "id": 30,
+        "employeeId": 18,
+        "degree": "S3",
+        "institution": "Daniel - Connelly",
+        "major": "Intranet",
+        "yearGraduated": 2005
+    },
+    {
+        "id": 31,
+        "employeeId": 19,
+        "degree": "S2",
+        "institution": "Harvey - Kozey",
+        "major": "Usability",
+        "yearGraduated": 2008
+    },
+    {
+        "id": 32,
+        "employeeId": 19,
+        "degree": "S3",
+        "institution": "Kertzmann LLC",
+        "major": "Response",
+        "yearGraduated": 2001
+    },
+    {
+        "id": 33,
+        "employeeId": 19,
+        "degree": "S3",
+        "institution": "Cummerata LLC",
+        "major": "Data",
+        "yearGraduated": 2013
+    },
+    {
+        "id": 34,
+        "employeeId": 20,
+        "degree": "S2",
+        "institution": "O'Connell - Lebsack",
+        "major": "Group",
+        "yearGraduated": 2001
+    },
+    {
+        "id": 35,
+        "employeeId": 20,
+        "degree": "S3",
+        "institution": "Leffler - Balistreri",
+        "major": "Branding",
+        "yearGraduated": 2019
+    },
+    {
+        "id": 36,
+        "employeeId": 21,
+        "degree": "S3",
+        "institution": "Davis and Sons",
+        "major": "Configuration",
+        "yearGraduated": 2019
+    },
+    {
+        "id": 37,
+        "employeeId": 21,
+        "degree": "D3",
+        "institution": "Roberts - Donnelly",
+        "major": "Functionality",
+        "yearGraduated": 2013
+    },
+    {
+        "id": 38,
+        "employeeId": 21,
+        "degree": "S2",
+        "institution": "Yost, Zemlak and Marquardt",
+        "major": "Security",
+        "yearGraduated": 2014
+    },
+    {
+        "id": 39,
+        "employeeId": 22,
+        "degree": "S1",
+        "institution": "Macejkovic - Buckridge",
+        "major": "Division",
+        "yearGraduated": 2008
+    },
+    {
+        "id": 40,
+        "employeeId": 22,
+        "degree": "SMA",
+        "institution": "Raynor - Lubowitz",
+        "major": "Web",
+        "yearGraduated": 2003
+    },
+    {
+        "id": 41,
+        "employeeId": 22,
+        "degree": "S1",
+        "institution": "Moore, Zulauf and Dooley",
+        "major": "Assurance",
+        "yearGraduated": 2024
+    },
+    {
+        "id": 42,
+        "employeeId": 23,
+        "degree": "S3",
+        "institution": "Jenkins LLC",
+        "major": "Communications",
+        "yearGraduated": 2015
+    },
+    {
+        "id": 43,
+        "employeeId": 23,
+        "degree": "S1",
+        "institution": "Powlowski - Olson",
+        "major": "Paradigm",
+        "yearGraduated": 2004
+    },
+    {
+        "id": 44,
+        "employeeId": 23,
+        "degree": "SMA",
+        "institution": "Langworth, Mraz and Klein",
+        "major": "Infrastructure",
+        "yearGraduated": 2007
+    },
+    {
+        "id": 45,
+        "employeeId": 24,
+        "degree": "SMA",
+        "institution": "Witting, Marks and Mann",
+        "major": "Accountability",
+        "yearGraduated": 2003
+    },
+    {
+        "id": 46,
+        "employeeId": 24,
+        "degree": "D3",
+        "institution": "Gibson, Emmerich and Ebert",
+        "major": "Interactions",
+        "yearGraduated": 2022
+    },
+    {
+        "id": 47,
+        "employeeId": 25,
+        "degree": "D3",
+        "institution": "Kutch and Sons",
+        "major": "Quality",
+        "yearGraduated": 2024
+    },
+    {
+        "id": 48,
+        "employeeId": 25,
+        "degree": "SMA",
+        "institution": "Bradtke, Schulist and Strosin",
+        "major": "Quality",
+        "yearGraduated": 2019
+    },
+    {
+        "id": 49,
+        "employeeId": 25,
+        "degree": "S2",
+        "institution": "Crist and Sons",
+        "major": "Intranet",
+        "yearGraduated": 2007
+    }
+]
+}
