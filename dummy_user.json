@@ -1,0 +1,157 @@
+{
+    "message": "successfuly",
+    "status": 200,
+    "success": true,
+    "data": [
+        {
+            "id": 1,
+            "username": "enoch.littel22",
+            "email": "kaleigh.abernathy@gmail.com",
+            "employeeId": 1
+        },
+        {
+            "id": 2,
+            "username": "sandrine_littel64",
+            "email": "houston.jacobson38@hotmail.com",
+            "employeeId": 2
+        },
+        {
+            "id": 3,
+            "username": "khalil93",
+            "email": "tina74@hotmail.com",
+            "employeeId": 3
+        },
+        {
+            "id": 4,
+            "username": "rodger_grady",
+            "email": "lenna_jacobs@hotmail.com",
+            "employeeId": 4
+        },
+        {
+            "id": 5,
+            "username": "jackson.lindgren",
+            "email": "beaulah.schmeler@hotmail.com",
+            "employeeId": 5
+        },
+        {
+            "id": 6,
+            "username": "carmel10",
+            "email": "austen47@yahoo.com",
+            "employeeId": 6
+        },
+        {
+            "id": 7,
+            "username": "dorris_ward",
+            "email": "eduardo88@yahoo.com",
+            "employeeId": 7
+        },
+        {
+            "id": 8,
+            "username": "ronny25",
+            "email": "elenora_okon@yahoo.com",
+            "employeeId": 8
+        },
+        {
+            "id": 9,
+            "username": "madie.funk99",
+            "email": "oliver43@gmail.com",
+            "employeeId": 9
+        },
+        {
+            "id": 10,
+            "username": "freeman_ratke47",
+            "email": "reinhold.daugherty89@hotmail.com",
+            "employeeId": 10
+        },
+        {
+            "id": 11,
+            "username": "gabriel18",
+            "email": "kip_murphy@hotmail.com",
+            "employeeId": 11
+        },
+        {
+            "id": 12,
+            "username": "paul_kassulke-cremin",
+            "email": "roxanne_herman91@gmail.com",
+            "employeeId": 12
+        },
+        {
+            "id": 13,
+            "username": "leonardo_zieme71",
+            "email": "gia83@gmail.com",
+            "employeeId": 13
+        },
+        {
+            "id": 14,
+            "username": "santos.harber",
+            "email": "angelica96@hotmail.com",
+            "employeeId": 14
+        },
+        {
+            "id": 15,
+            "username": "armani.schaefer",
+            "email": "nat_witting75@yahoo.com",
+            "employeeId": 15
+        },
+        {
+            "id": 16,
+            "username": "shea.gulgowski",
+            "email": "sophia_connelly@hotmail.com",
+            "employeeId": 16
+        },
+        {
+            "id": 17,
+            "username": "yasmin_roob",
+            "email": "demetrius_stiedemann33@yahoo.com",
+            "employeeId": 17
+        },
+        {
+            "id": 18,
+            "username": "kiley.schmidt",
+            "email": "casimir_huels51@gmail.com",
+            "employeeId": 18
+        },
+        {
+            "id": 19,
+            "username": "jeanette.terry21",
+            "email": "isac.leannon@hotmail.com",
+            "employeeId": 19
+        },
+        {
+            "id": 20,
+            "username": "justina62",
+            "email": "sedrick_gulgowski@yahoo.com",
+            "employeeId": 20
+        },
+        {
+            "id": 21,
+            "username": "elwyn_kutch",
+            "email": "destin.walter18@hotmail.com",
+            "employeeId": 21
+        },
+        {
+            "id": 22,
+            "username": "troy.bahringer",
+            "email": "christelle_mclaughlin@gmail.com",
+            "employeeId": 22
+        },
+        {
+            "id": 23,
+            "username": "dorothy_schmeler-parker11",
+            "email": "wellington.wintheiser@yahoo.com",
+            "employeeId": 23
+        },
+        {
+            "id": 24,
+            "username": "maida_harris69",
+            "email": "rod_schmeler90@hotmail.com",
+            "employeeId": 24
+        },
+        {
+            "id": 25,
+            "username": "maritza.jones12",
+            "email": "noemy.kunde@gmail.com",
+            "employeeId": 25
+        }
+    ]
+}
