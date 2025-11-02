@@ -1,0 +1,436 @@
+{
+    "message": "successfuly",
+    "status": 200,
+    "success": true,
+    "data": [
+        {
+            "database": "umkm_db",
+            "tables": [
+                {
+                    "name": "users",
+                    "columns": [
+                        {
+                            "name": "user_id",
+                            "type": "INT",
+                            "primary_key": true,
+                            "auto_increment": true
+                        },
+                        {
+                            "name": "username",
+                            "type": "VARCHAR(50)",
+                            "unique": true,
+                            "not_null": true
+                        },
+                        {
+                            "name": "password_hash",
+                            "type": "VARCHAR(255)",
+                            "not_null": true
+                        },
+                        {
+                            "name": "role",
+                            "type": "ENUM('admin','kasir','pemilik','gudang')",
+                            "default": "kasir"
+                        },
+                        {
+                            "name": "nama_lengkap",
+                            "type": "VARCHAR(100)"
+                        },
+                        {
+                            "name": "email",
+                            "type": "VARCHAR(100)"
+                        },
+                        {
+                            "name": "no_telp",
+                            "type": "VARCHAR(20)"
+                        },
+                        {
+                            "name": "created_at",
+                            "type": "DATETIME",
+                            "default": "CURRENT_TIMESTAMP"
+                        },
+                        {
+                            "name": "updated_at",
+                            "type": "DATETIME",
+                            "default": "CURRENT_TIMESTAMP ON UPDATE CURRENT_TIMESTAMP"
+                        }
+                    ]
+                },
+                {
+                    "name": "pelanggan",
+                    "columns": [
+                        {
+                            "name": "pelanggan_id",
+                            "type": "INT",
+                            "primary_key": true,
+                            "auto_increment": true
+                        },
+                        {
+                            "name": "nama",
+                            "type": "VARCHAR(100)",
+                            "not_null": true
+                        },
+                        {
+                            "name": "alamat",
+                            "type": "TEXT"
+                        },
+                        {
+                            "name": "no_telp",
+                            "type": "VARCHAR(20)"
+                        },
+                        {
+                            "name": "email",
+                            "type": "VARCHAR(100)"
+                        },
+                        {
+                            "name": "tipe",
+                            "type": "ENUM('umum','member')",
+                            "default": "umum"
+                        },
+                        {
+                            "name": "created_at",
+                            "type": "DATETIME",
+                            "default": "CURRENT_TIMESTAMP"
+                        }
+                    ]
+                },
+                {
+                    "name": "pemasok",
+                    "columns": [
+                        {
+                            "name": "pemasok_id",
+                            "type": "INT",
+                            "primary_key": true,
+                            "auto_increment": true
+                        },
+                        {
+                            "name": "nama",
+                            "type": "VARCHAR(100)",
+                            "not_null": true
+                        },
+                        {
+                            "name": "kontak",
+                            "type": "VARCHAR(100)"
+                        },
+                        {
+                            "name": "no_telp",
+                            "type": "VARCHAR(20)"
+                        },
+                        {
+                            "name": "email",
+                            "type": "VARCHAR(100)"
+                        },
+                        {
+                            "name": "alamat",
+                            "type": "TEXT"
+                        }
+                    ]
+                },
+                {
+                    "name": "kategori_produk",
+                    "columns": [
+                        {
+                            "name": "kategori_id",
+                            "type": "INT",
+                            "primary_key": true,
+                            "auto_increment": true
+                        },
+                        {
+                            "name": "nama_kategori",
+                            "type": "VARCHAR(100)",
+                            "not_null": true
+                        },
+                        {
+                            "name": "deskripsi",
+                            "type": "TEXT"
+                        }
+                    ]
+                },
+                {
+                    "name": "produk",
+                    "columns": [
+                        {
+                            "name": "produk_id",
+                            "type": "INT",
+                            "primary_key": true,
+                            "auto_increment": true
+                        },
+                        {
+                            "name": "nama_produk",
+                            "type": "VARCHAR(100)",
+                            "not_null": true
+                        },
+                        {
+                            "name": "kategori_id",
+                            "type": "INT",
+                            "foreign_key": "kategori_produk.kategori_id"
+                        },
+                        {
+                            "name": "kode_produk",
+                            "type": "VARCHAR(50)",
+                            "unique": true
+                        },
+                        {
+                            "name": "harga_beli",
+                            "type": "DECIMAL(15,2)",
+                            "default": 0
+                        },
+                        {
+                            "name": "harga_jual",
+                            "type": "DECIMAL(15,2)",
+                            "default": 0
+                        },
+                        {
+                            "name": "stok",
+                            "type": "INT",
+                            "default": 0
+                        },
+                        {
+                            "name": "satuan",
+                            "type": "VARCHAR(20)"
+                        },
+                        {
+                            "name": "deskripsi",
+                            "type": "TEXT"
+                        },
+                        {
+                            "name": "created_at",
+                            "type": "DATETIME",
+                            "default": "CURRENT_TIMESTAMP"
+                        }
+                    ]
+                },
+                {
+                    "name": "penjualan",
+                    "columns": [
+                        {
+                            "name": "penjualan_id",
+                            "type": "INT",
+                            "primary_key": true,
+                            "auto_increment": true
+                        },
+                        {
+                            "name": "tanggal",
+                            "type": "DATETIME",
+                            "default": "CURRENT_TIMESTAMP"
+                        },
+                        {
+                            "name": "pelanggan_id",
+                            "type": "INT",
+                            "foreign_key": "pelanggan.pelanggan_id"
+                        },
+                        {
+                            "name": "user_id",
+                            "type": "INT",
+                            "foreign_key": "users.user_id"
+                        },
+                        {
+                            "name": "total",
+                            "type": "DECIMAL(15,2)",
+                            "default": 0
+                        },
+                        {
+                            "name": "bayar",
+                            "type": "DECIMAL(15,2)",
+                            "default": 0
+                        },
+                        {
+                            "name": "kembalian",
+                            "type": "DECIMAL(15,2)",
+                            "default": 0
+                        },
+                        {
+                            "name": "metode_bayar",
+                            "type": "ENUM('tunai','transfer','ewallet')",
+                            "default": "tunai"
+                        }
+                    ]
+                },
+                {
+                    "name": "penjualan_detail",
+                    "columns": [
+                        {
+                            "name": "detail_id",
+                            "type": "INT",
+                            "primary_key": true,
+                            "auto_increment": true
+                        },
+                        {
+                            "name": "penjualan_id",
+                            "type": "INT",
+                            "foreign_key": "penjualan.penjualan_id"
+                        },
+                        {
+                            "name": "produk_id",
+                            "type": "INT",
+                            "foreign_key": "produk.produk_id"
+                        },
+                        {
+                            "name": "jumlah",
+                            "type": "INT",
+                            "default": 1
+                        },
+                        {
+                            "name": "harga",
+                            "type": "DECIMAL(15,2)",
+                            "default": 0
+                        },
+                        {
+                            "name": "subtotal",
+                            "type": "DECIMAL(15,2)",
+                            "default": 0
+                        }
+                    ]
+                },
+                {
+                    "name": "pembelian",
+                    "columns": [
+                        {
+                            "name": "pembelian_id",
+                            "type": "INT",
+                            "primary_key": true,
+                            "auto_increment": true
+                        },
+                        {
+                            "name": "tanggal",
+                            "type": "DATETIME",
+                            "default": "CURRENT_TIMESTAMP"
+                        },
+                        {
+                            "name": "pemasok_id",
+                            "type": "INT",
+                            "foreign_key": "pemasok.pemasok_id"
+                        },
+                        {
+                            "name": "user_id",
+                            "type": "INT",
+                            "foreign_key": "users.user_id"
+                        },
+                        {
+                            "name": "total",
+                            "type": "DECIMAL(15,2)",
+                            "default": 0
+                        },
+                        {
+                            "name": "status",
+                            "type": "ENUM('lunas','belum lunas')",
+                            "default": "belum lunas"
+                        }
+                    ]
+                },
+                {
+                    "name": "pembelian_detail",
+                    "columns": [
+                        {
+                            "name": "detail_id",
+                            "type": "INT",
+                            "primary_key": true,
+                            "auto_increment": true
+                        },
+                        {
+                            "name": "pembelian_id",
+                            "type": "INT",
+                            "foreign_key": "pembelian.pembelian_id"
+                        },
+                        {
+                            "name": "produk_id",
+                            "type": "INT",
+                            "foreign_key": "produk.produk_id"
+                        },
+                        {
+                            "name": "jumlah",
+                            "type": "INT",
+                            "default": 1
+                        },
+                        {
+                            "name": "harga",
+                            "type": "DECIMAL(15,2)",
+                            "default": 0
+                        },
+                        {
+                            "name": "subtotal",
+                            "type": "DECIMAL(15,2)",
+                            "default": 0
+                        }
+                    ]
+                },
+                {
+                    "name": "kas_transaksi",
+                    "columns": [
+                        {
+                            "name": "kas_id",
+                            "type": "INT",
+                            "primary_key": true,
+                            "auto_increment": true
+                        },
+                        {
+                            "name": "tanggal",
+                            "type": "DATETIME",
+                            "default": "CURRENT_TIMESTAMP"
+                        },
+                        {
+                            "name": "tipe",
+                            "type": "ENUM('masuk','keluar')",
+                            "not_null": true
+                        },
+                        {
+                            "name": "keterangan",
+                            "type": "TEXT"
+                        },
+                        {
+                            "name": "jumlah",
+                            "type": "DECIMAL(15,2)",
+                            "default": 0
+                        },
+                        {
+                            "name": "user_id",
+                            "type": "INT",
+                            "foreign_key": "users.user_id"
+                        },
+                        {
+                            "name": "referensi",
+                            "type": "VARCHAR(50)"
+                        }
+                    ]
+                },
+                {
+                    "name": "karyawan",
+                    "columns": [
+                        {
+                            "name": "karyawan_id",
+                            "type": "INT",
+                            "primary_key": true,
+                            "auto_increment": true
+                        },
+                        {
+                            "name": "nama",
+                            "type": "VARCHAR(100)",
+                            "not_null": true
+                        },
+                        {
+                            "name": "jabatan",
+                            "type": "VARCHAR(50)"
+                        },
+                        {
+                            "name": "gaji_pokok",
+                            "type": "DECIMAL(15,2)",
+                            "default": 0
+                        },
+                        {
+                            "name": "no_telp",
+                            "type": "VARCHAR(20)"
+                        },
+                        {
+                            "name": "alamat",
+                            "type": "TEXT"
+                        },
+                        {
+                            "name": "tanggal_masuk",
+                            "type": "DATE",
+                            "default": "CURRENT_DATE"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}
